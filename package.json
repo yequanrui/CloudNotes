@@ -1,0 +1,17 @@
+{
+  "name": "cloud-notes",
+  "version": "1.0.0",
+  "description": "Take notes anywhere",
+  "main": "index.js",
+  "scripts": {
+    "doc": "docsify serve docs"
+  },
+  "keywords": [
+    "notes"
+  ],
+  "author": "yequanrui",
+  "license": "ISC",
+  "devDependencies": {
+    "docsify-cli": "^4.4.3"
+  }
+}
