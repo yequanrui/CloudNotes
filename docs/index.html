@@ -5,8 +5,9 @@
   <meta charset="UTF-8">
   <title>CloudNotes</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="CloudNotes">
+  <link rel="shortcut icon" href="favicon.ico">
   <!-- 主题 -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/buble.css"> -->
@@ -19,6 +20,10 @@
   <div data-app id="main">Loading...</div>
   <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
   <script>
+    const repoUrl = 'https://github.com/yequanrui/CloudNotes';
+    const pageUrl = 'https://yequanrui.github.io/CloudNotes/';
+    const editPath = repoUrl + '/blob/main/';
+    const editMsg = '📝 Edit on GitHub';
     window.$docsify = {
       el: '#main',
       // 自定义封面
@@ -36,10 +41,10 @@
       // 自定义侧边栏
       loadSidebar: '_sidebar.md',
       // logo和name和图标二选一
-      name: 'CloudNotes📚',
+      name: '📚CloudNotes',
       // logo: '/img/logo.svg',
       // 侧边栏顶部标题或logo链接
-      nameLink: 'https://yequanrui.github.io/CloudNotes/',
+      nameLink: pageUrl,
       // 侧边栏目录作为内容标题
       autoHeader: true,
       // 自定义侧边栏最大层级
@@ -58,7 +63,7 @@
       // 样式主颜色
       // themeColor: '#3F51B5',
       // 右上角github小部件链接
-      repo: 'https://github.com/yequanrui/CloudNotes',
+      repo: repoUrl,
       // 全文搜索
       search: {
         maxAge: 86400000, // （毫秒）过期时间一天
@@ -69,12 +74,14 @@
       },
       // edit-on-github
       plugins: [
-        EditOnGithubPlugin.create('https://github.com/yequanrui/CloudNotes/blob/main/')
+        EditOnGithubPlugin.create(editPath, null, editMsg)
       ],
       // 谷歌分析
       ga: 'pLPl8oqL0Adf4p5s9zT-pXnpfF-2TMlOTEjoDl7DpSY'
     }
   </script>
+  <!-- Vue 3.x -->
+  <script src="//cdn.jsdelivr.net/npm/vue@3/dist/vue.global.prod.js"></script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <!-- 代码复制 -->

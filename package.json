@@ -7,10 +7,12 @@
     "doc": "docsify serve docs"
   },
   "keywords": [
-    "notes"
+    "markdown",
+    "notes",
+    "doscify"
   ],
   "author": "yequanrui",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "docsify-cli": "^4.4.3"
   }
