@@ -12,12 +12,12 @@
 ## Preview
 
 <div align="center">
-    <a href="https://yequanrui.github.io/CloudNotes/">
-        <img src="/sample_1.png" alt="Sample screenshot 1" title="Sample screenshot" width="500" />
+    <a href="https://yequanrui.github.io/CloudNotes/" target="_blank">
+        <img src="sample_1.png" alt="Coverpage screenshot" title="SamCoverpage screenshot" width="500" />
     </a>
     <br>
     <br>
-    <a href="https://yequanrui.github.io/CloudNotes/">
-        <img src="/sample_2.png" alt="Sample screenshot 2" title="Sample screenshot" width="500" />
+    <a href="https://yequanrui.github.io/CloudNotes/" target="_blank">
+        <img src="sample_2.png" alt="Homepage screenshot" title="Homepage screenshot" width="500" />
     </a>
 </div>
