@@ -12,7 +12,7 @@
     "doc": "docsify serve docs"
   },
   "dependencies": {
-    "doscify": "^4.12.2"
+    "docsify": "^4.12.2"
   },
   "devDependencies": {
     "docsify-cli": "^4.4.3"
