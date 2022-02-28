@@ -1,19 +1,29 @@
 {
   "name": "cloud-notes",
-  "version": "1.0.0",
-  "description": "Take notes anywhere",
-  "main": "index.js",
-  "scripts": {
-    "doc": "docsify serve docs"
-  },
+  "version": "1.0.1",
+  "author": "yequanrui",
+  "description": "A markdown-based notes site using docsify",
   "keywords": [
     "markdown",
     "notes",
     "doscify"
   ],
-  "author": "yequanrui",
-  "license": "MIT",
+  "scripts": {
+    "doc": "docsify serve docs"
+  },
+  "dependencies": {
+    "doscify": "^4.12.2"
+  },
   "devDependencies": {
     "docsify-cli": "^4.4.3"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/yequanrui/CloudNotes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yequanrui/CloudNotes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yequanrui/CloudNotes/issues"
   }
 }

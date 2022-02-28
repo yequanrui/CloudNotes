@@ -7,7 +7,7 @@
 [![stars - docsify-js-tutorial](https://img.shields.io/github/stars/yequanrui/CloudNotes?style=social)](https://github.com/yequanrui/CloudNotes/stargazers)
 [![forks - docsify-js-tutorial](https://img.shields.io/github/forks/yequanrui/CloudNotes?style=social)](https://github.com/yequanrui/CloudNotes/network/members)
 
-[![docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/ "Go to Docsify homepage")
+[![docsify](https://img.shields.io/github/package-json/dependency-version/yequanrui/CloudNotes/docsify?label=docsify)](https://docsify.js.org/ "Go to Docsify homepage")
 
 ## Preview
 
