@@ -9,15 +9,20 @@
 
 [![docsify](https://img.shields.io/github/package-json/dependency-version/yequanrui/CloudNotes/docsify)](https://docsify.js.org/ "Go to Docsify homepage")
 
-## Preview
+## 界面预览
 
-<div align="center">
-    <a href="https://yequanrui.github.io/CloudNotes/" target="_blank">
-        <img src="sample_1.png" alt="Coverpage screenshot" title="SamCoverpage screenshot" width="500" />
-    </a>
-    <br>
-    <br>
-    <a href="https://yequanrui.github.io/CloudNotes/" target="_blank">
-        <img src="sample_2.png" alt="Homepage screenshot" title="Homepage screenshot" width="500" />
-    </a>
-</div>
+[![Coverpage screenshot](sample_1.png)](https://yequanrui.github.io/CloudNotes/ "Coverpage screenshot")
+[![Homepage screenshot](sample_2.png)](https://yequanrui.github.io/CloudNotes/ "Homepage screenshot")
+
+## 文件作用
+
+| 文件(docs/*)        | 作用                       |
+| :------------------ | :------------------------- |
+| index.html          | 基础配置项（入口）         |
+| _index.md/README.md | 主页内容渲染文件           |
+| _errorpage.md       | 404页面配置文件            |
+| _coverpage.md       | 封面配置文件               |
+| _navbar.md          | 导航栏配置文件             |
+| _sidebar.md         | 侧边栏配置文件             |
+| favicon.ico         | 浏览器图标                 |
+| .nojekyll           | 阻止忽略掉下划线开头的文件 |
