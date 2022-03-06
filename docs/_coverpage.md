@@ -4,7 +4,7 @@
 <img src="favicon.ico" height="100px"/>
 
 <!-- 以下封面描述 -->
-# CloudNotes <small>1.0.0</small>
+# CloudNotes <small>1.0.1</small>
 
 > A magical documentation site generate template.
 

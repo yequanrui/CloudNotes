@@ -28,5 +28,7 @@
   * [Monitor](WinTools/monitor.md "Toolset for Monitor")
   * [System](WinTools/system.md "Toolset for System")
   * [Desktop](WinTools/desktop.md "Toolset for Desktop")
-* [AndroidTools](AndroidTools/index.md "Toolset for Android")
+* [MobileTools](MobileTools/index.md "Toolset for Mobile")
+  * [Android](MobileTools/android.md "Toolset for Android")
+  * [iOS](MobileTools/ios.md "Toolset for iOS")
 * [Docsify Cli](/docsify-cli.md "A magical documentation generator")
