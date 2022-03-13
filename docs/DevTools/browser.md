@@ -1,33 +1,34 @@
 > Browser Extension
 
-| Name                                 | Version(Chrome/Edge/Firefox)                                               | Description                           |
-| :----------------------------------- | :------------------------------------------------------------------------- | :------------------------------------ |
-| Aerys                                | 1.7.0                                                                      | 窗口标签管理器                        |
-| [AdGuard][AdGuard]                   | 3.5.20                                                                     | 广告拦截器                            |
-| [Angular DevTools][Angular DevTools] | [1.0.2][Angular DevTools-Google]                                           | 为Angular应用程序提供调试和剖析功能   |
-| [Chrono][Chrono]                     | 0.11.1                                                                     | 下载管理器                            |
-| [crxMouse][crxMouse]                 | 4.4.4                                                                      | 鼠标手势                              |
-| [Enhanced Github][Enhanced Github]   | 5.0.11                                                                     | 提供GitHub附加组件的浏览器扩展        |
-| [FeHelper][FeHelper]                 | [2020.05.2810][FeHelper-Google]/[2020.05.2810][FeHelper-Edge]/2020.03.2510 | Web开发者常用工具集                   |
-| GitZip for github                    |                                                                            | 高速下载GitHub项目文件夹              |
-| [Ghelper][Ghelper]                   | [2.5.5][Ghelper-Google]/[2.5.8][Ghelper-Edge]/[2.3.8][Ghelper-Firefox]     | 谷歌上网助手                          |
-| Chrome Cleaner                       | 1.2.11                                                                     | 浏览器缓存清理优化                    |
-| [GreenHub][GreenHub]                 | [0.9.14][GreenHub-Google]/[0.9.14][GreenHub-Edge]                          | 绿墙-网络出海工具                     |
-| [GiteeTree][GiteeTree]               | 2.4.9/2.4.9/2.4.9                                                          | 基于Octotree的码云文件树插件          |
-| ng-inspect for Angular               | [0.4.0][ng-inspect-for-angular-Google]                                     | 用于调试Angular（1.x/4+/lvy）应用程序 |
-| [Octotree][Octotree]                 | 6.1.8/6.1.8/6.1.5                                                          | GitHub Code Tree                      |
-| [PhotoShow][PhotoShow]               | 4.6.8.0                                                                    | 悬浮快速查看网页原图                  |
-| [Postman][Postman]                   | 5.5.5                                                                      | 网络API测试工具                       |
-| [React Developer Tools][React]       | [4.13.5][React-Google]/[4.13.5][React-Edge]                                | React开发工具                         |
-| [Ruffle][Ruffle]                     | 0.1.0.166                                                                  | Flash模拟器                           |
-| [SingleFile][SingleFile]             | [1.18.86][SingleFile-Google]                                               | 把网页完整保存到本地                  |
-| [Sourcegraph][Sourcegraph]           | 21.5.12.144                                                                | Web代码搜索浏览工具                   |
-| [ToolBox][ToolBox]                   | 3.1.6                                                                      | 常用工具                              |
-| [Vue.js devtools][Vue]               | [5.3.4][Vue-Google]                                                        | Vue开发工具                           |
-| [Wappalyzer][Wappalyzer]             | -/[6.7.6][Wappalyzer-Edge]/[6.7.7][Wappalyzer-Firefox]                     | 识别网站技术栈                        |
-| [开发工具箱][开发工具箱]             | 2.3.0.5                                                                    | 软件开发小工具合集                    |
-| 屏幕调整助手                         | [4.7][屏幕调整助手-Google]                                                 | 更改屏幕的大小                        |
-| [类似的网站][类似的网站]             | [7.1.4.3][类似的网站-Google]                                               | 发现相关网站                          |
+| Name                                 | Version(Chrome/Edge/Firefox)                                               | Description                         |
+| :----------------------------------- | :------------------------------------------------------------------------- | :---------------------------------- |
+| Aerys                                | 1.7.0                                                                      | 窗口标签管理器                      |
+| [AdGuard][AdGuard]                   | 3.5.20                                                                     | 广告拦截器                          |
+| [Angular DevTools][Angular DevTools] | [1.0.2][Angular DevTools-Google]                                           | 为Angular应用程序提供调试和剖析功能 |
+| [Chrono][Chrono]                     | 0.11.1                                                                     | 下载管理器                          |
+| [crxMouse][crxMouse]                 | 4.4.4                                                                      | 鼠标手势                            |
+| [Enhanced Github][Enhanced Github]   | 5.0.11                                                                     | 提供GitHub附加组件的浏览器扩展      |
+| [FeHelper][FeHelper]                 | [2020.05.2810][FeHelper-Google]/[2020.05.2810][FeHelper-Edge]/2020.03.2510 | Web开发者常用工具集                 |
+| GitZip for github                    |                                                                            | 高速下载GitHub项目文件夹            |
+| [Ghelper][Ghelper]                   | [2.5.5][Ghelper-Google]/[2.5.8][Ghelper-Edge]/[2.3.8][Ghelper-Firefox]     | 谷歌上网助手                        |
+| Chrome Cleaner                       | 1.2.11                                                                     | 浏览器缓存清理优化                  |
+| [GreenHub][GreenHub]                 | [0.9.14][GreenHub-Google]/[0.9.14][GreenHub-Edge]                          | 绿墙-网络出海工具                   |
+| [GiteeTree][GiteeTree]               | 2.4.9/2.4.9/2.4.9                                                          | 基于Octotree的码云文件树插件        |
+| ng-inspect for Angular               | [0.4.0][ng-inspect-for-angular-Google]                                     | 用于调试Angular(1.x/4+/lvy)应用程序 |
+| [Octotree][Octotree]                 | 6.1.8/6.1.8/6.1.5                                                          | GitHub Code Tree                    |
+| [PhotoShow][PhotoShow]               | 4.6.8.0                                                                    | 悬浮快速查看网页原图                |
+| [Postman][Postman]                   | 5.5.5                                                                      | 网络API测试工具                     |
+| [React Developer Tools][React]       | [4.13.5][React-Google]/[4.13.5][React-Edge]                                | React开发工具                       |
+| [Ruffle][Ruffle]                     | 0.1.0.166                                                                  | Flash模拟器                         |
+| [SingleFile][SingleFile]             | [1.18.86][SingleFile-Google]                                               | 把网页完整保存到本地                |
+| [Sourcegraph][Sourcegraph]           | 21.5.12.144                                                                | Web代码搜索浏览工具                 |
+| [ToolBox][ToolBox]                   | 3.1.6                                                                      | 常用工具                            |
+| [Vue.js devtools][Vue]               | [5.3.4][Vue-Google]                                                        | Vue开发工具                         |
+| [Wappalyzer][Wappalyzer]             | -/[6.7.6][Wappalyzer-Edge]/[6.7.7][Wappalyzer-Firefox]                     | 识别网站技术栈                      |
+| [开发工具箱][开发工具箱]             | 2.3.0.5                                                                    | 软件开发小工具合集                  |
+| 屏幕调整助手                         | [4.7][屏幕调整助手-Google]                                                 | 更改屏幕的大小                      |
+| [类似的网站][similar]                | [7.1.4.3][similar-Google]                                                  | 发现相关网站                        |
+| [探索者小舒][xiaoshu]                | [0.7.2][xiaoshu-Google]/[0.7.2][xiaoshu-Edge]/[0.7.1][xiaoshu-Firefox]     | 强大快捷的搜索切换工具              |
 
 [AdGuard]: https://adguard.com/zh_cn/adguard-browser-extension/overview.html '跳转主页'
 [Angular DevTools]: https://angular.io/devtools '跳转主页'
@@ -66,5 +67,9 @@
 [Wappalyzer-Edge]: https://microsoftedge.microsoft.com/addons/detail/wappalyzer/mnbndgmknlpdjdnjfmfcdjoegcckoikn '跳转Microsoft Store'
 [开发工具箱]: https://www.box3.cn/ '跳转主页'
 [屏幕调整助手-Google]: https://chrome.google.com/webstore/detail/%E5%B1%8F%E5%B9%95%E8%B0%83%E6%95%B4%E5%8A%A9%E6%89%8B/ajgidahckhliegaonfgbialbcpcljach '跳转Google Store'
-[类似的网站]: https://www.similarsites.com/ '跳转主页'
-[类似的网站-Google]: https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn '跳转Google Store'
+[similar]: https://www.similarsites.com/ '跳转主页'
+[similar-Google]: https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn '跳转Google Store'
+[xiaoshu]: https://ex.xiaoshu.app/ '跳转主页'
+[xiaoshu-Google]: https://chrome.google.com/webstore/detail/lcalpcoppmdamffdmmchmadbpaoibaep '跳转Google Store'
+[xiaoshu-Edge]: https://microsoftedge.microsoft.com/addons/detail/%E6%8E%A2%E7%B4%A2%E8%80%85%E5%B0%8F%E8%88%92/coneollgjonabefaacemccaknmicmncj '跳转Microsoft Store'
+[xiaoshu-Firefox]: https://addons.mozilla.org/zh-CN/firefox/addon/explorer-xiaoshu/ '跳转Firefox Add-ons'

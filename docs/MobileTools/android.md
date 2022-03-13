@@ -12,7 +12,7 @@
 | Office                                 | 16.0.14701.20166 |                                                      |
 | OPlayer                                | 5.00.25          |                                                      |
 | PDF全能王                              | 2.3              |                                                      |
-| QMD                                    | 1.7.0            |                                                      |
+| [QMD][QMD]                             | 1.7.1            | 简单实用的音乐下载工具                               |
 | QuickEdit                              | 1.7.9            |                                                      |
 | Retouch                                | 4.2.0            |                                                      |
 | Rotation                               | 23.0.0           |                                                      |
@@ -21,7 +21,7 @@
 | V影视                                  | 2.0.3.1          |                                                      |
 | 安卓清理君                             | 3.0.7            |                                                      |
 | 表情包生成器                           | 1.8.6            |                                                      |
-| 电视家                                 | 3.5.6            |                                                      |
+| 电视家                                 | 3.10.2           |                                                      |
 | 饭团影院                               | 1.10.2           |                                                      |
 | 福昕扫描王                             | 2.6.35191        |                                                      |
 | 格式工厂                               | 1.8.2            | 视频、音频和图片的格式转换、提取音频和压缩视频等     |
@@ -45,10 +45,11 @@
 | [影视工场][影视工场]                   | 2.0.0            | 免费在线观看高清影视资源                             |
 | 有来急救百科 1.0.3                     |                  |
 | 宇宙工具箱                             | 1.2.7            |                                                      |
-| [阅读][阅读]                           | 3.22.030410      | 自定义来源阅读网络内容工具                           |
+| [阅读][阅读]                           | 3.22.031209      | 自定义来源阅读网络内容工具                           |
 | 悦音                                   | 2.0.4            |                                                      |
 
 [File Commander]: https://www.mobisystems.com/zh-cn/file-commander-premium/ '跳转主页'
+[QMD]: https://github.com/OJZen/QMD_Android '跳转主页'
 [Stellarium Mobile]: https://www.stellarium-labs.com/stellarium-mobile-plus/ '跳转主页'
 [小乖鱼]: http://www.fugumate.com/ '跳转主页'
 [一个木函]: https://www.woobx.cn/ '跳转主页'

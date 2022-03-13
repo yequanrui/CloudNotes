@@ -1,0 +1,43 @@
+## 打开文件时，EditorConfig 插件会在打开的文件的目录和每个父目录中查找名为 .editorconfig 的文件。
+## 如果到达根文件路径或找到具有 root=true 的 EditorConfig 文件，将停止对 .editorconfig 文件的搜索。
+## 如果 root=true 没有配置, EditorConfig 插件将会在工程之外寻找 .editorconfig 文件
+root = true
+
+## 使用规则匹配文件
+## *            匹配任何字符串，路径分隔符 (/) 除外
+## **           匹配任意字符串
+## ?            匹配任何单个字符
+## [name]       匹配给定的字符串中的任何单个字符
+## [!name]      匹配不在给定字符串中的任何单个字符
+## {s1,s2,s3}   匹配任意给定的字符串
+## {num1..num2} 匹配num1和num2之间的任何整数，其中num1和num2可以是正数或负数
+## 如规则[*.{js}]只对 .js 文件生效。一般来说，我们配置 [*] 对所有文件生效。
+[*]
+
+## 设置为latin1、utf-8、utf-8-bom、utf-16be或utf-16le来控制字符集。
+charset = utf-8
+
+## 缩进方式。 值可以是tab或者space
+indent_style = space
+
+## 缩进大小。当设置为tab时，会取tab_width的值。
+indent_size = 2
+
+## 通常不需要设置。当indent_size=tab时才会生效。
+tab_width = 2
+
+## 设置为lf、cr或crlf以控制如何表示换行符。
+end_of_line = lf
+
+## 设置为true以确保文件在保存时以换行符结束，设置为false以确保不以换行符结束。
+insert_final_newline = true
+
+## 设置为true以删除换行符之前的任何空格字符，设置为false以确保不会。
+trim_trailing_whitespace = true
+
+[*.ts]
+quote_type = single
+
+[*.md]
+max_line_length = off
+trim_trailing_whitespace = false
