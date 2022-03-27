@@ -1,5 +1,7 @@
 * [Home](/)
 
+* [DevNotes](DevNotes/index.md "Notes for Development")
+  * [RegEx](DevNotes/regex.md "Notes for Regular Expression")
 * [DevTools](DevTools/index.md "Toolset for Development")
   * [Desktop](DevTools/desktop.md "Desktop Application")
   * [Windows](DevTools/windows.md "Windows Application")

@@ -5,7 +5,6 @@
 | [Files][Files]                        | [2.1.15.0][Files-Microsoft]             | 资源管理器     |
 | [Windows Terminal][Terminal]          | [1.11.3471.0][Terminal-Microsoft]       | 微软命令行工具 |
 | [Microsoft PowerToys][PowerToys]      | [0.51.1][PowerToys-Microsoft]           | 微软辅助工具集 |
-| [Microsoft Bing Dictionary][BingDict] | [2.8.2.0][BingDict-Microsoft]           | 微软必应词典   |
 | [Microsoft To Do][ToDo]               | [2.64.5521.0][ToDo-Microsoft]           | 微软待办清单   |
 | [Microsoft Whiteboard][Whiteboard]    | [52.10201.5809.0][Whiteboard-Microsoft] | 协作数字画布   |
 | [QuickLook][QuickLook]                | [3.7.1.0][QuickLook-Microsoft]          | 快速预览工具   |
@@ -18,8 +17,6 @@
 [Terminal-Microsoft]: https://www.microsoft.com/store/productId/9N0DX20HK701 '跳转Microsoft Store'
 [PowerToys]: https://github.com/microsoft/PowerToys '跳转主页'
 [PowerToys-Microsoft]: https://docs.microsoft.com/zh-cn/windows/powertoys/ '跳转Microsoft Docs'
-[BingDict]: https://cn.bing.com/dict '跳转主页'
-[BingDict-Microsoft]: https://www.microsoft.com/store/productId/9NBLGGH63SW0 '跳转Microsoft Store'
 [ToDo]: https://to-do.live.com/tasks '跳转主页'
 [ToDo-Microsoft]: https://www.microsoft.com/store/productId/9NBLGGH5R558 '跳转Microsoft Store'
 [Whiteboard]: https://whiteboard.microsoft.com/ '跳转主页'
