@@ -7,6 +7,7 @@
 | CX文件管理器                           | 1.5.2            | 管理手机本地、局域网电脑、远程服务器以及云存储网盘等 |
 | [File Commander][File Commander]       | 8.2.43518        | 管理手机本地和远程文件，链接所有云账户等             |
 | Hi Dictionary                          | 2.2.8.7          |                                                      |
+| Material Files                         | 1.4.2            |                                                      |
 | MiXplorer                              | 6.49.5           |                                                      |
 | MusicWorld                             | 1.5.5            |                                                      |
 | Office                                 | 16.0.14701.20166 |                                                      |
@@ -28,6 +29,7 @@
 | 洛雪音乐助手                           | 0.10.0           |                                                      |
 | 萌盒                                   | 4.1.0            |                                                      |
 | 强力清理                               | 8.3.0            | 垃圾清理、内存加速和应用管理                         |
+| 全能PDF                                | 2.3              |                                                      |
 | 全能下载                               | 1.2              | 文件下载                                             |
 | 扫描君                                 | 4.10.74          |                                                      |
 | 扫描全能王                             | 6.7.5            |                                                      |
@@ -48,6 +50,7 @@
 | 宇宙工具箱                             | 1.2.7            |                                                      |
 | [阅读][阅读]                           | 3.22.031722      | 自定义来源阅读网络内容工具                           |
 | 悦音                                   | 2.0.4            |                                                      |
+| 中国法律法规                           | 8.4.0            |                                                      |
 
 [File Commander]: https://www.mobisystems.com/zh-cn/file-commander-premium/ '跳转主页'
 [QMD]: https://github.com/OJZen/QMD_Android '跳转主页'
