@@ -1,22 +1,26 @@
 > VSCode Extension
 
-| Name                                             | Version                                 | Description                                               |
-| :----------------------------------------------- | :-------------------------------------- | :-------------------------------------------------------- |
-| [Auto Close Tag][Auto-Close-Tag]                 | [0.5.12][Auto-Close-Tag-VSCode]         | 自动闭合标签                                              |
-| [Auto Rename Tag][Auto-Rename-Tag]               | [0.1.8][Auto-Rename-Tag-VSCode]         | 自动检测配对标签，同步修改                                |
-| [Better Comments][Better-Comments]               | [2.1.0][Better-Comments]                | Help you create more human-friendly comments in your code |
-| [Bracket Pair Colorizer][Bracket-Pair-Colorizer] | [1.0.61][Bracket-Pair-Colorizer-VSCode] | 用不同颜色高亮显示匹配的括号                              |
-| [GitLens][GitLens]                               | [11.6.0][GitLens-VSCode]                | Git源代码管理插件                                         |
-| [Version Lens][Version-Lens]                     | [1.0.9][Version-Lens-VSCode]            | package.json中显示npm工具包的版本信息                     |
-| [Import Cost][Import-Cost]                       | [2.15.0][Import-Cost-VSCode]            | 显示导入包的估计大小                                      |
-| [Postcode][Postcode]                             | [1.3.9][Postcode-VSCode]                | 创建和测试简单和复杂的`HTTP/s`请求                        |
-| [Prettier][Prettier]                             | [8.1.0][Prettier-VSCode]                | Opinionated的代码格式化工具                               |
-| [Markdown All in One][Markdown-All-in-One]       | [3.4.0][Markdown-All-in-One-VSCode]     | All you need to write Markdown                            |
-| [Angular Snippets][Angular-Snippets]             | [12.0.0][Angular-Snippets-VSCode]       | Adds snippets for Angular for TypeScript and HTML         |
-| [HTML Snippets][HTML-Snippets]                   | [0.2.1][HTML-Snippets-VSCode]           | Full HTML tags including HTML5 Snippets                   |
-| [JavaScript (ES6) code snippets][JS-Snippets]    | [1.8.0][JS-Snippets-VSCode]             | Code snippets for JavaScript in ES6 syntax                |
-| [Vue 3 Snippets][Vue-Snippets]                   | [1.0.4][Vue-Snippets-VSCode]            | A Vue.js 3 And Vue.js 2 Code Snippets Extension           |
-| [vscode-icons][vscode-icons]                     | [11.6.0][vscode-icons-VSCode]           | Icons for Visual Studio Code                              |
+| Name                                              | Version                                 | Description                                       |
+| :------------------------------------------------ | :-------------------------------------- | :------------------------------------------------ |
+| [Auto Close Tag][Auto-Close-Tag]                  | [0.5.12][Auto-Close-Tag-VSCode]         | 自动闭合标签                                      |
+| [Auto Rename Tag][Auto-Rename-Tag]                | [0.1.8][Auto-Rename-Tag-VSCode]         | 自动检测配对标签，同步修改                        |
+| [Better Comments][Better-Comments]                | [2.1.0][Better-Comments]                | 根据不同种类的注释，显示不同的颜色                |
+| [Bracket Pair Colorizer][Bracket-Pair-Colorizer]  | [1.0.61][Bracket-Pair-Colorizer-VSCode] | 用不同颜色高亮显示匹配的括号                      |
+| Highlight Matching Tag                            |                                         | 用不同颜色高亮显示匹配的标签                      |
+| Color Highlight                                   |                                         | 给代码中的颜色进行高亮展示                        |
+| Image preview                                     |                                         | 预览代码中图片的引用                              |
+| Code Runner                                       |                                         | 运行代码，可以在编辑器中查看结果                  |
+| [GitLens][GitLens]                                | [11.6.0][GitLens-VSCode]                | Git源代码管理插件                                 |
+| [Version Lens][Version-Lens]                      | [1.0.9][Version-Lens-VSCode]            | package.json中显示npm工具包的版本信息             |
+| [Import Cost][Import-Cost]                        | [2.15.0][Import-Cost-VSCode]            | 显示导入包的估计大小                              |
+| [Postcode][Postcode]                              | [1.3.9][Postcode-VSCode]                | 创建和测试简单和复杂的`HTTP/s`请求                |
+| [Prettier][Prettier]                              | [8.1.0][Prettier-VSCode]                | Opinionated的代码格式化工具                       |
+| [Markdown All in One][Markdown-All-in-One]        | [3.4.0][Markdown-All-in-One-VSCode]     | All you need to write Markdown                    |
+| [Angular Snippets][Angular-Snippets]              | [12.0.0][Angular-Snippets-VSCode]       | Adds snippets for Angular for TypeScript and HTML |
+| [HTML Snippets][HTML-Snippets]                    | [0.2.1][HTML-Snippets-VSCode]           | Full HTML tags including HTML5 Snippets           |
+| [JavaScript (ES6) code snippets][JS-Snippets]     | [1.8.0][JS-Snippets-VSCode]             | Code snippets for JavaScript in ES6 syntax        |
+| [Vue 3 Snippets][Vue-Snippets]                    | [1.0.4][Vue-Snippets-VSCode]            | A Vue.js 3 And Vue.js 2 Code Snippets Extension   |
+| [vscode-icons][vscode-icons]                      | [11.6.0][vscode-icons-VSCode]           | Icons for Visual Studio Code                      |
 
 [Auto-Close-Tag]: https://github.com/formulahendry/vscode-auto-close-tag '跳转主页'
 [Auto-Close-Tag-VSCode]: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag '跳转Visual Studio Marketplace'

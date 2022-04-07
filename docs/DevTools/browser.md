@@ -5,7 +5,7 @@
 | Adblock Plus                      |                                                                            | 免除广告困扰                         |
 | [AdGuard][AdGuard]                | 3.5.20                                                                     | 广告拦截器                           |
 | Aerys                             | 1.7.0                                                                      | 窗口标签管理器                       |
-| Chrome Cleaner                    | 1.2.11                                                                     | 浏览器缓存清理优化                   |
+| Chrome清理大师/Edge清理大师       | [19.7.22.1059][CleanMaster-Google]/[20.9.8.1739][CleanMaster-Edge]         | 一键清理浏览器垃圾                   |
 | [Chrono][Chrono]                  | 0.11.1                                                                     | 下载管理器                           |
 | [crxMouse][crxMouse]              | 4.4.4                                                                      | 鼠标手势                             |
 | [Edge Translate][EdgeTranslate]   | 2.2.4/[2.2.4][EdgeTranslate-Edge]/2.2.4.1                                  | 侧边翻译                             |
@@ -15,6 +15,7 @@
 | GitZip for github                 |                                                                            | 高速下载GitHub项目文件夹             |
 | [GreenHub][GreenHub]              | [0.9.14][GreenHub-Google]/[0.9.14][GreenHub-Edge]                          | 绿墙-网络出海工具                    |
 | [GiteeTree][GiteeTree]            | 2.4.9/2.4.9/2.4.9                                                          | 基于Octotree的码云文件树插件         |
+| [iGuge Helper][iGuge]             | [2.1.0][iGuge-Google]/[2.1.0][iGuge-Edge]/2.0.5                            | 谷歌学术助手                         |
 | JSON Viewer                       |                                                                            | 方便查看Json结构                     |
 | ng-inspect for Angular            | [0.4.0][ng-inspect-for-angular-Google]                                     | 用于调试Angular(1.x/4+/lvy)应用程序  |
 | [Octotree][Octotree]              | 6.1.8/6.1.8/6.1.5                                                          | GitHub Code Tree                     |
@@ -35,6 +36,8 @@
 | [探索者小舒][xiaoshu]             | [0.7.2][xiaoshu-Google]/[0.7.2][xiaoshu-Edge]/[0.7.1][xiaoshu-Firefox]     | 强大快捷的搜索切换工具               |
 
 [AdGuard]: https://adguard.com/zh_cn/adguard-browser-extension/overview.html '跳转主页'
+[CleanMaster-Google]: https://chrome.google.com/webstore/detail/clean-master-the-best-chr/eagiakjmjnblliacokhcalebgnhellfi '跳转Google Store'
+[CleanMaster-Edge]: https://microsoftedge.microsoft.com/addons/detail/edge%E6%B8%85%E7%90%86%E5%A4%A7%E5%B8%88%EF%BC%9A%E4%B8%80%E9%94%AE%E6%B8%85%E7%90%86%E6%B5%8F%E8%A7%88%E5%99%A8%E5%9E%83%E5%9C%BE%EF%BC%8C%E8%AE%A9%E4%BD%A0%E7%9A%84edg/nlcebdoehkdiojeahkofcfnolkleembf '跳转Microsoft Store'
 [Chrono]: https://www.chronodownloader.net/ '跳转主页'
 [crxMouse]: https://crxmouse.com/zh-hans/ '跳转主页'
 [EdgeTranslate]: https://github.com/EdgeTranslate/EdgeTranslate '跳转主页'
@@ -48,9 +51,12 @@
 [Ghelper-Firefox]: https://addons.mozilla.org/zh-CN/firefox/addon/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B-%E5%AE%98%E7%BD%91%E7%89%88/ '跳转Firefox Add-ons'
 [Ghelper-Edge]: https://microsoftedge.microsoft.com/addons/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/eoboojokdmamahfilfmamjjkcmkmddgk '跳转Microsoft Store'
 [GreenHub]: https://github.com/pablocc1979/Green-Hub-Proxy/ '跳转主页'
-[GreenHub-Google]: https://chrome.google.com/webstore/detail/greenhub%E7%BB%BF%E5%A2%99-%E7%BD%91%E7%BB%9C%E5%87%BA%E6%B5%B7%E5%B7%A5%E5%85%B7/knmhokeiipedacnhpjklbjmfgedfohco '跳转Google Store'
-[GreenHub-Edge]: https://microsoftedge.microsoft.com/addons/detail/greenhub%E7%BB%BF%E5%A2%99%E7%BD%91%E7%BB%9C%E5%87%BA%E6%B5%B7%E5%B7%A5%E5%85%B7/hholdpohidinjmkoanabdchniingdfac '跳转Microsoft Store'
+[GrteenHub-Google]: https://chrome.google.com/webstore/detail/greenhub-free-vpn/knmhokeiipedacnhpjklbjmfgedfohco '跳转Google Store'
+[GreenHub-Edge]: https://microsoftedge.microsoft.com/addons/detail/greenhub%E7%BB%BF%E5%A2%99%E2%80%94%E7%BD%91%E7%BB%9C%E5%87%BA%E6%B5%B7%E5%B7%A5%E5%85%B7/hholdpohidinjmkoanabdchniingdfac '跳转Microsoft Store'
 [GiteeTree]: https://gitee.com/oschina/GitCodeTree '跳转主页'
+[iGuge]: https://iguge.xyz/ '跳转主页'
+[iGuge-Google]: https://chrome.google.com/webstore/detail/igg%E8%B0%B7%E6%AD%8C%E5%AD%A6%E6%9C%AF%E5%8A%A9%E6%89%8B/ncldcbhpeplkfijdhnoepdgdnmjkckij '跳转Google Store'
+[iGuge-Edge]: https://microsoftedge.microsoft.com/addons/detail/igg%E8%B0%B7%E6%AD%8C%E5%AD%A6%E6%9C%AF%E5%8A%A9%E6%89%8B/mchibleoefileemjfghfejaggonplmmg '跳转Microsoft Store'
 [ng-inspect-for-angular-Google]: https://chrome.google.com/webstore/detail/ng-inspect-for-angular1x4/onfmmmemcmipkohkkgofiojpiahbpogh '跳转Google Store'
 [Octotree]: https://www.octotree.io/ '跳转主页'
 [PhotoShow]: https://github.com/Mr-VincentW/PhotoShow '跳转主页'
