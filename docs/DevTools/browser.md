@@ -5,6 +5,7 @@
 | Adblock Plus                      |                                                                              | 免除广告困扰                         |
 | [AdGuard][AdGuard]                | 3.5.20                                                                       | 广告拦截器                           |
 | Aerys                             | 1.7.0                                                                        | 窗口标签管理器                       |
+| AIX智能下载器                     | 7.0.33                                                                       | 高效实现网页内容的嗅探和下载         |
 | [Billfish][Billfish]              | [3.1.8][Billfish-Google]/[3.1.8][Billfish-Edge]/[3.2.0][Billfish-Firefox]    | 免费素材管理工具                     |
 | Chrome清理大师/Edge清理大师       | [19.7.22.1059][CleanMaster-Google]/[20.9.8.1739][CleanMaster-Edge]           | 一键清理浏览器垃圾                   |
 | [Chrono][Chrono]                  | 0.11.1                                                                       | 下载管理器                           |

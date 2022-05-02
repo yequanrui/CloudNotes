@@ -40,8 +40,8 @@
       name: '📚CloudNotes',
       // logo: '/img/logo.svg',
       nameLink: pageUrl, // 侧边栏顶部标题或logo链接
-      maxLevel: 4, // 最大支持渲染的标题层级
-      subMaxLevel: 3, // 自定义侧边栏最大层级
+      maxLevel: 6, // 最大支持渲染的标题层级
+      subMaxLevel: 4, // 自定义侧边栏最大层级
       mergeNavbar: true, // 小屏自动合并导航栏和侧边栏
       // 路由映射，固定根目录的文件
       alias: {
@@ -60,9 +60,9 @@
       search: {
         maxAge: 86400000, // （毫秒）过期时间一天
         paths: 'auto',
-        placeholder: 'Type to search',
-        noData: 'No data',
-        depth: '6'
+        depth: 6, // 允许创建的搜索索引块，定位到 6 级标题
+        placeholder: '搜索...',
+        noData: '未找到结果',
       },
       plugins: [EditOnGithubPlugin.create(editPath, null, editMsg)], // 插件配置
       ga: 'pLPl8oqL0Adf4p5s9zT-pXnpfF-2TMlOTEjoDl7DpSY', // 谷歌分析
@@ -90,8 +90,8 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
   <!-- 评论插件 -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
-  <script src="https://cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
   <script>
     const gitalk = new Gitalk({
       clientID: '85511d2f778de8f13ace', // GitHub Application Client ID
