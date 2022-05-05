@@ -14,7 +14,7 @@
   * [Github](WinNotes/github.md "Notes for Github")
   * [Npm](WinNotes/npm.md "Notes for Npm")
   * [Tomcat](WinNotes/tomcat.md "Notes for Tomcat")
-  * [VMware](vmware.md "Notes for VMware")
+  * [VMware](WinNotes/vmware.md "Notes for VMware")
 * [WinTools](WinTools/_index.md "Toolset for Windows")
   * [Enhancement](WinTools/enhancement.md "Toolset for Enhancement")
   * [Development](WinTools/development.md "Toolset for Development")

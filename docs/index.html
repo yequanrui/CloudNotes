@@ -12,13 +12,14 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/buble.css"> -->
   <!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css">-->
-  <!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/themes/dolphin.css">-->
+  <!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/dolphin.css">-->
   <!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/pure.css">-->
 </head>
 
 <body>
   <div data-app id="main">Loading...</div>
   <script src="https://cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
+  <script src="https//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script>
     const repoUrl = 'https://github.com/yequanrui/CloudNotes';
     const pageUrl = 'https://yequanrui.github.io/CloudNotes/';
@@ -56,6 +57,12 @@
         smartypants: true,
       }, // 内置的Markdown解析器是marked，可以修改它的配置
       noEmoji: false, // 是否禁用emoji解析
+      count: {
+        countable: true,
+        fontsize: '0.9em',
+        color: 'rgb(90,90,90)',
+        language: 'chinese'
+      },
       // 全文搜索
       search: {
         maxAge: 86400000, // （毫秒）过期时间一天
@@ -63,17 +70,28 @@
         depth: 6, // 允许创建的搜索索引块，定位到 6 级标题
         placeholder: '搜索...',
         noData: '未找到结果',
+        hideOtherSidebarContent: false, // 是否隐藏其他侧边栏内容
       },
-      plugins: [EditOnGithubPlugin.create(editPath, null, editMsg)], // 插件配置
+      pagination: {
+        previousText: '上一章节',
+        nextText: '下一章节',
+        crossChapter: true,
+        crossChapterText: true,
+      },
+      plugins: [
+        EditOnGithubPlugin.create(editPath, null, editMsg),
+        DocsifyCodefund.create('id'), // 把这个id改成你的codefund id
+      ], // 插件配置
+      disqus: 'shortname',
       ga: 'pLPl8oqL0Adf4p5s9zT-pXnpfF-2TMlOTEjoDl7DpSY', // 谷歌分析
     }
   </script>
   <!-- Vue 3.x -->
-  <script src="https://cdn.jsdelivr.net/npm/vue@3/dist/vue.global.prod.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/vue@3/dist/vue.global.prod.js"></script>
   <!-- Docsify v4 -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
   <!-- 代码复制 -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
   <!-- 字数统计 -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-count/dist/countable.min.js"></script>
   <!-- 代码格式化 -->
@@ -82,13 +100,19 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
   <!-- 全文搜索 -->
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <!-- 分页导航 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <!-- 外链脚本 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
   <!-- 图片缩放查看 -->
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
   <!-- 网站访问统计 -->
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/matomo.min.js"></script>
   <!-- 谷歌分析 -->
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
-  <!-- 评论插件 -->
+  <!-- Disqus评论 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script>
+  <!-- Gitalk评论 -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
@@ -100,8 +124,12 @@
       owner: 'yequanrui', // 仓库的创建者
       admin: ['yequanrui'], // 如果仓库有多个人可以操作，那么在这里以数组形式写出
       id: location.pathname, // 用于标记评论是哪个页面的
-      distractionFreeMode: true
+      distractionFreeMode: true,
     })
+  </script>
+  <!-- 注册离线模式 -->
+  <script>
+    typeof navigator.serviceWorker !== 'undefined' && navigator.serviceWorker.register('sw.js');
   </script>
 </body>
 

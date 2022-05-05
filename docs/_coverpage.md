@@ -1,10 +1,8 @@
 <!-- logo标识 -->
-<!-- ![logo](img/bg.svg) -->
-<!-- logo标识：需要改变图片大小使用img标签 -->
-<img src="favicon.ico" height="100px"/>
+![logo](favicon.ico ':size=100x100')
 
 <!-- 以下封面描述 -->
-# CloudNotes <small>1.0.1</small>
+# CloudNotes <small>1.0.2</small>
 
 > A magical documentation site generate template.
 
