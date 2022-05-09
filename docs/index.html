@@ -12,18 +12,18 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/buble.css"> -->
   <!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css">-->
-  <!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/dolphin.css">-->
   <!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/pure.css">-->
+  <!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/dolphin.css">-->
+  <link rel="stylesheet" href="assets/css/tabs.css">
 </head>
 
 <body>
   <div data-app id="main">Loading...</div>
   <script src="https://cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
-  <script src="https//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script>
     const repoUrl = 'https://github.com/yequanrui/CloudNotes';
     const pageUrl = 'https://yequanrui.github.io/CloudNotes/';
-    const editPath = repoUrl + '/blob/main/';
+    const editPath = repoUrl + '/blob/main/docs/';
     const editMsg = '📝 Edit on GitHub';
     window.$docsify = {
       el: '#main', // 初始化的挂载元素，默认为#app，如果不存在就直接绑定在body上
@@ -60,7 +60,7 @@
       count: {
         countable: true,
         fontsize: '0.9em',
-        color: 'rgb(90,90,90)',
+        color: '#252b3a',
         language: 'chinese'
       },
       // 全文搜索
@@ -78,18 +78,25 @@
         crossChapter: true,
         crossChapterText: true,
       },
+      tabs: {
+        persist: true, // 确定页面刷新/重新访问后是否将恢复选项卡选择
+        sync: true, // 确定是否将在具有匹配标签的选项卡之间同步选项卡选择
+        theme: 'classic', // 设置选项卡主题
+        tabComments: true, // 确定是否可以使用选项卡注释定义选项卡集中的选项卡
+        tabHeadings: true, // 确定是否可以使用标题 + 粗体标记来定义选项卡集中的选项卡
+      },
       plugins: [
         EditOnGithubPlugin.create(editPath, null, editMsg),
-        DocsifyCodefund.create('id'), // 把这个id改成你的codefund id
       ], // 插件配置
-      disqus: 'shortname',
       ga: 'pLPl8oqL0Adf4p5s9zT-pXnpfF-2TMlOTEjoDl7DpSY', // 谷歌分析
     }
   </script>
   <!-- Vue 3.x -->
-  <script src="//cdn.jsdelivr.net/npm/vue@3/dist/vue.global.prod.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vue@3/dist/vue.global.prod.js"></script>
   <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <!-- Docsify Tabs -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
   <!-- 代码复制 -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
   <!-- 字数统计 -->
@@ -106,12 +113,8 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
   <!-- 图片缩放查看 -->
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
-  <!-- 网站访问统计 -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/matomo.min.js"></script>
   <!-- 谷歌分析 -->
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
-  <!-- Disqus评论 -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script>
   <!-- Gitalk评论 -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
