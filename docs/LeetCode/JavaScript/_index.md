@@ -8,9 +8,13 @@
 
 ### **中等**
 
+#### [223. 矩形面积](LeetCode/JavaScript/223.md)
+
 #### [442. 数组中重复的数据](LeetCode/JavaScript/442.md)
 
 #### [1015. 可被K整除的最小整数](LeetCode/JavaScript/1015.md)
+
+#### [2086. 从房屋收集雨水需要的最少水桶数](LeetCode/JavaScript/2086.md)
 
 ### **困难**
 
