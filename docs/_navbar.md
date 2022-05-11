@@ -1,12 +1,22 @@
-<!-- * 入门
-  * [快速开始](zh-cn/quickstart.md)
-  * [多页文档](zh-cn/more-pages.md)
-  * [定制导航栏](zh-cn/custom-navbar.md)
-  * [封面](_coverpage.md)
+* Translations
+  * [English](/)
+  * [中文](/zh-cn/)
 
-* 配置
-  * [配置项](zh-cn/configuration.md)
-  * [主题](zh-cn/themes.md)
-  * [使用插件](zh-cn/plugins.md)
-  * [Markdown 配置](zh-cn/markdown.md)
-  * [代码高亮](zh-cn/language-highlight.md) -->
+* Themes
+  * Vue
+  * Buble
+  * Dark
+  * Pure
+  * Dolphin
+  * Default
+  * Sample
+  * Sample-Dark
+
+* About me
+  * [Github](https://github.com/yequanrui)
+  * [Gitee](https://gitee.com/yequanrui)
+  * [JueJin](https://juejin.cn/user/1231919572070647)
+
+* Links
+  * [Docsify](https://docsify.js.org/#/zh-cn/)
+  * [Markdown Tutorial](https://markdown.com.cn/)

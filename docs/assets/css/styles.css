@@ -1,0 +1,10 @@
+/* 滚动条宽度 */
+::-webkit-scrollbar {
+  width: 8px;
+}
+/* 滚动条颜色 */
+::-webkit-scrollbar-thumb {
+  background: #5e7ce0;
+  background-image: linear-gradient(#50d4ab, #9faad7, #fac20a, #f66f6a);
+  border-radius: 2em;
+}

@@ -22,9 +22,27 @@
 
 <!-- tabs:start -->
 
-#### **题解1**
+#### **JavaScript**
 
 ```javascript
+
+```
+
+#### **Java**
+
+```java
+
+```
+
+#### **C#**
+
+```cs
+
+```
+
+#### **Python**
+
+```python
 
 ```
 

@@ -1,20 +1,27 @@
-<!-- logo标识 -->
+<!-- Logo -->
 ![logo](favicon.ico ':size=100x100')
 
-<!-- 以下封面描述 -->
-# CloudNotes <small>1.0.2</small>
+<!-- The following cover description -->
+# CloudNotes ![GitHub package.json version](https://img.shields.io/github/package-json/v/yequanrui/CloudNotes?label=%20)
 
-> A magical documentation site generate template.
+> Record your collection all the way
 
-- :hourglass_flowing_sand: Quickly build a blog
-- :sparkles:User-friendly catalog
-- :notebook_with_decorative_cover: Based on configuration
+- 👨‍💻👩‍💻Record LeetCode solutions
+- 🧰📓Record common tool notes
+- 🎶🎵Record often listen songs
 
-<!-- 以下为链接，空格分隔 -->
+<span id="busuanzi_container_site_pv" style='display:none'>
+    👀 本站总访问量：<span id="busuanzi_value_site_pv"></span> 次
+</span>
+<span id="busuanzi_container_site_uv" style='display:none'>
+    | 🚴‍♂️ 本站总访客数：<span id="busuanzi_value_site_uv"></span> 人
+</span>
+
+<!-- The following are links, separated by spaces -->
 [Create New](https://github.com/yequanrui/CloudNotes/generate) [Get Started](_index)
 
-<!-- 这个是封面背景图，不配置的话，是随机的颜色 -->
+<!-- This is the cover background image, if not configured, it will be a random color -->
 <!-- ![BG](img/bg.svg) -->
 
-<!-- 固定封面背景色，不配置的话，背景是随机的颜色，背景色和背景图只能同时配置一个 -->
+<!-- This is the cover background color, if not configured, it will be a random color, Only one background color and background image can be configured at the same time -->
 <!-- ![color](#f0f0f0) -->

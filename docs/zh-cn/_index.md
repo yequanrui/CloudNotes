@@ -1,6 +1,6 @@
 # CloudNotes
 
-> A markdown-based notes site using *docsifyjs*
+> 一个使用*docsifyjs*创建的基于markdown的笔记网站
 
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/yequanrui/CloudNotes)](https://github.com/yequanrui/CloudNotes "Go to homepage")
 [![GitHub watchers](https://img.shields.io/github/watchers/yequanrui/CloudNotes?style=social)](https://github.com/yequanrui/CloudNotes/watchers)

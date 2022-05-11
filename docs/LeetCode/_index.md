@@ -1,5 +1,23 @@
 > Collection of LeetCode
 
-* [JavaScript](LeetCode/JavaScript/_index.md "Collection of LeetCode-JavaScript")
-* [Java](LeetCode/Java/_index.md "Collection of LeetCode-Java")
-* [C#](LeetCode/CSharp/_index.md "Collection of LeetCode-C#")
+<!-- tabs:start -->
+
+### **简单**
+
+#### [28. 实现 strStr()](LeetCode/28.md)
+
+### **中等**
+
+#### [223. 矩形面积](LeetCode/223.md)
+
+#### [442. 数组中重复的数据](LeetCode/442.md)
+
+#### [1015. 可被K整除的最小整数](LeetCode/1015.md)
+
+#### [2086. 从房屋收集雨水需要的最少水桶数](LeetCode/2086.md)
+
+### **困难**
+
+#### [805. 数组的均值分割](LeetCode/805.md)
+
+<!-- tabs:end -->
