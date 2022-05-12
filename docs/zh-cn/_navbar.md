@@ -3,11 +3,14 @@
   * [中文](/zh-cn/)
 
 * 主题
-  * vue
-  * buble
-  * dark
-  * pure
-  * dolphin
+  * Vue
+  * Buble
+  * Dark
+  * Pure
+  * Dolphin
+  * Default
+  * Simple
+  * Simple Dark
 
 * 关于我
   * [Github](https://github.com/yequanrui)

@@ -2,7 +2,7 @@
 ![logo](favicon.ico ':size=100x100')
 
 <!-- The following cover description -->
-# CloudNotes ![GitHub package.json version](https://img.shields.io/github/package-json/v/yequanrui/CloudNotes?label=%20)
+# CloudNotes ![ ](https://img.shields.io/github/package-json/v/yequanrui/CloudNotes?label=%20)
 
 > Record your collection all the way
 
@@ -11,10 +11,10 @@
 - 🎶🎵Record often listen songs
 
 <span id="busuanzi_container_site_pv" style='display:none'>
-    👀 本站总访问量：<span id="busuanzi_value_site_pv"></span> 次
+    👥 Site PV: <span id="busuanzi_value_site_pv"></span>
 </span>
 <span id="busuanzi_container_site_uv" style='display:none'>
-    | 🚴‍♂️ 本站总访客数：<span id="busuanzi_value_site_uv"></span> 人
+    | 👣 Site UV: <span id="busuanzi_value_site_uv"></span>
 </span>
 
 <!-- The following are links, separated by spaces -->

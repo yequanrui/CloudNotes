@@ -9,8 +9,8 @@
   * Pure
   * Dolphin
   * Default
-  * Sample
-  * Sample-Dark
+  * Simple
+  * Simple Dark
 
 * About me
   * [Github](https://github.com/yequanrui)

@@ -2,7 +2,7 @@
 ![logo](../favicon.ico ':size=100x100')
 
 <!-- 以下封面描述 -->
-# CloudNotes ![GitHub package.json version](https://img.shields.io/github/package-json/v/yequanrui/CloudNotes?label=%20)
+# CloudNotes ![ ](https://img.shields.io/github/package-json/v/yequanrui/CloudNotes?label=%20)
 
 > 记录一路走来自己收藏的点点滴滴
 
@@ -11,10 +11,10 @@
 - 🎶🎵收录常听音乐歌曲
 
 <span id="busuanzi_container_site_pv" style='display:none'>
-    👀 本站总访问量：<span id="busuanzi_value_site_pv"></span> 次
+    👥 本站总访问量：<span id="busuanzi_value_site_pv"></span> 次
 </span>
 <span id="busuanzi_container_site_uv" style='display:none'>
-    | 🚴‍♂️ 本站总访客数：<span id="busuanzi_value_site_uv"></span> 人
+    | 👣 本站总访客数：<span id="busuanzi_value_site_uv"></span> 人
 </span>
 
 <!-- 以下为链接，空格分隔 -->
