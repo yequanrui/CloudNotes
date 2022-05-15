@@ -18,7 +18,7 @@
 </span>
 
 <!-- 以下为链接，空格分隔 -->
-[新建](https://github.com/yequanrui/CloudNotes/generate) [开始使用](_index)
+[新建](https://github.com/yequanrui/CloudNotes/generate) [开始使用](zh-cn/_index)
 
 <!-- 这个是封面背景图，不配置的话，是随机的颜色 -->
 <!-- ![BG](img/bg.svg) -->

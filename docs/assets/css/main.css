@@ -1,28 +1,36 @@
-:root {
-  /* Tab blocks */
-  --docsifytabs-border-color: #ededed;
-  --docsifytabs-border-px: 1px;
-  --docsifytabs-border-radius-px: ;
-  --docsifytabs-margin: 1.5em 0;
-  /* Tabs */
-  --docsifytabs-tab-background: #f8f8f8;
-  --docsifytabs-tab-background--active: var(--docsifytabs-content-background);
-  --docsifytabs-tab-color: #999;
-  --docsifytabs-tab-color--active: inherit;
-  --docsifytabs-tab-highlight-px: 3px;
-  --docsifytabs-tab-highlight-color: var(--theme-color, currentColor);
-  --docsifytabs-tab-padding: 0.6em 1em;
-  /* Tab content */
-  --docsifytabs-content-background: inherit;
-  --docsifytabs-content-padding: 1.5rem;
-}
+@import url(./app.css);
+@import url(./base.css);
+@import url(./content.css);
+@import url(./cover.css);
+@import url(./navbar.css);
+@import url(./sidebar.css);
+@import url(./plugin.css);
+
 /* 滚动条宽度 */
 ::-webkit-scrollbar {
-  width: 8px;
+  width: 6px;
 }
-/* 滚动条颜色 */
+/* 滚动槽 */
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+}
+/* 滚动条滑块 */
 ::-webkit-scrollbar-thumb {
-  background: #5e7ce0;
-  background-image: linear-gradient(#50d4ab, #9faad7, #fac20a, #f66f6a);
-  border-radius: 2em;
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+}
+::-webkit-scrollbar-thumb:window-inactive {
+  background: rgba(255, 0, 0, 0.4);
+}
+/* 页脚 */
+.footer {
+  font-size: var(--subsup-font-size);
+  color: var(--notice-tip-color);
+}
+/* 更新时间 */
+.time-updater {
+  font-size: var(--subsup-font-size);
+  color: var(--notice-tip-color);
 }
