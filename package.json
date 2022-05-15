@@ -1,6 +1,6 @@
 {
   "name": "cloud-notes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "yequanrui",
   "description": "A markdown-based notes site using docsify",
   "keywords": [
