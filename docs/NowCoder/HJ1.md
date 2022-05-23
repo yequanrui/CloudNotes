@@ -29,7 +29,7 @@
 #### **JavaScript V8**
 
 ```javascript
-// 使用split，去最后一项的长度
+// 使用split，取最后一项的长度
 // 运行时间：10ms 占用内存：5044KB
 const line = readline();
 const arr = line.split(" ");
@@ -43,7 +43,7 @@ print(line.length - 1 - line.lastIndexOf(" "));
 #### **JavaScript Node**
 
 ```javascript
-// 使用split，去最后一项的长度
+// 使用split，取最后一项的长度
 // 运行时间：77ms 占用内存：6840KB
 const readline = require("readline");
 const rl = readline.createInterface({
@@ -70,7 +70,7 @@ rl.on("line", (line) => {
 #### **TypeScript**
 
 ```javascript
-// 使用split，去最后一项的长度
+// 使用split，取最后一项的长度
 // 运行时间：76ms 占用内存：6836KB
 const readline = require("readline");
 const rl = readline.createInterface({

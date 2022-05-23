@@ -1,5 +1,15 @@
 /* Base
 ============================================================================= */
+@font-face {
+  font-family: 'Cascadia Code';
+  src: url('../font/CascadiaCode.woff2') format('woff2'), url('../font/CascadiaCode.ttf') format('truetype');
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Cascadia Code';
+  src: url('../font/CascadiaCodeItalic.woff2') format('woff2'), url('../font/CascadiaCodeItalic.ttf') format('truetype');
+  font-style: italic;
+}
 :root {
   --base-background-color: #fff;
   --base-color: var(--mono-shade2);

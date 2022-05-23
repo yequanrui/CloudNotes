@@ -1,4 +1,4 @@
-> Collection of NowCoder
+> 牛客题库
 
 <!-- tabs:start -->
 
@@ -6,14 +6,48 @@
 
 ### **简单**
 
-#### [📑HJ1. 字符串最后一个单词的长度](NowCoder/HJ1.md)
-
-#### [📑HJ2 计算某字符出现次数](NowCoder/HJ2.md)
+- [📑HJ1. 字符串最后一个单词的长度](NowCoder/HJ1.md)
+- [📑HJ2 计算某字符出现次数](NowCoder/HJ2.md)
+- [📑HJ4. 字符串分隔](NowCoder/HJ4.md)
+- [📑HJ5. 进制转换](NowCoder/HJ5.md)
+- [📑HJ10. 字符个数统计](NowCoder/HJ10.md)
+- [📑HJ11. 数字颠倒](NowCoder/HJ11.md)
 
 ### **中等**
+
+- [📑HJ17. 坐标移动](NowCoder/HJ17.md)
 
 ### **较难**
 
 ### **困难**
 
 <!-- tabs:end -->
+
+<!-- tabs:start -->
+
+### **字符串**
+
+- [📑HJ1. 字符串最后一个单词的长度](NowCoder/HJ1.md)
+- [📑HJ2 计算某字符出现次数](NowCoder/HJ2.md)
+- [📑HJ4. 字符串分隔](NowCoder/HJ4.md)
+- [📑HJ5. 进制转换](NowCoder/HJ5.md)
+- [📑HJ10. 字符个数统计](NowCoder/HJ10.md)
+- [📑HJ11. 数字颠倒](NowCoder/HJ11.md)
+- [📑HJ17. 坐标移动](NowCoder/HJ17.md)
+
+### **数组**
+
+### **哈希**
+
+- [📑HJ2 计算某字符出现次数](NowCoder/HJ2.md)
+- [📑HJ10. 字符个数统计](NowCoder/HJ10.md)
+
+### **排序**
+
+### **基础数学**
+
+<!-- tabs:end -->
+
+> 附录：
+>
+> - [📑华为OJ目录及总览（C++）](https://zryang.github.io/2018/04/06/hwoj-000/)

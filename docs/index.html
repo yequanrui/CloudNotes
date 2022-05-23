@@ -24,6 +24,38 @@
   <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prism-themes@1/themes/prism-ghcolors.min.css"> -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prism-themes@1/themes/prism-vsc-dark-plus.min.css">
   <link rel="stylesheet" href="assets/css/main.css">
+  <script>
+    function loadStyle(url, callback) {
+      const head = document.getElementsByTagName('head')[0];
+      const script = document.createElement('link');
+      script.type = 'text/javascript';
+      script.href = url;
+      if (typeof (callback) === 'function') {
+        script.onload = script.onreadystatechange = function () {
+          if (!this.readyState || this.readyState === "loaded" || this.readyState === "complete") {
+            callback();
+            script.onload = script.onreadystatechange = null;
+          }
+        };
+      }
+      head.appendChild(script);
+    }
+    function loadScript(url, callback) {
+      const head = document.getElementsByTagName('head')[0];
+      const script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.src = url;
+      if (typeof (callback) === 'function') {
+        script.onload = script.onreadystatechange = function () {
+          if (!this.readyState || this.readyState === "loaded" || this.readyState === "complete") {
+            callback();
+            script.onload = script.onreadystatechange = null;
+          }
+        };
+      }
+      head.appendChild(script);
+    }
+  </script>
 </head>
 
 <body>
@@ -38,15 +70,11 @@
       el: '#app', // 初始化的挂载元素，默认为#app，如果不存在就直接绑定在body上
       basePath: '', // 文档加载的根路径
       relativePath: false, // 是否使用相对路径
+      // routerMode: 'history', // 设置路由模式，设置为 history 之后，浏览器链接里不会出现#
       coverpage: ['/', '/zh-cn/'], // 自定义封面
       onlyCover: true, // 设置了封面后，开启网站只进入封面（默认封面和首页是一页，可以向下滑动）
       homepage: '_index.md', // 主页
       notFoundPage: '_errorpage.md', // 404页面
-      loadNavbar: '_navbar.md', // 导航栏
-      hideSidebar: false, // 是否隐藏侧边栏
-      loadSidebar: '_sidebar.md', // 自定义侧边栏
-      autoHeader: true, // 侧边栏目录作为内容标题
-      loadFooter: '_footer.md', // 自定义页脚
       // logo和name和图标二选一
       name: '📑CloudNotes',
       // logo: '/img/logo.svg',
@@ -54,14 +82,19 @@
         '/zh-cn/': '#/zh-cn/',
         '/': '#/',
       }, // 侧边栏顶部标题或logo链接
+      alias: {
+        '/.*/_navbar.md': '/_navbar.md',
+        // '/.*/_sidebar.md': '/_sidebar.md',
+      },
+      loadNavbar: '_navbar.md', // 导航栏
+      hideSidebar: false, // 是否隐藏侧边栏
+      loadSidebar: '_sidebar.md', // 自定义侧边栏
+      autoHeader: true, // 侧边栏目录作为内容标题
+      loadFooter: '_footer.md', // 自定义页脚
       maxLevel: 6, // 最大支持渲染的标题层级
       subMaxLevel: 4, // 自定义侧边栏最大层级
       mergeNavbar: true, // 小屏自动合并导航栏和侧边栏
       // 路由映射，固定根目录的文件
-      alias: {
-        // '/.*/_sidebar.md': '/_sidebar.md',
-        // '/.*/_navbar.md': '/_navbar.md',
-      },
       auto2top: true, // url变化自动滚动到顶部
       topMargin: 10, // 内容距离顶部的高度
       // themeColor: '#3F51B5', // 样式主颜色
@@ -148,7 +181,7 @@
       },
       // Docsify Darklight Theme配置
       darklightTheme: {
-        siteFont: 'Source Sans Pro',
+        siteFont: 'Cascadia Code',
         defaultTheme: 'dark',
         codeFontFamily: 'Roboto Mono, Monaco, courier, monospace',
         bodyFontSize: '16px',

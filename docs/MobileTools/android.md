@@ -11,7 +11,7 @@
 | Material Files                         | 1.4.2            |                                                      |
 | MeetMusic                              | 1.1.0            |                                                      |
 | MiXplorer                              | 6.49.5           |                                                      |
-| MusicWorld                             | 1.5.8            |                                                      |
+| MusicWorld                             | 1.6.0            |                                                      |
 | Office                                 | 16.0.14701.20166 |                                                      |
 | OPlayer                                | 5.00.25          |                                                      |
 | PDF全能王                              | 2.3              |                                                      |
@@ -54,6 +54,7 @@
 | [阅读][阅读]                           | 3.22.031722      | 自定义来源阅读网络内容工具                           |
 | 悦音                                   | 2.0.4            |                                                      |
 | 中国法律法规                           | 8.4.0            |                                                      |
+| 周易算卦                               | 1.0.0            | 根据曾仕强先生的硬币卜卦法编写而成                   |
 
 [BlackBox]: https://github.com/FBlackBox/BlackBox '跳转主页'
 [File Commander]: https://www.mobisystems.com/zh-cn/file-commander-premium/ '跳转主页'
