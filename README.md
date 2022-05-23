@@ -11,8 +11,10 @@
 
 ## 界面预览
 
-[![Coverpage screenshot](sample_1.png)](https://yequanrui.github.io/CloudNotes/ "Coverpage screenshot")
-[![Homepage screenshot](sample_2.png)](https://yequanrui.github.io/CloudNotes/ "Homepage screenshot")
+[![Coverpage Dark](demo_dark_1.png)](https://yequanrui.github.io/CloudNotes/ "Coverpage Dark")
+[![Homepage Dark](demo_dark_2.png)](https://yequanrui.github.io/CloudNotes/ "Homepage Dark")
+[![Coverpage Light](demo_light_1.png)](https://yequanrui.github.io/CloudNotes/ "Coverpage Light")
+[![Homepage Light](demo_light_2.png)](https://yequanrui.github.io/CloudNotes/ "Homepage Light")
 
 ## 文件作用
 
@@ -24,5 +26,6 @@
 | _coverpage.md       | 封面配置文件               |
 | _navbar.md          | 导航栏配置文件             |
 | _sidebar.md         | 侧边栏配置文件             |
+| _footer.md          | 页脚配置文件               |
 | favicon.ico         | 浏览器图标                 |
 | .nojekyll           | 阻止忽略掉下划线开头的文件 |

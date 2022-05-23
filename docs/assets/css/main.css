@@ -6,6 +6,10 @@
 @import url(./sidebar.css);
 @import url(./plugin.css);
 
+.app-nav li ul {
+  background: var(--background);
+}
+
 /* 滚动条宽度 */
 ::-webkit-scrollbar {
   width: 6px;

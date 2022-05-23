@@ -17,9 +17,9 @@
   --mono-tint3: hsl(var(--mono-hue), var(--mono-saturation), 97%); /* #f7f7f7 */
 
   /* Theme */
-  --theme-hue: 204;
-  --theme-saturation: 90%;
-  --theme-lightness: 45%;
+  --theme-hue: 226;
+  --theme-saturation: 54%;
+  --theme-lightness: 56%;
   --theme-color: hsl(var(--theme-hue), var(--theme-saturation), var(--theme-lightness));
 
   /* Typography
