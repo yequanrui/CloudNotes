@@ -12,6 +12,8 @@
 - [📑HJ5. 进制转换](NowCoder/HJ5.md)
 - [📑HJ10. 字符个数统计](NowCoder/HJ10.md)
 - [📑HJ11. 数字颠倒](NowCoder/HJ11.md)
+- [📑HJ12. 字符串反转](NowCoder/HJ12.md)
+- [📑HJ14. 字符串排序](NowCoder/HJ14.md)
 
 ### **中等**
 
@@ -33,6 +35,8 @@
 - [📑HJ5. 进制转换](NowCoder/HJ5.md)
 - [📑HJ10. 字符个数统计](NowCoder/HJ10.md)
 - [📑HJ11. 数字颠倒](NowCoder/HJ11.md)
+- [📑HJ12. 字符串反转](NowCoder/HJ12.md)
+- [📑HJ14. 字符串排序](NowCoder/HJ14.md)
 - [📑HJ17. 坐标移动](NowCoder/HJ17.md)
 
 ### **数组**
@@ -43,6 +47,8 @@
 - [📑HJ10. 字符个数统计](NowCoder/HJ10.md)
 
 ### **排序**
+
+- [📑HJ14. 字符串排序](NowCoder/HJ14.md)
 
 ### **基础数学**
 
