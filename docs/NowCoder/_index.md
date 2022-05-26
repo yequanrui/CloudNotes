@@ -14,6 +14,8 @@
 - [📑HJ11. 数字颠倒](NowCoder/HJ11.md)
 - [📑HJ12. 字符串反转](NowCoder/HJ12.md)
 - [📑HJ14. 字符串排序](NowCoder/HJ14.md)
+- [📑HJ21. 简单密码](NowCoder/HJ21.md)
+- [📑HJ23. 删除字符串中出现次数最少的字符](NowCoder/HJ23.md)
 
 ### **中等**
 
@@ -38,6 +40,8 @@
 - [📑HJ12. 字符串反转](NowCoder/HJ12.md)
 - [📑HJ14. 字符串排序](NowCoder/HJ14.md)
 - [📑HJ17. 坐标移动](NowCoder/HJ17.md)
+- [📑HJ21. 简单密码](NowCoder/HJ21.md)
+- [📑HJ23. 删除字符串中出现次数最少的字符](NowCoder/HJ23.md)
 
 ### **数组**
 
@@ -45,12 +49,17 @@
 
 - [📑HJ2 计算某字符出现次数](NowCoder/HJ2.md)
 - [📑HJ10. 字符个数统计](NowCoder/HJ10.md)
+- [📑HJ23. 删除字符串中出现次数最少的字符](NowCoder/HJ23.md)
 
 ### **排序**
 
 - [📑HJ14. 字符串排序](NowCoder/HJ14.md)
 
 ### **基础数学**
+
+### **模拟**
+
+- [📑HJ21. 简单密码](NowCoder/HJ21.md)
 
 <!-- tabs:end -->
 
