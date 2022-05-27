@@ -9,5 +9,8 @@
   - [📑HJ12. 字符串反转](NowCoder/HJ12.md)
   - [📑HJ14. 字符串排序](NowCoder/HJ14.md)
   - [📑HJ17. 坐标移动](NowCoder/HJ17.md)
+  - [📑HJ20. 密码验证合格程序](NowCoder/HJ20.md)
   - [📑HJ21. 简单密码](NowCoder/HJ21.md)
   - [📑HJ23. 删除字符串中出现次数最少的字符](NowCoder/HJ23.md)
+  - [📑HJ26. 字符串排序](NowCoder/HJ26.md)
+  - [📑HJ29. 字符串加解密](NowCoder/HJ29.md)
