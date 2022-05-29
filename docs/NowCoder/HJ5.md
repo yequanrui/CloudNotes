@@ -29,66 +29,30 @@
 #### **JavaScript V8**
 
 ```javascript
-// 使用Number的parseInt函数转换
-// 运行时间：10ms 占用内存：5032KB
-while ((line = readline())) {
+function func(line) {
+  // 方法一：使用Number的parseInt函数转换
   console.log(parseInt(line, 16));
-}
-// 使用Number构造函数转换
-// 运行时间：10ms 占用内存：5048KB
-while ((line = readline())) {
+  // 方法二：使用Number构造函数转换
   console.log(Number(line));
 }
+func(readline());
 ```
 
-#### **JavaScript Node**
+#### **JavaScript Node / TypeScript**
 
 ```javascript
-// 使用Number的parseInt函数转换
-// 运行时间：80ms 占用内存：6968KB
-const readline = require("readline");
-const rl = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout,
-});
-rl.on("line", (line) => {
+function func(line) {
+  // 方法一：使用Number的parseInt函数转换
   console.log(parseInt(line, 16));
-});
-// 使用Number构造函数转换
-// 运行时间：80ms 占用内存：7000KB
-const readline = require("readline");
-const rl = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout,
-});
-rl.on("line", (line) => {
+  // 方法二：使用Number构造函数转换
   console.log(Number(line));
-});
-```
-
-#### **TypeScript**
-
-```javascript
-// 使用Number的parseInt函数转换
-// 运行时间：79ms 占用内存：6968KB
+}
 const readline = require("readline");
 const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
 });
-rl.on("line", (line) => {
-  console.log(parseInt(line, 16));
-});
-// 使用Number构造函数转换
-// 运行时间：79ms 占用内存：7040KB
-const readline = require("readline");
-const rl = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout,
-});
-rl.on("line", (line) => {
-  console.log(Number(line));
-});
+rl.on("line", func);
 ```
 
 <!-- tabs:end -->

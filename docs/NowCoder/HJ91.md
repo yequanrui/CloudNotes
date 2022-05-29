@@ -25,19 +25,24 @@
 #### **JavaScript V8**
 
 ```javascript
-
+function func(line) {
+  // TODO
+}
+func(readline());
 ```
 
-#### **JavaScript Node**
+#### **JavaScript Node / TypeScript**
 
 ```javascript
-
-```
-
-#### **TypeScript**
-
-```javascript
-
+function func(line) {
+  // TODO
+}
+const readline = require("readline");
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout,
+});
+rl.on("line", func);
 ```
 
 <!-- tabs:end -->

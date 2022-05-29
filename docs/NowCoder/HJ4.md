@@ -27,57 +27,37 @@
 #### **JavaScript V8**
 
 ```javascript
-// 运行时间：11ms 占用内存：5188KB
-const str = readline();
 const gap = 8;
-const func = (str) => {
-  while (str.length) {
-    const s = str.slice(0, gap);
-    console.log(s.padEnd(gap, "0"));
-    str = str.slice(gap);
-  }
-};
-func(str);
-```
-
-#### **JavaScript Node**
-
-```javascript
-// 运行时间：77ms 占用内存：6916KB
-const readline = require("readline");
-const rl = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout,
-});
-const gap = 8;
-const func = (str) => {
-  while (str.length) {
-    const s = str.slice(0, gap);
-    console.log(s.padEnd(gap, "0"));
-    str = str.slice(gap);
-  }
-};
-rl.on("line", func);
-```
-
-#### **TypeScript**
-
-```javascript
-// 运行时间：78ms 占用内存：6920KB
-const readline = require("readline");
-const rl = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout,
-});
-const gap = 8;
-const func = (line) => {
+function func(line) {
+  // 使用slice拆分，padEnd补齐字符
   let str = line;
   while (str.length) {
     const s = str.slice(0, gap);
     console.log(s.padEnd(gap, "0"));
     str = str.slice(gap);
   }
-};
+}
+func(readline());
+```
+
+#### **JavaScript Node / TypeScript**
+
+```javascript
+const gap = 8;
+function func(line) {
+  // 使用slice拆分，padEnd补齐字符
+  let str = line;
+  while (str.length) {
+    const s = str.slice(0, gap);
+    console.log(s.padEnd(gap, "0"));
+    str = str.slice(gap);
+  }
+}
+const readline = require("readline");
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout,
+});
 rl.on("line", func);
 ```
 

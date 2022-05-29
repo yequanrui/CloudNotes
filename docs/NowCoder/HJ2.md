@@ -30,27 +30,23 @@
 
 ```javascript
 // 使用split
-// 运行时间：11ms 占用内存：5044KB
 let line = readline().toLowerCase();
 let target = readline().toLowerCase();
 print(line.split(target).length - 1);
 // 使用split和filter
-// 运行时间：12ms 占用内存：5068KB
 let line = readline().toLowerCase();
 let target = readline().toLowerCase();
 print(line.split("").filter((e) => e === target).length);
 // 使用match
-// 运行时间：11ms 占用内存：5172KB
 let line = readline().toLowerCase();
 let target = readline().toLowerCase();
 print((line.match(RegExp(target, 'gi')) || []).length);
 ```
 
-#### **JavaScript Node**
+#### **JavaScript Node / TypeScript**
 
 ```javascript
 // 使用split
-// 运行时间：76ms 占用内存：6828KB
 const readline = require("readline");
 const rl = readline.createInterface({
   input: process.stdin,
@@ -64,7 +60,6 @@ rl.on("close", () => {
   console.log(arr[0].split(arr[1]).length - 1);
 });
 // 使用split和filter
-// 运行时间：76ms 占用内存：6732KB
 const readline = require("readline");
 const rl = readline.createInterface({
   input: process.stdin,
@@ -78,7 +73,6 @@ rl.on("close", () => {
   console.log(arr[0].split("").filter((e) => e === arr[1]).length);
 });
 // 使用match
-// 运行时间：76ms 占用内存：6876KB
 const readline = require("readline");
 const rl = readline.createInterface({
   input: process.stdin,
@@ -90,52 +84,6 @@ rl.on("line", (line) => {
 });
 rl.on("close", () => {
   console.log((arr[0].match(RegExp(arr[1], 'gi')) || []).length);
-});
-```
-
-#### **TypeScript**
-
-```javascript
-// 使用split
-// 运行时间：77ms 占用内存：6808KB
-const readline = require("readline");
-const rl = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout,
-});
-const arr = [];
-rl.on("line", (line) => {
-  arr.push(line.toLowerCase());
-});
-rl.on("close", () => {
-  console.log(arr[0].split(arr[1]).length - 1);
-});
-// 使用match
-// 运行时间：79ms 占用内存：6832KB
-const readline = require("readline");
-const rl = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout,
-});
-const arr = [];
-rl.on("line", (line) => {
-  arr.push(line.toLowerCase());
-});
-rl.on("close", () => {
-  console.log((arr[0].match(RegExp(arr[1], 'gi')) || []).length);
-});
-// 使用split和filter
-// 运行时间：79ms 占用内存：6876KBconst readline = require("readline");
-const rl = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout,
-});
-const arr = [];
-rl.on("line", (line) => {
-  arr.push(line.toLowerCase());
-});
-rl.on("close", () => {
-  console.log(arr[0].split("").filter((e) => e === arr[1]).length);
 });
 ```
 

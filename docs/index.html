@@ -28,11 +28,11 @@
     function loadStyle(url, callback) {
       const head = document.getElementsByTagName('head')[0];
       const script = document.createElement('link');
-      script.type = 'text/javascript';
+      script.rel = 'stylesheet';
       script.href = url;
       if (typeof (callback) === 'function') {
         script.onload = script.onreadystatechange = function () {
-          if (!this.readyState || this.readyState === "loaded" || this.readyState === "complete") {
+          if (!this.readyState || ['loaded', 'complete'].includes(this.readyState)) {
             callback();
             script.onload = script.onreadystatechange = null;
           }
@@ -47,7 +47,7 @@
       script.src = url;
       if (typeof (callback) === 'function') {
         script.onload = script.onreadystatechange = function () {
-          if (!this.readyState || this.readyState === "loaded" || this.readyState === "complete") {
+          if (!this.readyState || ['loaded', 'complete'].includes(this.readyState)) {
             callback();
             script.onload = script.onreadystatechange = null;
           }

@@ -30,21 +30,18 @@
 
 ```javascript
 // 使用split，取最后一项的长度
-// 运行时间：10ms 占用内存：5044KB
 const line = readline();
 const arr = line.split(" ");
 print(arr[arr.length - 1].length);
 // 使用lastIndexOf，用总长度减去该序号
-// 运行时间：11ms 占用内存：5060KB
 const line = readline();
 print(line.length - 1 - line.lastIndexOf(" "));
 ```
 
-#### **JavaScript Node**
+#### **JavaScript Node / TypeScript**
 
 ```javascript
 // 使用split，取最后一项的长度
-// 运行时间：77ms 占用内存：6840KB
 const readline = require("readline");
 const rl = readline.createInterface({
   input: process.stdin,
@@ -55,34 +52,6 @@ rl.on("line", (line) => {
   console.log(arr[arr.length - 1].length);
 });
 // 使用lastIndexOf，用总长度减去该序号
-// 运行时间：运行时间：74ms 占用内存：6796KB
-const readline = require("readline");
-const rl = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout,
-});
-rl.on("line", (line) => {
-  const arr = line.split(" ");
-  console.log(line.length - 1 - line.lastIndexOf(" "));
-});
-```
-
-#### **TypeScript**
-
-```javascript
-// 使用split，取最后一项的长度
-// 运行时间：76ms 占用内存：6836KB
-const readline = require("readline");
-const rl = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout,
-});
-rl.on("line", (line) => {
-  const arr = line.split(" ");
-  console.log(arr[arr.length - 1].length);
-});
-// 使用lastIndexOf，用总长度减去该序号
-// 运行时间：74ms 占用内存：6800KB
 const readline = require("readline");
 const rl = readline.createInterface({
   input: process.stdin,
