@@ -61,6 +61,7 @@ func(readline());
 const res = [];
 function func(line) {
   res.push(line);
+  // 如果数组长度-1等于首位的值，进入计算
   if (res.length - 1 === parseInt(res[0])) {
     // 去掉首位
     res.shift();

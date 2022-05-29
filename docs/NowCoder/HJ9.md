@@ -31,7 +31,8 @@
 
 ```javascript
 function func(line) {
-  // TODO
+  // 先用reverse逆序，再用Set去重
+  console.log(Array.from(new Set(line.split("").reverse())).join(""));
 }
 func(readline());
 ```
@@ -40,7 +41,8 @@ func(readline());
 
 ```javascript
 function func(line) {
-  // TODO
+  // 先用reverse逆序，再用Set去重
+  console.log(Array.from(new Set(line.split("").reverse())).join(""));
 }
 const readline = require("readline");
 const rl = readline.createInterface({
