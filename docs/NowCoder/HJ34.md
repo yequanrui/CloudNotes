@@ -28,7 +28,9 @@
 function func(line) {
   // TODO
 }
-func(readline());
+while ((line = readline())) {
+  func(line);
+}
 ```
 
 #### **JavaScript Node / TypeScript**

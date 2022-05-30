@@ -19,6 +19,7 @@
 - [📑HJ10. 字符个数统计](NowCoder/HJ10.md)
 - [📑HJ11. 数字颠倒](NowCoder/HJ11.md)
 - [📑HJ12. 字符串反转](NowCoder/HJ12.md)
+- [📑HJ13. 句子逆序](NowCoder/HJ13.md)
 - [📑HJ14. 字符串排序](NowCoder/HJ14.md)
 - [📑HJ21. 简单密码](NowCoder/HJ21.md)
 - [📑HJ23. 删除字符串中出现次数最少的字符](NowCoder/HJ23.md)
@@ -33,6 +34,8 @@
 ### **较难**
 
 - [📑HJ3. 明明的随机数](NowCoder/HJ3.md)
+- [📑HJ18. 识别有效的IP地址和掩码并进行分类统计](NowCoder/HJ18.md)
+- [📑HJ19. 简单错误记录](NowCoder/HJ19.md)
 
 ### **困难**
 
@@ -41,6 +44,10 @@
 <!-- tabs:start -->
 
 ### **基础数学**
+
+- [📑HJ7. 取近似值](NowCoder/HJ7.md)
+
+### **语法题**
 
 - [📑HJ7. 取近似值](NowCoder/HJ7.md)
 
@@ -55,6 +62,8 @@
 - [📑HJ12. 字符串反转](NowCoder/HJ12.md)
 - [📑HJ14. 字符串排序](NowCoder/HJ14.md)
 - [📑HJ17. 坐标移动](NowCoder/HJ17.md)
+- [📑HJ18. 识别有效的IP地址和掩码并进行分类统计](NowCoder/HJ18.md)
+- [📑HJ19. 简单错误记录](NowCoder/HJ19.md)
 - [📑HJ20. 密码验证合格程序](NowCoder/HJ20.md)
 - [📑HJ21. 简单密码](NowCoder/HJ21.md)
 - [📑HJ23. 删除字符串中出现次数最少的字符](NowCoder/HJ23.md)
@@ -65,6 +74,7 @@
 
 - [📑HJ3. 明明的随机数](NowCoder/HJ3.md)
 - [📑HJ9. 提取不重复的整数](NowCoder/HJ9.md)
+- [📑HJ13. 句子逆序](NowCoder/HJ13.md)
 - [📑HJ20. 密码验证合格程序](NowCoder/HJ20.md)
 
 ### **哈希**
@@ -73,7 +83,12 @@
 - [📑HJ8. 合并表记录](NowCoder/HJ8.md)
 - [📑HJ9. 提取不重复的整数](NowCoder/HJ9.md)
 - [📑HJ10. 字符个数统计](NowCoder/HJ10.md)
+- [📑HJ19. 简单错误记录](NowCoder/HJ19.md)
 - [📑HJ23. 删除字符串中出现次数最少的字符](NowCoder/HJ23.md)
+
+### **查找**
+
+- [📑HJ18. 识别有效的IP地址和掩码并进行分类统计](NowCoder/HJ18.md)
 
 ### **排序**
 
