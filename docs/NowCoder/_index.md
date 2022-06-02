@@ -35,6 +35,7 @@
 - [📑HJ20. 密码验证合格程序](NowCoder/HJ20.md)
 - [📑HJ26. 字符串排序](NowCoder/HJ26.md)
 - [📑HJ29. 字符串加解密](NowCoder/HJ29.md)
+- [📑HJ52. 计算字符串的编辑距离](NowCoder/HJ52.md)
 
 ### **较难**
 
@@ -80,6 +81,7 @@
 - [📑HJ29. 字符串加解密](NowCoder/HJ29.md)
 - [📑HJ40. 统计字符](NowCoder/HJ40.md)
 - [📑HJ46. 截取字符串](NowCoder/HJ46.md)
+- [📑HJ52. 计算字符串的编辑距离](NowCoder/HJ52.md)
 
 ### **数组**
 
@@ -123,6 +125,7 @@
 ### **动态规划**
 
 - [📑HJ16. 购物单](NowCoder/HJ16.md)
+- [📑HJ52. 计算字符串的编辑距离](NowCoder/HJ52.md)
 
 <!-- tabs:end -->
 

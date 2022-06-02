@@ -51,7 +51,7 @@
   - [📑HJ49.](NowCoder/HJ49.md)
   - [📑HJ50.](NowCoder/HJ50.md)
   - [📑HJ51.](NowCoder/HJ51.md)
-  - [📑HJ52.](NowCoder/HJ52.md)
+  - [📑HJ52. 计算字符串的编辑距离](NowCoder/HJ52.md)
   - [📑HJ53.](NowCoder/HJ53.md)
   - [📑HJ54.](NowCoder/HJ54.md)
   - [📑HJ55.](NowCoder/HJ55.md)
