@@ -37,7 +37,9 @@ function func(line) {
     str = str.slice(gap);
   }
 }
-func(readline());
+while ((line = readline())) {
+  func(line);
+}
 ```
 
 #### **JavaScript Node / TypeScript**

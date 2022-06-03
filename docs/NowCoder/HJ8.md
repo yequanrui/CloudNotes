@@ -46,46 +46,57 @@
 #### **JavaScript V8**
 
 ```javascript
+const res = [];
 function func(line) {
-  const res = {};
-  for (let i = 0; i < parseInt(line); i++) {
-    let [k, v] = readline().split(" ");
-    if (res[k]) {
-      res[k] += parseInt(v);
-    } else {
-      res[k] = parseInt(v);
+  res.push(line);
+  // 如果数组长度-1等于首位的值，进入计算
+  if (res.length - 1 === parseInt(res[0])) {
+    // 去掉首位并获取其值
+    const n = res.shift();
+    // 用于存合并后的键值对
+    const map = {};
+    // 遍历剩余数组，如果没有就直接塞进去，如果已经存在就把值取出来相加
+    for (let i = 0; i < n; i++) {
+      let [k, v] = res[i].split(" ");
+      if (map[k]) {
+        map[k] += parseInt(v);
+      } else {
+        map[k] = parseInt(v);
+      }
+    }
+    for (let j in map) {
+      console.log(`${j} ${map[j]}`);
     }
   }
-  for (let j in res) {
-    console.log(j + " " + res[j]);
-  }
 }
-func(readline());
+while ((line = readline())) {
+  func(line);
+}
 ```
 
 #### **JavaScript Node / TypeScript**
 
 ```javascript
-const arr = [];
+const res = [];
 function func(line) {
-  arr.push(line);
+  res.push(line);
   // 如果数组长度-1等于首位的值，进入计算
-  if (arr.length - 1 === parseInt(arr[0])) {
+  if (res.length - 1 === parseInt(res[0])) {
     // 去掉首位并获取其值
-    const n = arr.shift();
+    const n = res.shift();
     // 用于存合并后的键值对
-    const res = {};
+    const map = {};
     // 遍历剩余数组，如果没有就直接塞进去，如果已经存在就把值取出来相加
     for (let i = 0; i < n; i++) {
-      let [k, v] = arr[i].split(" ");
-      if (res[k]) {
-        res[k] += parseInt(v);
+      let [k, v] = res[i].split(" ");
+      if (map[k]) {
+        map[k] += parseInt(v);
       } else {
-        res[k] = parseInt(v);
+        map[k] = parseInt(v);
       }
     }
-    for (let j in res) {
-      console.log(`${j} ${res[j]}`);
+    for (let j in map) {
+      console.log(`${j} ${map[j]}`);
     }
   }
 }
@@ -95,7 +106,6 @@ const rl = readline.createInterface({
   output: process.stdout,
 });
 rl.on("line", func);
-
 ```
 
 <!-- tabs:end -->

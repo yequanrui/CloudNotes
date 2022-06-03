@@ -6,7 +6,7 @@
 
 **描述：**
 
-计算字符串最后一个单词的长度，单词以空格隔开，字符串长度小于5000。（注：字符串末尾不以空格为结尾）
+计算字符串最后一个单词的长度，单词以空格隔开，字符串**长度小于5000**。（注：字符串末尾**不以空格为结尾**）
 
 **输入描述：**
 
@@ -29,38 +29,34 @@
 #### **JavaScript V8**
 
 ```javascript
-// 使用split，取最后一项的长度
-const line = readline();
-const arr = line.split(" ");
-print(arr[arr.length - 1].length);
-// 使用lastIndexOf，用总长度减去该序号
-const line = readline();
-print(line.length - 1 - line.lastIndexOf(" "));
+function func(line) {
+  // 方法1：使用split，取最后一项的长度
+  const arr = line.split(" ");
+  console.log(arr[arr.length - 1].length);
+  // 方法2：使用lastIndexOf，用总长度减去该序号
+  console.log(line.length - 1 - line.lastIndexOf(" "));
+}
+while ((line = readline())) {
+  func(line);
+}
 ```
 
 #### **JavaScript Node / TypeScript**
 
 ```javascript
-// 使用split，取最后一项的长度
-const readline = require("readline");
-const rl = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout,
-});
-rl.on("line", (line) => {
+function func(line) {
+  // 方法1：使用split，取最后一项的长度
   const arr = line.split(" ");
   console.log(arr[arr.length - 1].length);
-});
-// 使用lastIndexOf，用总长度减去该序号
+  // 方法2：使用lastIndexOf，用总长度减去该序号
+  console.log(line.length - 1 - line.lastIndexOf(" "));
+}
 const readline = require("readline");
 const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
 });
-rl.on("line", (line) => {
-  const arr = line.split(" ");
-  console.log(line.length - 1 - line.lastIndexOf(" "));
-});
+rl.on("line", func);
 ```
 
 <!-- tabs:end -->

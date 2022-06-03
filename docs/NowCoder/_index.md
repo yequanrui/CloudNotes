@@ -8,6 +8,7 @@
 - [📑HJ7. 取近似值](NowCoder/HJ7.md)
 - [📑HJ9. 提取不重复的整数](NowCoder/HJ9.md)
 - [📑HJ46. 截取字符串](NowCoder/HJ46.md)
+- [📑HJ101. 输入整型数组和排序标识，对其元素按照升序或降序进行排序](NowCoder/HJ101.md)
 
 ### **简单**
 
@@ -27,6 +28,10 @@
 - [📑HJ22. 汽水瓶](NowCoder/HJ22.md)
 - [📑HJ23. 删除字符串中出现次数最少的字符](NowCoder/HJ23.md)
 - [📑HJ40. 统计字符](NowCoder/HJ40.md)
+- [📑HJ100. 等差数列](NowCoder/HJ100.md)
+- [📑HJ102. 字符统计](NowCoder/HJ102.md)
+- [📑HJ106. 字符逆序](NowCoder/HJ106.md)
+- [📑HJ108. 求最小公倍数](NowCoder/HJ108.md)
 
 ### **中等**
 
@@ -52,6 +57,8 @@
 ### **基础数学**
 
 - [📑HJ7. 取近似值](NowCoder/HJ7.md)
+- [📑HJ100. 等差数列](NowCoder/HJ100.md)
+- [📑HJ108. 求最小公倍数](NowCoder/HJ108.md)
 
 ### **数学**
 
@@ -82,6 +89,8 @@
 - [📑HJ40. 统计字符](NowCoder/HJ40.md)
 - [📑HJ46. 截取字符串](NowCoder/HJ46.md)
 - [📑HJ52. 计算字符串的编辑距离](NowCoder/HJ52.md)
+- [📑HJ102. 字符统计](NowCoder/HJ102.md)
+- [📑HJ106. 字符逆序](NowCoder/HJ106.md)
 
 ### **数组**
 
@@ -99,16 +108,23 @@
 - [📑HJ19. 简单错误记录](NowCoder/HJ19.md)
 - [📑HJ23. 删除字符串中出现次数最少的字符](NowCoder/HJ23.md)
 - [📑HJ40. 统计字符](NowCoder/HJ40.md)
-
-### **查找**
-
-- [📑HJ18. 识别有效的IP地址和掩码并进行分类统计](NowCoder/HJ18.md)
+- [📑HJ102. 字符统计](NowCoder/HJ102.md)
 
 ### **排序**
 
 - [📑HJ6. 质数因子](NowCoder/HJ6.md)
 - [📑HJ14. 字符串排序](NowCoder/HJ14.md)
 - [📑HJ26. 字符串排序](NowCoder/HJ26.md)
+- [📑HJ101. 输入整型数组和排序标识，对其元素按照升序或降序进行排序](NowCoder/HJ101.md)
+- [📑HJ102. 字符统计](NowCoder/HJ102.md)
+
+### **查找**
+
+- [📑HJ18. 识别有效的IP地址和掩码并进行分类统计](NowCoder/HJ18.md)
+
+### **递归**
+
+- [📑HJ108. 求最小公倍数](NowCoder/HJ108.md)
 
 ### **模拟**
 

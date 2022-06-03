@@ -6,7 +6,7 @@
 
 **描述：**
 
-写出一个程序，接受一个由字母、数字和空格组成的字符串，和一个字符，然后输出输入字符串中该字符的出现次数。（不区分大小写字母）
+写出一个程序，接受一个由**字母、数字和空格**组成的字符串，和一个字符，然后输出输入字符串中该字符的出现次数。（**不区分大小写字母**）
 
 数据范围：1 ≤ `n` ≤ 1000
 
@@ -20,7 +20,8 @@
 
 **示例1：**
 
-> 输入：ABCabc A
+> 输入：ABCabc
+A
 >
 > 输出：2
 
@@ -29,62 +30,46 @@
 #### **JavaScript V8**
 
 ```javascript
-// 使用split
-let line = readline().toLowerCase();
-let target = readline().toLowerCase();
-print(line.split(target).length - 1);
-// 使用split和filter
-let line = readline().toLowerCase();
-let target = readline().toLowerCase();
-print(line.split("").filter((e) => e === target).length);
-// 使用match
-let line = readline().toLowerCase();
-let target = readline().toLowerCase();
-print((line.match(RegExp(target, 'gi')) || []).length);
+const res = [];
+function func(line) {
+  res.push(line);
+  // 如果数组长度等于2，进入计算
+  if (res.length === 2) {
+    // 方法1：使用split分割
+    console.log(res[0].toLowerCase().split(res[1].toLowerCase()).length - 1);
+    // 方法2：使用split分割和filter过滤
+    console.log(res[0].toLowerCase().split("").filter((e) => e === res[1].toLowerCase()).length);
+    // 方法3：使用match全局匹配
+    console.log((res[0].match(RegExp(res[1], 'gi')) || []).length);
+  }
+}
+while ((line = readline())) {
+  func(line);
+}
 ```
 
 #### **JavaScript Node / TypeScript**
 
 ```javascript
-// 使用split
+const res = [];
+function func(line) {
+  res.push(line);
+  // 如果数组长度等于2，进入计算
+  if (res.length === 2) {
+    // 方法1：使用split分割
+    console.log(res[0].toLowerCase().split(res[1].toLowerCase()).length - 1);
+    // 方法2：使用split分割和filter过滤
+    console.log(res[0].toLowerCase().split("").filter((e) => e === res[1].toLowerCase()).length);
+    // 方法3：使用match全局匹配
+    console.log((res[0].match(RegExp(res[1], 'gi')) || []).length);
+  }
+}
 const readline = require("readline");
 const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
 });
-const arr = [];
-rl.on("line", (line) => {
-  arr.push(line.toLowerCase());
-});
-rl.on("close", () => {
-  console.log(arr[0].split(arr[1]).length - 1);
-});
-// 使用split和filter
-const readline = require("readline");
-const rl = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout,
-});
-const arr = [];
-rl.on("line", (line) => {
-  arr.push(line.toLowerCase());
-});
-rl.on("close", () => {
-  console.log(arr[0].split("").filter((e) => e === arr[1]).length);
-});
-// 使用match
-const readline = require("readline");
-const rl = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout,
-});
-const arr = [];
-rl.on("line", (line) => {
-  arr.push(line.toLowerCase());
-});
-rl.on("close", () => {
-  console.log((arr[0].match(RegExp(arr[1], 'gi')) || []).length);
-});
+rl.on("line", func);
 ```
 
 <!-- tabs:end -->

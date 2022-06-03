@@ -34,7 +34,9 @@ function func(line) {
   // 先用reverse逆序，再用Set去重
   console.log(Array.from(new Set(line.split("").reverse())).join(""));
 }
-func(readline());
+while ((line = readline())) {
+  func(line);
+}
 ```
 
 #### **JavaScript Node / TypeScript**

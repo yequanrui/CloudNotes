@@ -30,21 +30,23 @@
 
 ```javascript
 function func(line) {
-  // 方法一：使用Number的parseInt函数转换
+  // 方法1：使用Number的parseInt函数转换
   console.log(parseInt(line, 16));
-  // 方法二：使用Number构造函数转换
+  // 方法2：使用Number构造函数转换
   console.log(Number(line));
 }
-func(readline());
+while ((line = readline())) {
+  func(line);
+}
 ```
 
 #### **JavaScript Node / TypeScript**
 
 ```javascript
 function func(line) {
-  // 方法一：使用Number的parseInt函数转换
+  // 方法1：使用Number的parseInt函数转换
   console.log(parseInt(line, 16));
-  // 方法二：使用Number构造函数转换
+  // 方法2：使用Number构造函数转换
   console.log(Number(line));
 }
 const readline = require("readline");

@@ -42,17 +42,22 @@
 #### **JavaScript V8**
 
 ```javascript
+const res = [];
 function func(line) {
-  // 获取随机整数的个数n
-  const n = parseInt(line);
-  // 获取n个随机整数，存进数组
-  const res = [...Array(n)].map(() => readline());
-  // 利用Set去重，从小到大排序并打印
-  Array.from(new Set(res))
-    .sort((a, b) => a - b)
-    .map((e) => console.log(e));
+  res.push(line);
+  // 如果数组长度-1等于首位的值，进入计算
+  if (res.length - 1 === parseInt(res[0])) {
+    // 去掉首位
+    res.shift();
+    // 利用Set去重，从小到大排序并打印
+    Array.from(new Set(res))
+      .sort((a, b) => a - b)
+      .map((e) => console.log(e));
+  }
 }
-func(readline());
+while ((line = readline())) {
+  func(line);
+}
 ```
 
 #### **JavaScript Node / TypeScript**

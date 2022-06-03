@@ -31,8 +31,8 @@
 ```javascript
 function func(line) {
   // 质数因子：任何大于1的数都能被拆分成若干个质数的乘积，另外X的质因子一定小于等于根号X，即质因子的范围为2到√X
+  const res = [];
   let num = parseInt(line);
-  let res = [];
   let i = 2;
   while (i <= num && i * i <= num) {
     if (num % i === 0) {
@@ -47,7 +47,9 @@ function func(line) {
   num !== 1 && res.push(num);
   console.log(res.join(" "));
 }
-func(readline());
+while ((line = readline())) {
+  func(line);
+}
 ```
 
 #### **JavaScript Node / TypeScript**
@@ -55,8 +57,8 @@ func(readline());
 ```javascript
 function func(line) {
   // 质数因子：任何大于1的数都能被拆分成若干个质数的乘积，另外X的质因子一定小于等于根号X，即质因子的范围为2到√X
+  const res = [];
   let num = parseInt(line);
-  let res = [];
   let i = 2;
   while (i <= num && i * i <= num) {
     if (num % i === 0) {

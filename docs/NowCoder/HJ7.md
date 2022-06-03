@@ -39,18 +39,20 @@
 #### **JavaScript V8**
 
 ```javascript
-// 使用parseFloat判断是否浮点数，再使用round取整
 function func(line) {
+  // 使用parseFloat判断是否浮点数，再使用round取整
   !isNaN(parseFloat(line)) && console.log(Math.round(line));
 }
-func(readline());
+while ((line = readline())) {
+  func(line);
+}
 ```
 
 #### **JavaScript Node / TypeScript**
 
 ```javascript
-// 使用parseFloat判断是否浮点数，再使用round取整
 function func(line) {
+  // 使用parseFloat判断是否浮点数，再使用round取整
   !isNaN(parseFloat(line)) && console.log(Math.round(line));
 }
 const readline = require("readline");
