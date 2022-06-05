@@ -1,4 +1,5 @@
-> 牛客题库-华为机考
+> [牛客题库-华为机考](https://www.nowcoder.com/exam/oj/ta?page=1&tpId=37&type=37)
+>
 > 题目数量：103
 
 <!-- tabs:start -->
@@ -28,6 +29,11 @@
 - [📑HJ22. 汽水瓶](NowCoder/HJ22.md)
 - [📑HJ23. 删除字符串中出现次数最少的字符](NowCoder/HJ23.md)
 - [📑HJ40. 统计字符](NowCoder/HJ40.md)
+- [📑HJ91. 走方格的方案数](NowCoder/HJ91.md)
+- [📑HJ94. 记票统计](NowCoder/HJ94.md)
+- [📑HJ96. 表示数字](NowCoder/HJ96.md)
+- [📑HJ97. 记负均正](NowCoder/HJ97.md)
+- [📑HJ99. 自守数](NowCoder/HJ99.md)
 - [📑HJ100. 等差数列](NowCoder/HJ100.md)
 - [📑HJ102. 字符统计](NowCoder/HJ102.md)
 - [📑HJ106. 字符逆序](NowCoder/HJ106.md)
@@ -41,6 +47,7 @@
 - [📑HJ26. 字符串排序](NowCoder/HJ26.md)
 - [📑HJ29. 字符串加解密](NowCoder/HJ29.md)
 - [📑HJ52. 计算字符串的编辑距离](NowCoder/HJ52.md)
+- [📑HJ107. 求解立方根](NowCoder/HJ107.md)
 
 ### **较难**
 
@@ -57,7 +64,9 @@
 ### **基础数学**
 
 - [📑HJ7. 取近似值](NowCoder/HJ7.md)
+- [📑HJ91. 走方格的方案数](NowCoder/HJ91.md)
 - [📑HJ100. 等差数列](NowCoder/HJ100.md)
+- [📑HJ107. 求解立方根](NowCoder/HJ107.md)
 - [📑HJ108. 求最小公倍数](NowCoder/HJ108.md)
 
 ### **数学**
@@ -89,6 +98,7 @@
 - [📑HJ40. 统计字符](NowCoder/HJ40.md)
 - [📑HJ46. 截取字符串](NowCoder/HJ46.md)
 - [📑HJ52. 计算字符串的编辑距离](NowCoder/HJ52.md)
+- [📑HJ96. 表示数字](NowCoder/HJ96.md)
 - [📑HJ102. 字符统计](NowCoder/HJ102.md)
 - [📑HJ106. 字符逆序](NowCoder/HJ106.md)
 
@@ -98,6 +108,7 @@
 - [📑HJ9. 提取不重复的整数](NowCoder/HJ9.md)
 - [📑HJ13. 句子逆序](NowCoder/HJ13.md)
 - [📑HJ20. 密码验证合格程序](NowCoder/HJ20.md)
+- [📑HJ97. 记负均正](NowCoder/HJ97.md)
 
 ### **哈希**
 
@@ -108,6 +119,7 @@
 - [📑HJ19. 简单错误记录](NowCoder/HJ19.md)
 - [📑HJ23. 删除字符串中出现次数最少的字符](NowCoder/HJ23.md)
 - [📑HJ40. 统计字符](NowCoder/HJ40.md)
+- [📑HJ94. 记票统计](NowCoder/HJ94.md)
 - [📑HJ102. 字符统计](NowCoder/HJ102.md)
 
 ### **排序**
@@ -121,6 +133,12 @@
 ### **查找**
 
 - [📑HJ18. 识别有效的IP地址和掩码并进行分类统计](NowCoder/HJ18.md)
+- [📑HJ94. 记票统计](NowCoder/HJ94.md)
+- [📑HJ99. 自守数](NowCoder/HJ99.md)
+
+### **二分**
+
+- [📑HJ107. 求解立方根](NowCoder/HJ107.md)
 
 ### **递归**
 
@@ -133,6 +151,11 @@
 - [📑HJ22. 汽水瓶](NowCoder/HJ22.md)
 - [📑HJ29. 字符串加解密](NowCoder/HJ29.md)
 - [📑HJ46. 截取字符串](NowCoder/HJ46.md)
+- [📑HJ96. 表示数字](NowCoder/HJ96.md)
+
+### **思维**
+
+- [📑HJ97. 记负均正](NowCoder/HJ97.md)
 
 ### **位运算**
 
@@ -142,6 +165,7 @@
 
 - [📑HJ16. 购物单](NowCoder/HJ16.md)
 - [📑HJ52. 计算字符串的编辑距离](NowCoder/HJ52.md)
+- [📑HJ91. 走方格的方案数](NowCoder/HJ91.md)
 
 <!-- tabs:end -->
 
