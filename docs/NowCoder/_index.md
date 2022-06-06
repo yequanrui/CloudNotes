@@ -9,6 +9,7 @@
 - [📑HJ7. 取近似值](NowCoder/HJ7.md)
 - [📑HJ9. 提取不重复的整数](NowCoder/HJ9.md)
 - [📑HJ46. 截取字符串](NowCoder/HJ46.md)
+- [📑HJ58. 输入n个整数，输出其中最小的k个](NowCoder/HJ58.md)
 - [📑HJ101. 输入整型数组和排序标识，对其元素按照升序或降序进行排序](NowCoder/HJ101.md)
 
 ### **简单**
@@ -108,6 +109,7 @@
 - [📑HJ9. 提取不重复的整数](NowCoder/HJ9.md)
 - [📑HJ13. 句子逆序](NowCoder/HJ13.md)
 - [📑HJ20. 密码验证合格程序](NowCoder/HJ20.md)
+- [📑HJ58. 输入n个整数，输出其中最小的k个](NowCoder/HJ58.md)
 - [📑HJ97. 记负均正](NowCoder/HJ97.md)
 
 ### **哈希**
@@ -127,6 +129,7 @@
 - [📑HJ6. 质数因子](NowCoder/HJ6.md)
 - [📑HJ14. 字符串排序](NowCoder/HJ14.md)
 - [📑HJ26. 字符串排序](NowCoder/HJ26.md)
+- [📑HJ58. 输入n个整数，输出其中最小的k个](NowCoder/HJ58.md)
 - [📑HJ101. 输入整型数组和排序标识，对其元素按照升序或降序进行排序](NowCoder/HJ101.md)
 - [📑HJ102. 字符统计](NowCoder/HJ102.md)
 

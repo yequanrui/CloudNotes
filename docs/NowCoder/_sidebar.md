@@ -57,7 +57,7 @@
   - [📑HJ55.](NowCoder/HJ55.md)
   - [📑HJ56.](NowCoder/HJ56.md)
   - [📑HJ57.](NowCoder/HJ57.md)
-  - [📑HJ58.](NowCoder/HJ58.md)
+  - [📑HJ58. 输入n个整数，输出其中最小的k个](NowCoder/HJ58.md)
   - [📑HJ59.](NowCoder/HJ59.md)
   - [📑HJ60.](NowCoder/HJ60.md)
   - [📑HJ61.](NowCoder/HJ61.md)
