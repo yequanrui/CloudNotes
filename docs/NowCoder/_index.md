@@ -30,6 +30,7 @@
 - [📑HJ22. 汽水瓶](NowCoder/HJ22.md)
 - [📑HJ23. 删除字符串中出现次数最少的字符](NowCoder/HJ23.md)
 - [📑HJ40. 统计字符](NowCoder/HJ40.md)
+- [📑HJ87. 密码强度等级](NowCoder/HJ87.md)
 - [📑HJ91. 走方格的方案数](NowCoder/HJ91.md)
 - [📑HJ94. 记票统计](NowCoder/HJ94.md)
 - [📑HJ96. 表示数字](NowCoder/HJ96.md)
@@ -99,6 +100,7 @@
 - [📑HJ40. 统计字符](NowCoder/HJ40.md)
 - [📑HJ46. 截取字符串](NowCoder/HJ46.md)
 - [📑HJ52. 计算字符串的编辑距离](NowCoder/HJ52.md)
+- [📑HJ87. 密码强度等级](NowCoder/HJ87.md)
 - [📑HJ96. 表示数字](NowCoder/HJ96.md)
 - [📑HJ102. 字符统计](NowCoder/HJ102.md)
 - [📑HJ106. 字符逆序](NowCoder/HJ106.md)
@@ -154,6 +156,7 @@
 - [📑HJ22. 汽水瓶](NowCoder/HJ22.md)
 - [📑HJ29. 字符串加解密](NowCoder/HJ29.md)
 - [📑HJ46. 截取字符串](NowCoder/HJ46.md)
+- [📑HJ87. 密码强度等级](NowCoder/HJ87.md)
 - [📑HJ96. 表示数字](NowCoder/HJ96.md)
 
 ### **思维**
