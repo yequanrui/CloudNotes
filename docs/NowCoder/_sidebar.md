@@ -30,7 +30,7 @@
   - [📑HJ28.](NowCoder/HJ28.md)
   - [📑HJ29. 字符串加解密](NowCoder/HJ29.md)
   - [📑HJ30.](NowCoder/HJ30.md)
-  - [📑HJ31.](NowCoder/HJ31.md)
+  - [📑HJ31. 单词倒排](NowCoder/HJ31.md)
   - [📑HJ32.](NowCoder/HJ32.md)
   - [📑HJ33.](NowCoder/HJ33.md)
   - [📑HJ34.](NowCoder/HJ34.md)
