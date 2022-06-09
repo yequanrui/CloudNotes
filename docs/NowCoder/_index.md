@@ -30,7 +30,11 @@
 - [📑HJ22. 汽水瓶](NowCoder/HJ22.md)
 - [📑HJ23. 删除字符串中出现次数最少的字符](NowCoder/HJ23.md)
 - [📑HJ31. 单词倒排](NowCoder/HJ31.md)
+- [📑HJ34. 图片整理](NowCoder/HJ34.md)
+- [📑HJ35. 蛇形矩阵](NowCoder/HJ35.md)
+- [📑HJ37. 统计每个月兔子的总数](NowCoder/HJ37.md)
 - [📑HJ40. 统计字符](NowCoder/HJ40.md)
+- [📑HJ56. 完全数计算](NowCoder/HJ56.md)
 - [📑HJ87. 密码强度等级](NowCoder/HJ87.md)
 - [📑HJ91. 走方格的方案数](NowCoder/HJ91.md)
 - [📑HJ94. 记票统计](NowCoder/HJ94.md)
@@ -67,6 +71,7 @@
 ### **基础数学**
 
 - [📑HJ7. 取近似值](NowCoder/HJ7.md)
+- [📑HJ56. 完全数计算](NowCoder/HJ56.md)
 - [📑HJ91. 走方格的方案数](NowCoder/HJ91.md)
 - [📑HJ100. 等差数列](NowCoder/HJ100.md)
 - [📑HJ107. 求解立方根](NowCoder/HJ107.md)
@@ -99,6 +104,7 @@
 - [📑HJ26. 字符串排序](NowCoder/HJ26.md)
 - [📑HJ29. 字符串加解密](NowCoder/HJ29.md)
 - [📑HJ31. 单词倒排](NowCoder/HJ31.md)
+- [📑HJ34. 图片整理](NowCoder/HJ34.md)
 - [📑HJ40. 统计字符](NowCoder/HJ40.md)
 - [📑HJ46. 截取字符串](NowCoder/HJ46.md)
 - [📑HJ52. 计算字符串的编辑距离](NowCoder/HJ52.md)
@@ -113,6 +119,7 @@
 - [📑HJ9. 提取不重复的整数](NowCoder/HJ9.md)
 - [📑HJ13. 句子逆序](NowCoder/HJ13.md)
 - [📑HJ20. 密码验证合格程序](NowCoder/HJ20.md)
+- [📑HJ35. 蛇形矩阵](NowCoder/HJ35.md)
 - [📑HJ58. 输入n个整数，输出其中最小的k个](NowCoder/HJ58.md)
 - [📑HJ97. 记负均正](NowCoder/HJ97.md)
 
@@ -134,6 +141,8 @@
 - [📑HJ14. 字符串排序](NowCoder/HJ14.md)
 - [📑HJ26. 字符串排序](NowCoder/HJ26.md)
 - [📑HJ31. 单词倒排](NowCoder/HJ31.md)
+- [📑HJ34. 图片整理](NowCoder/HJ34.md)
+- [📑HJ37. 统计每个月兔子的总数](NowCoder/HJ37.md)
 - [📑HJ58. 输入n个整数，输出其中最小的k个](NowCoder/HJ58.md)
 - [📑HJ101. 输入整型数组和排序标识，对其元素按照升序或降序进行排序](NowCoder/HJ101.md)
 - [📑HJ102. 字符统计](NowCoder/HJ102.md)
@@ -141,6 +150,7 @@
 ### **查找**
 
 - [📑HJ18. 识别有效的IP地址和掩码并进行分类统计](NowCoder/HJ18.md)
+- [📑HJ37. 统计每个月兔子的总数](NowCoder/HJ37.md)
 - [📑HJ94. 记票统计](NowCoder/HJ94.md)
 - [📑HJ99. 自守数](NowCoder/HJ99.md)
 
