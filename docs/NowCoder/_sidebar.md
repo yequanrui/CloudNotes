@@ -83,7 +83,7 @@
   - [📑HJ81.](NowCoder/HJ81.md)
   - [📑HJ82.](NowCoder/HJ82.md)
   - [📑HJ83.](NowCoder/HJ83.md)
-  - [📑HJ84.](NowCoder/HJ84.md)
+  - [📑HJ84. 统计大写字母个数](NowCoder/HJ84.md)
   - [📑HJ85.](NowCoder/HJ85.md)
   - [📑HJ86.](NowCoder/HJ86.md)
   - [📑HJ87. 密码强度等级](NowCoder/HJ87.md)
