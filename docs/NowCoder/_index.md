@@ -34,7 +34,10 @@
 - [📑HJ35. 蛇形矩阵](NowCoder/HJ35.md)
 - [📑HJ37. 统计每个月兔子的总数](NowCoder/HJ37.md)
 - [📑HJ40. 统计字符](NowCoder/HJ40.md)
+- [📑HJ53. 杨辉三角的变形](NowCoder/HJ53.md)
 - [📑HJ56. 完全数计算](NowCoder/HJ56.md)
+- [📑HJ60. 查找组成一个偶数最接近的两个素数](NowCoder/HJ60.md)
+- [📑HJ61. 放苹果](NowCoder/HJ61.md)
 - [📑HJ84. 统计大写字母个数](NowCoder/HJ84.md)
 - [📑HJ87. 密码强度等级](NowCoder/HJ87.md)
 - [📑HJ91. 走方格的方案数](NowCoder/HJ91.md)
@@ -72,19 +75,14 @@
 ### **基础数学**
 
 - [📑HJ7. 取近似值](NowCoder/HJ7.md)
+- [📑HJ22. 汽水瓶](NowCoder/HJ22.md)
+- [📑HJ53. 杨辉三角的变形](NowCoder/HJ53.md)
 - [📑HJ56. 完全数计算](NowCoder/HJ56.md)
+- [📑HJ60. 查找组成一个偶数最接近的两个素数](NowCoder/HJ60.md)
 - [📑HJ91. 走方格的方案数](NowCoder/HJ91.md)
 - [📑HJ100. 等差数列](NowCoder/HJ100.md)
 - [📑HJ107. 求解立方根](NowCoder/HJ107.md)
 - [📑HJ108. 求最小公倍数](NowCoder/HJ108.md)
-
-### **数学**
-
-- [📑HJ22. 汽水瓶](NowCoder/HJ22.md)
-
-### **语法题**
-
-- [📑HJ7. 取近似值](NowCoder/HJ7.md)
 
 ### **字符串**
 
@@ -153,6 +151,7 @@
 
 - [📑HJ18. 识别有效的IP地址和掩码并进行分类统计](NowCoder/HJ18.md)
 - [📑HJ37. 统计每个月兔子的总数](NowCoder/HJ37.md)
+- [📑HJ60. 查找组成一个偶数最接近的两个素数](NowCoder/HJ60.md)
 - [📑HJ94. 记票统计](NowCoder/HJ94.md)
 - [📑HJ99. 自守数](NowCoder/HJ99.md)
 
@@ -162,7 +161,12 @@
 
 ### **递归**
 
+- [📑HJ61. 放苹果](NowCoder/HJ61.md)
 - [📑HJ108. 求最小公倍数](NowCoder/HJ108.md)
+
+### **穷举**
+
+- [📑HJ60. 查找组成一个偶数最接近的两个素数](NowCoder/HJ60.md)
 
 ### **模拟**
 
@@ -186,6 +190,7 @@
 
 - [📑HJ16. 购物单](NowCoder/HJ16.md)
 - [📑HJ52. 计算字符串的编辑距离](NowCoder/HJ52.md)
+- [📑HJ61. 放苹果](NowCoder/HJ61.md)
 - [📑HJ91. 走方格的方案数](NowCoder/HJ91.md)
 
 <!-- tabs:end -->

@@ -1,32 +1,70 @@
 > Desktop Application
 
-| Name                         | Version                                                              | Description                 |
-| :--------------------------- | :------------------------------------------------------------------- | :-------------------------- |
-| [彩虹工具箱][彩虹工具箱]     | 2.0.2([Win][彩虹工具箱-Win]/[Mac][彩虹工具箱-Mac])                   | 集成了大量常用的小工具      |
-| [万彩办公大师][万彩办公大师] | 3.0.6([Win][万彩办公大师-Win])                                       | 办公必备的小工具百宝箱      |
-| [洋芋田图像工具箱][洋芋田]   | 3.1.3([Win][洋芋田-Win]/[Mac][洋芋田-Mac])                           | 创意行业从业者的图像工具箱  |
-| [字由][字由]                 | 2.6.0.1([Win][字由-Win]/[Mac][字由-Mac])                             | 跨平台免费字体下载管理工具  |
-| [DevSidecar][DevSidecar]     | 1.5.1([Win][DevSidecar-Win]/[Mac][DevSidecar-Mac])                   | 开发者边车，GitHub、Npm加速 |
-| [Postman][Postman]           | 8.10.0([Win][Postman-Win]/[Mac][Postman-Mac]/[Linux][Postman-Linux]) | API调试、Http请求的工具     |
-| [VSCode][VSCode]             | [1.63.2][VSCode-Down](Win/Linux/Mac)                                 | 微软出的轻量级编辑器        |
-
-[彩虹工具箱]: https://rainbowbyte.com/app/rainbowtoolbox.html '跳转主页'
-[彩虹工具箱-Win]: https://rainbowbyte.lanzoux.com/iUGm2o76n3i '跳转下载页'
-[彩虹工具箱-Mac]: https://rainbowbyte.lanzoux.com/iH1duo76qkd '跳转下载页'
-[万彩办公大师]: http://www.wofficebox.com/ '跳转主页'
-[万彩办公大师-Win]: http://files.wofficebox.com/officebox/download/OfficeBox%E5%AE%98%E6%96%B9%E7%BB%BF%E8%89%B2%E7%89%88.zip '点击下载'
-[洋芋田]: https://imagetoolkit.potatofield.cn/ '跳转主页'
-[洋芋田-Win]: https://files.potatofield.cn/ImageToolkit/Packages/potatofield-image-toolkit-3.1.3.exe '点击下载'
-[洋芋田-Mac]: https://files.potatofield.cn/ImageToolkit/Packages/potatofield-image-toolkit-3.1.3.dmg '点击下载'
-[字由]: https://www.hellofont.cn/ '跳转主页'
-[字由-Win]: https://hellofont.oss-cn-beijing.aliyuncs.com/Client/0/HelloFont.win.2.6.0.1.zip '点击下载'
-[字由-Mac]: https://hellofont.oss-cn-beijing.aliyuncs.com/Client/1/HelloFont.mac.2.600.dmg '点击下载'
-[DevSidecar]: https://gitee.com/docmirror/dev-sidecar '跳转主页'
-[DevSidecar-Win]: https://gitee.com/docmirror/dev-sidecar/attach_files/657277/download/DevSidecar-1.5.1.exe '点击下载'
-[DevSidecar-Mac]: https://gitee.com/docmirror/dev-sidecar/attach_files/657291/download/DevSidecar-1.5.1.dmg '点击下载'
-[Postman]: https://www.postman.com/ '跳转主页'
-[Postman-Win]: https://dl.pstmn.io/download/latest/win64 '点击下载'
-[Postman-Mac]: https://dl.pstmn.io/download/latest/osx '点击下载'
-[Postman-Linux]: https://dl.pstmn.io/download/latest/linux64 '点击下载'
-[VSCode]: https://code.visualstudio.com/ '跳转主页'
-[VSCode-Down]: https://code.visualstudio.com/#alt-downloads '点击跳转下载页面'
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Name</th>
+    <th>Version</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td rowspan="2"><a href="#/WinTools/development">Development</a></td>
+    <td>DBeaver</td>
+    <td>22.1.0(Win/Mac/Linux)</td>
+    <td>免费的通用数据库工具和SQL客户端</td>
+  </tr>
+  <tr>
+    <td>VSCode</td>
+    <td>1.68.0(Win/Mac/Linux)</td>
+    <td>微软的轻量级编辑器</td>
+  </tr>
+  <tr>
+    <td rowspan="1"><a href="#/WinTools/enhancement">Enhancement</a></td>
+    <td>彩虹工具箱</td>
+    <td>2.0.2(Win/Mac)</td>
+    <td>集成了大量常用的小工具</td>
+  </tr>
+  <tr>
+    <td rowspan="3"><a href="#/WinTools/graphics">Graphics</a></td>
+    <td>ScreenToGif</td>
+    <td>2.37.0.0(Win)</td>
+    <td>屏幕、摄像头和画板录像，并有内置编辑器</td>
+  </tr>
+  <tr>
+    <td>Snipaste</td>
+    <td>2.7.3.0(Win/Mac)</td>
+    <td>简单强大的截图贴图工具</td>
+  </tr>
+  <tr>
+    <td>洋芋田图像工具箱</td>
+    <td>3.5.0(Win/Mac)</td>
+    <td>创意行业从业者的图像工具箱</td>
+  </tr>
+  <tr>
+    <td rowspan="4"><a href="#/WinTools/network">Network</a></td>
+    <td>DevSidecar</td>
+    <td>1.7.3(Win/Mac/Linux)</td>
+    <td>开发者边车，GitHub、Npm加速</td>
+  </tr>
+  <tr>
+    <td>Postman</td>
+    <td>9.20.3(Win/Mac/Linux)</td>
+    <td>API调试、Http请求的工具</td>
+  </tr>
+  <tr>
+    <td>Apifox</td>
+    <td>2.1.21(Win/Mac/Linux)</td>
+    <td>API文档、调试、Mock、自动化测试，一体化协作平台</td>
+  </tr>
+  <tr>
+    <td>ApiPost</td>
+    <td>6.1.5(Win/Mac/Linux)</td>
+    <td>支持团队协作、可直接生成文档的API调试、管理工具</td>
+  </tr>
+  <tr>
+    <td rowspan="1"><a href="#/WinTools/office">Office</a></td>
+    <td>万彩办公大师</td>
+    <td>3.1.0(Win)</td>
+    <td>办公必备的小工具百宝箱</td>
+  </tr>
+</table>

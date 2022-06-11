@@ -1,13 +1,22 @@
 > 图像处理
 
-| Name               | Version                             | Description                            |
-| :----------------- | :---------------------------------- | :------------------------------------- |
-| [ScreenToGif][STG] | 2.36.0.0                            | 屏幕、摄像头和画板录像，并有内置编辑器 |
-| [Umi-OCR][UO]      | 1.2.2                               | OCR离线批量图片文字识别工具            |
-| [图压][TY]         | 0.4.1([[Win][TY-Win]/[Mac][TY-Mac]) | 简单易用的图片压缩软件                 |
+| Name                       | Version                                    | Description                            |
+| :------------------------- | :----------------------------------------- | :------------------------------------- |
+| [ScreenToGif][STG]         | [2.37.0.0][STG-Down](Win)                  | 屏幕、摄像头和画板录像，并有内置编辑器 |
+| [Snipaste][SP]             | [2.7.3.0][SP-Down](Win/Mac)                | 简单强大的截图贴图工具                 |
+| [Umi-OCR][UO]              | [1.2.4][UO-Down](Win)                      | OCR离线批量图片文字识别工具            |
+| [洋芋田图像工具箱][洋芋田] | 3.5.0([Win][洋芋田-Win]/[Mac][洋芋田-Mac]) | 创意行业从业者的图像工具箱             |
+| [图压][TY]                 | 0.4.1([[Win][TY-Win]/[Mac][TY-Mac])        | 简单易用的图片压缩软件                 |
 
 [STG]: https://www.screentogif.com/ '跳转主页'
+[STG-Down]: https://github.com/NickeManarin/ScreenToGif/releases '跳转下载页'
+[SP]: https://zh.snipaste.com/ '跳转主页'
+[SP-Down]: https://zh.snipaste.com/download.html '跳转下载页'
 [UO]: https://github.com/hiroi-sora/Umi-OCR '跳转主页'
+[UO-Down]: https://github.com/hiroi-sora/Umi-OCR/releases '跳转下载页'
+[YYT]: https://www.potatofield.cn/imagetoolkit '跳转主页'
+[YYT-Win]: https://files.potatofield.cn/ImageToolkit/Packages/potatofield-image-toolkit-3.5.0.exe '点击下载'
+[YYT-Mac]: https://files.potatofield.cn/ImageToolkit/Packages/potatofield-image-toolkit-3.5.0.dmg '点击下载'
 [TY]: https://tuya.xinxiao.tech/ '跳转主页'
 [TY-Win]: https://haokuai.cdn.tinyservices.net/tuya/%E5%9B%BE%E5%8E%8B%20Setup%200.4.1.exe '点击下载'
 [TY-Mac]: https://haokuai.cdn.tinyservices.net/tuya/%E5%9B%BE%E5%8E%8B-0.4.1.dmg '点击下载'
