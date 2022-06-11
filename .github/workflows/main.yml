@@ -1,5 +1,5 @@
 # 当前workflow配置的名称
-name: Build and Deploy
+name: Sync
 # 任务触发时机，这里是在向github上的master分支提交代码以及提交PR时进行触发
 on:
   push: # 触发条件
