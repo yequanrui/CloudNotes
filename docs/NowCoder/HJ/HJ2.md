@@ -33,7 +33,7 @@ A
 const res = [];
 function func(line) {
   res.push(line);
-  // 如果数组长度等于2，进入计算
+  // 长度为2时进入计算
   if (res.length === 2) {
     // 方法1：使用split分割
     console.log(res[0].toLowerCase().split(res[1].toLowerCase()).length - 1);
@@ -54,7 +54,7 @@ while ((line = readline())) {
 const res = [];
 function func(line) {
   res.push(line);
-  // 如果数组长度等于2，进入计算
+  // 长度为2时进入计算
   if (res.length === 2) {
     // 方法1：使用split分割
     console.log(res[0].toLowerCase().split(res[1].toLowerCase()).length - 1);
