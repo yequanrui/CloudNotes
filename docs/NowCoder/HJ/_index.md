@@ -80,6 +80,10 @@
 
 ### **困难**
 
+- [📑HJ28. 素数伴侣](NowCoder/HJ/HJ28.md)
+- [📑HJ44. Sudoku](NowCoder/HJ/HJ44.md)
+- [📑HJ98. 自动售货系统](NowCoder/HJ/HJ98.md)
+
 <!-- tabs:end -->
 
 <!-- tabs:start -->
@@ -88,6 +92,7 @@
 
 - [📑HJ7. 取近似值](NowCoder/HJ/HJ7.md)
 - [📑HJ22. 汽水瓶](NowCoder/HJ/HJ22.md)
+- [📑HJ44. Sudoku](NowCoder/HJ/HJ44.md)
 - [📑HJ54. 表达式求值](NowCoder/HJ/HJ54.md)
 - [📑HJ53. 杨辉三角的变形](NowCoder/HJ/HJ53.md)
 - [📑HJ56. 完全数计算](NowCoder/HJ/HJ56.md)
@@ -128,6 +133,7 @@
 - [📑HJ85. 最长回文子串](NowCoder/HJ/HJ85.md)
 - [📑HJ87. 密码强度等级](NowCoder/HJ/HJ87.md)
 - [📑HJ96. 表示数字](NowCoder/HJ/HJ96.md)
+- [📑HJ98. 自动售货系统](NowCoder/HJ/HJ98.md)
 - [📑HJ102. 字符统计](NowCoder/HJ/HJ102.md)
 - [📑HJ106. 字符逆序](NowCoder/HJ/HJ106.md)
 
@@ -163,6 +169,7 @@
 - [📑HJ6. 质数因子](NowCoder/HJ/HJ6.md)
 - [📑HJ14. 字符串排序](NowCoder/HJ/HJ14.md)
 - [📑HJ26. 字符串排序](NowCoder/HJ/HJ26.md)
+- [📑HJ28. 素数伴侣](NowCoder/HJ/HJ28.md)
 - [📑HJ31. 单词倒排](NowCoder/HJ/HJ31.md)
 - [📑HJ34. 图片整理](NowCoder/HJ/HJ34.md)
 - [📑HJ37. 统计每个月兔子的总数](NowCoder/HJ/HJ37.md)
@@ -174,6 +181,7 @@
 ### **查找**
 
 - [📑HJ18. 识别有效的IP地址和掩码并进行分类统计](NowCoder/HJ/HJ18.md)
+- [📑HJ28. 素数伴侣](NowCoder/HJ/HJ28.md)
 - [📑HJ37. 统计每个月兔子的总数](NowCoder/HJ/HJ37.md)
 - [📑HJ60. 查找组成一个偶数最接近的两个素数](NowCoder/HJ/HJ60.md)
 - [📑HJ72. 百钱买百鸡问题](NowCoder/HJ/HJ72.md)
@@ -211,9 +219,11 @@
 - [📑HJ46. 截取字符串](NowCoder/HJ/HJ46.md)
 - [📑HJ87. 密码强度等级](NowCoder/HJ/HJ87.md)
 - [📑HJ96. 表示数字](NowCoder/HJ/HJ96.md)
+- [📑HJ98. 自动售货系统](NowCoder/HJ/HJ98.md)
 
 ### **思维**
 
+- [📑HJ44. Sudoku](NowCoder/HJ/HJ44.md)
 - [📑HJ73. 计算日期到天数转换](NowCoder/HJ/HJ73.md)
 - [📑HJ97. 记负均正](NowCoder/HJ/HJ97.md)
 - [📑HJ105. 记负均正II](NowCoder/HJ/HJ105.md)
@@ -234,5 +244,5 @@
 <!-- tabs:end -->
 
 > 附录：
->
-> - [📑华为OJ目录及总览（C++）](https://zryang.github.io/2018/04/06/hwoj-000/)
+
+- [📑华为OJ目录及总览（C++）](https://zryang.github.io/2018/04/06/hwoj-000/)
