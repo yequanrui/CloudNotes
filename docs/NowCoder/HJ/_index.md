@@ -77,6 +77,8 @@
 - [📑HJ3. 明明的随机数](NowCoder/HJ/HJ3.md)
 - [📑HJ18. 识别有效的IP地址和掩码并进行分类统计](NowCoder/HJ/HJ18.md)
 - [📑HJ19. 简单错误记录](NowCoder/HJ/HJ19.md)
+- [📑HJ42. 学英语](NowCoder/HJ/HJ42.md)
+- [📑HJ95. 人民币转换](NowCoder/HJ/HJ95.md)
 
 ### **困难**
 
@@ -124,6 +126,7 @@
 - [📑HJ31. 单词倒排](NowCoder/HJ/HJ31.md)
 - [📑HJ34. 图片整理](NowCoder/HJ/HJ34.md)
 - [📑HJ40. 统计字符](NowCoder/HJ/HJ40.md)
+- [📑HJ42. 学英语](NowCoder/HJ/HJ42.md)
 - [📑HJ46. 截取字符串](NowCoder/HJ/HJ46.md)
 - [📑HJ52. 计算字符串的编辑距离](NowCoder/HJ/HJ52.md)
 - [📑HJ54. 表达式求值](NowCoder/HJ/HJ54.md)
@@ -132,6 +135,7 @@
 - [📑HJ84. 统计大写字母个数](NowCoder/HJ/HJ84.md)
 - [📑HJ85. 最长回文子串](NowCoder/HJ/HJ85.md)
 - [📑HJ87. 密码强度等级](NowCoder/HJ/HJ87.md)
+- [📑HJ95. 人民币转换](NowCoder/HJ/HJ95.md)
 - [📑HJ96. 表示数字](NowCoder/HJ/HJ96.md)
 - [📑HJ98. 自动售货系统](NowCoder/HJ/HJ98.md)
 - [📑HJ102. 字符统计](NowCoder/HJ/HJ102.md)
