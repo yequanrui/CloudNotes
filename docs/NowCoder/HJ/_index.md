@@ -1,6 +1,14 @@
 > [牛客题库-华为机考](https://www.nowcoder.com/exam/oj/ta?tpId=37)
 >
 > 题目数量：103
+>
+> 考试说明：
+>
+> 1. 机考总共是3道题，两个一星题和一个二星题目，100+100+200，总分400分。考100分及以上通过。
+> 2. 机考主要是围绕编程基础、数组、字符串、树、循环一类的题目，可以在牛客网、力扣上多刷题，牛客网需要手动写输入输出，考试是在牛客网上进行。
+>    1. 牛客网练题链接：<https://www.nowcoder.com/ta/huawei/>
+>    2. leetcode编程题全集：<https://leetcode-cn.com/problemset/all/>（需要练习中等以上难度的题目）
+> 3. 考试的时候要提前下载好最新版本的google浏览器，方便打开屏幕监控；手机提前充好电，防止考试过程中手机断电造成监控程序断开。考前在本地安装好调试环境，并提前准备好1个空白界面，方便考试的过程中切出调试代码，代码调试通过后可以直接copy到考试窗口。建议在考试窗口再进行一次调试。可以多次提交。
 
 <!-- tabs:start -->
 
@@ -68,8 +76,11 @@
 - [📑HJ17. 坐标移动](NowCoder/HJ/HJ17.md)
 - [📑HJ20. 密码验证合格程序](NowCoder/HJ/HJ20.md)
 - [📑HJ26. 字符串排序](NowCoder/HJ/HJ26.md)
+- [📑HJ27. 查找兄弟单词](NowCoder/HJ/HJ27.md)
 - [📑HJ29. 字符串加解密](NowCoder/HJ/HJ29.md)
+- [📑HJ36. 字符串加密](NowCoder/HJ/HJ36.md)
 - [📑HJ52. 计算字符串的编辑距离](NowCoder/HJ/HJ52.md)
+- [📑HJ92. 在字符串中找出连续最长的数字串](NowCoder/HJ/HJ92.md)
 - [📑HJ107. 求解立方根](NowCoder/HJ/HJ107.md)
 
 ### **较难**
@@ -125,6 +136,7 @@
 - [📑HJ29. 字符串加解密](NowCoder/HJ/HJ29.md)
 - [📑HJ31. 单词倒排](NowCoder/HJ/HJ31.md)
 - [📑HJ34. 图片整理](NowCoder/HJ/HJ34.md)
+- [📑HJ36. 字符串加密](NowCoder/HJ/HJ36.md)
 - [📑HJ40. 统计字符](NowCoder/HJ/HJ40.md)
 - [📑HJ42. 学英语](NowCoder/HJ/HJ42.md)
 - [📑HJ46. 截取字符串](NowCoder/HJ/HJ46.md)
@@ -135,6 +147,7 @@
 - [📑HJ84. 统计大写字母个数](NowCoder/HJ/HJ84.md)
 - [📑HJ85. 最长回文子串](NowCoder/HJ/HJ85.md)
 - [📑HJ87. 密码强度等级](NowCoder/HJ/HJ87.md)
+- [📑HJ92. 在字符串中找出连续最长的数字串](NowCoder/HJ/HJ92.md)
 - [📑HJ95. 人民币转换](NowCoder/HJ/HJ95.md)
 - [📑HJ96. 表示数字](NowCoder/HJ/HJ96.md)
 - [📑HJ98. 自动售货系统](NowCoder/HJ/HJ98.md)
@@ -185,6 +198,7 @@
 ### **查找**
 
 - [📑HJ18. 识别有效的IP地址和掩码并进行分类统计](NowCoder/HJ/HJ18.md)
+- [📑HJ27. 查找兄弟单词](NowCoder/HJ/HJ27.md)
 - [📑HJ28. 素数伴侣](NowCoder/HJ/HJ28.md)
 - [📑HJ37. 统计每个月兔子的总数](NowCoder/HJ/HJ37.md)
 - [📑HJ60. 查找组成一个偶数最接近的两个素数](NowCoder/HJ/HJ60.md)
@@ -222,6 +236,7 @@
 - [📑HJ29. 字符串加解密](NowCoder/HJ/HJ29.md)
 - [📑HJ46. 截取字符串](NowCoder/HJ/HJ46.md)
 - [📑HJ87. 密码强度等级](NowCoder/HJ/HJ87.md)
+- [📑HJ92. 在字符串中找出连续最长的数字串](NowCoder/HJ/HJ92.md)
 - [📑HJ96. 表示数字](NowCoder/HJ/HJ96.md)
 - [📑HJ98. 自动售货系统](NowCoder/HJ/HJ98.md)
 
