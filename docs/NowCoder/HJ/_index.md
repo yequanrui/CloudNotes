@@ -80,7 +80,10 @@
 - [📑HJ29. 字符串加解密](NowCoder/HJ/HJ29.md)
 - [📑HJ36. 字符串加密](NowCoder/HJ/HJ36.md)
 - [📑HJ52. 计算字符串的编辑距离](NowCoder/HJ/HJ52.md)
+- [📑HJ59. 找出字符串中第一个只出现一次的字符](NowCoder/HJ/HJ59.md)
+- [📑HJ82. 将真分数分解为埃及分数](NowCoder/HJ/HJ82.md)
 - [📑HJ92. 在字符串中找出连续最长的数字串](NowCoder/HJ/HJ92.md)
+- [📑HJ103. Redraiment的走法](NowCoder/HJ/HJ103.md)
 - [📑HJ107. 求解立方根](NowCoder/HJ/HJ107.md)
 
 ### **较难**
@@ -111,6 +114,7 @@
 - [📑HJ56. 完全数计算](NowCoder/HJ/HJ56.md)
 - [📑HJ60. 查找组成一个偶数最接近的两个素数](NowCoder/HJ/HJ60.md)
 - [📑HJ76. 尼科彻斯定理](NowCoder/HJ/HJ76.md)
+- [📑HJ82. 将真分数分解为埃及分数](NowCoder/HJ/HJ82.md)
 - [📑HJ91. 走方格的方案数](NowCoder/HJ/HJ91.md)
 - [📑HJ100. 等差数列](NowCoder/HJ/HJ100.md)
 - [📑HJ107. 求解立方根](NowCoder/HJ/HJ107.md)
@@ -142,6 +146,7 @@
 - [📑HJ46. 截取字符串](NowCoder/HJ/HJ46.md)
 - [📑HJ52. 计算字符串的编辑距离](NowCoder/HJ/HJ52.md)
 - [📑HJ54. 表达式求值](NowCoder/HJ/HJ54.md)
+- [📑HJ59. 找出字符串中第一个只出现一次的字符](NowCoder/HJ/HJ59.md)
 - [📑HJ73. 计算日期到天数转换](NowCoder/HJ/HJ73.md)
 - [📑HJ81. 字符串字符匹配](NowCoder/HJ/HJ81.md)
 - [📑HJ84. 统计大写字母个数](NowCoder/HJ/HJ84.md)
@@ -194,8 +199,9 @@
 - [📑HJ80. 整型数组合并](NowCoder/HJ/HJ80.md)
 - [📑HJ101. 输入整型数组和排序标识，对其元素按照升序或降序进行排序](NowCoder/HJ/HJ101.md)
 - [📑HJ102. 字符统计](NowCoder/HJ/HJ102.md)
+- [📑HJ103. Redraiment的走法](NowCoder/HJ/HJ103.md)
 
-### **查找**
+### **搜索/查找**
 
 - [📑HJ18. 识别有效的IP地址和掩码并进行分类统计](NowCoder/HJ/HJ18.md)
 - [📑HJ27. 查找兄弟单词](NowCoder/HJ/HJ27.md)
@@ -203,6 +209,7 @@
 - [📑HJ37. 统计每个月兔子的总数](NowCoder/HJ/HJ37.md)
 - [📑HJ60. 查找组成一个偶数最接近的两个素数](NowCoder/HJ/HJ60.md)
 - [📑HJ72. 百钱买百鸡问题](NowCoder/HJ/HJ72.md)
+- [📑HJ82. 将真分数分解为埃及分数](NowCoder/HJ/HJ82.md)
 - [📑HJ94. 记票统计](NowCoder/HJ/HJ94.md)
 - [📑HJ99. 自守数](NowCoder/HJ/HJ99.md)
 
