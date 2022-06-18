@@ -75,6 +75,7 @@
 - [📑HJ16. 购物单](NowCoder/HJ/HJ16.md)
 - [📑HJ17. 坐标移动](NowCoder/HJ/HJ17.md)
 - [📑HJ20. 密码验证合格程序](NowCoder/HJ/HJ20.md)
+- [📑HJ24. 合唱队](NowCoder/HJ/HJ24.md)
 - [📑HJ26. 字符串排序](NowCoder/HJ/HJ26.md)
 - [📑HJ27. 查找兄弟单词](NowCoder/HJ/HJ27.md)
 - [📑HJ29. 字符串加解密](NowCoder/HJ/HJ29.md)
@@ -226,9 +227,10 @@
 
 - [📑HJ51. 输出单向链表中倒数第k个结点](NowCoder/HJ/HJ51.md)
 
-### **栈**
+### **栈/队列**
 
-- [[📑HJ54. 表达式求值](NowCoder/HJ/HJ54.md)
+- [📑HJ24. 合唱队](NowCoder/HJ/HJ24.md)
+- [📑HJ54. 表达式求值](NowCoder/HJ/HJ54.md)
 
 ### **递归**
 
@@ -271,12 +273,18 @@
 ### **动态规划**
 
 - [📑HJ16. 购物单](NowCoder/HJ/HJ16.md)
+- [📑HJ24. 合唱队](NowCoder/HJ/HJ24.md)
 - [📑HJ52. 计算字符串的编辑距离](NowCoder/HJ/HJ52.md)
 - [📑HJ61. 放苹果](NowCoder/HJ/HJ61.md)
 - [📑HJ91. 走方格的方案数](NowCoder/HJ/HJ91.md)
 
 <!-- tabs:end -->
 
-> 附录：
+> 公司真题
 
+- [📑华为2016校园招聘上机笔试题](NowCoder/HJ/2016.md)
+
+> 附录
+
+- [📑华为机试-机试实时速递](https://www.online1987.com/)
 - [📑华为OJ目录及总览（C++）](https://zryang.github.io/2018/04/06/hwoj-000/)

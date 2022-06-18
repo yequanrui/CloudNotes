@@ -32,7 +32,7 @@
 function func(line) {
   // 质数因子：任何大于1的数都能被拆分成若干个质数的乘积，另外X的质因子一定小于等于根号X，即质因子的范围为2到√X
   const res = [];
-  let num = parseInt(line);
+  let num = Number(line);
   let i = 2;
   while (i <= num && i * i <= num) {
     if (num % i === 0) {
@@ -58,7 +58,7 @@ while ((line = readline())) {
 function func(line) {
   // 质数因子：任何大于1的数都能被拆分成若干个质数的乘积，另外X的质因子一定小于等于根号X，即质因子的范围为2到√X
   const res = [];
-  let num = parseInt(line);
+  let num = Number(line);
   let i = 2;
   while (i <= num && i * i <= num) {
     if (num % i === 0) {

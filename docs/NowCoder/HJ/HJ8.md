@@ -22,24 +22,34 @@
 **示例1：**
 
 > 输入：4
-0 1
-0 2
-1 2
-3 4
+>
+> 0 1
+>
+> 0 2
+>
+> 1 2
+>
+> 3 4
 >
 > 输出：0 3
-1 2
-3 4
+>
+> 1 2
+>
+> 3 4
 
 **示例2：**
 
 > 输入：3
-0 1
-0 2
-8 9
+>
+> 0 1
+>
+> 0 2
+>
+> 8 9
 >
 > 输出：0 3
-8 9
+>
+> 8 9
 
 <!-- tabs:start -->
 
@@ -49,8 +59,8 @@
 const res = [];
 function func(line) {
   res.push(line);
-  // 如果数组长度-1等于首位的值，进入计算
-  if (res.length - 1 === parseInt(res[0])) {
+  // 如果除首位后的数组长度等于首位的值，进入计算
+  if (res.length - 1 === Number(res[0])) {
     // 去掉首位并获取其值
     const n = res.shift();
     // 用于存合并后的键值对
@@ -58,11 +68,7 @@ function func(line) {
     // 遍历剩余数组，如果没有就直接塞进去，如果已经存在就把值取出来相加
     for (let i = 0; i < n; i++) {
       let [k, v] = res[i].split(" ");
-      if (map[k]) {
-        map[k] += parseInt(v);
-      } else {
-        map[k] = parseInt(v);
-      }
+        map[k] = (map[k]||0)+parseInt(v) ;
     }
     for (let j in map) {
       console.log(`${j} ${map[j]}`);
@@ -80,8 +86,8 @@ while ((line = readline())) {
 const res = [];
 function func(line) {
   res.push(line);
-  // 如果数组长度-1等于首位的值，进入计算
-  if (res.length - 1 === parseInt(res[0])) {
+  // 如果除首位后的数组长度等于首位的值，进入计算
+  if (res.length - 1 === Number(res[0])) {
     // 去掉首位并获取其值
     const n = res.shift();
     // 用于存合并后的键值对
@@ -89,11 +95,7 @@ function func(line) {
     // 遍历剩余数组，如果没有就直接塞进去，如果已经存在就把值取出来相加
     for (let i = 0; i < n; i++) {
       let [k, v] = res[i].split(" ");
-      if (map[k]) {
-        map[k] += parseInt(v);
-      } else {
-        map[k] = parseInt(v);
-      }
+      map[k] = (map[k] || 0) + Number(v);
     }
     for (let j in map) {
       console.log(`${j} ${map[j]}`);
