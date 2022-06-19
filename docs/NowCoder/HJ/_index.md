@@ -94,6 +94,7 @@
 - [📑HJ3. 明明的随机数](NowCoder/HJ/HJ3.md)
 - [📑HJ18. 识别有效的IP地址和掩码并进行分类统计](NowCoder/HJ/HJ18.md)
 - [📑HJ19. 简单错误记录](NowCoder/HJ/HJ19.md)
+- [📑HJ25. 数据分类处理](NowCoder/HJ/HJ25.md)
 - [📑HJ42. 学英语](NowCoder/HJ/HJ42.md)
 - [📑HJ95. 人民币转换](NowCoder/HJ/HJ95.md)
 
@@ -185,6 +186,7 @@
 - [📑HJ10. 字符个数统计](NowCoder/HJ/HJ10.md)
 - [📑HJ19. 简单错误记录](NowCoder/HJ/HJ19.md)
 - [📑HJ23. 删除字符串中出现次数最少的字符](NowCoder/HJ/HJ23.md)
+- [📑HJ25. 数据分类处理](NowCoder/HJ/HJ25.md)
 - [📑HJ40. 统计字符](NowCoder/HJ/HJ40.md)
 - [📑HJ41. 称砝码](NowCoder/HJ/HJ41.md)
 - [📑HJ80. 整型数组合并](NowCoder/HJ/HJ80.md)
@@ -196,6 +198,7 @@
 
 - [📑HJ6. 质数因子](NowCoder/HJ/HJ6.md)
 - [📑HJ14. 字符串排序](NowCoder/HJ/HJ14.md)
+- [📑HJ25. 数据分类处理](NowCoder/HJ/HJ25.md)
 - [📑HJ26. 字符串排序](NowCoder/HJ/HJ26.md)
 - [📑HJ28. 素数伴侣](NowCoder/HJ/HJ28.md)
 - [📑HJ31. 单词倒排](NowCoder/HJ/HJ31.md)
@@ -247,6 +250,7 @@
 - [📑HJ20. 密码验证合格程序](NowCoder/HJ/HJ20.md)
 - [📑HJ21. 简单密码](NowCoder/HJ/HJ21.md)
 - [📑HJ22. 汽水瓶](NowCoder/HJ/HJ22.md)
+- [📑HJ25. 数据分类处理](NowCoder/HJ/HJ25.md)
 - [📑HJ29. 字符串加解密](NowCoder/HJ/HJ29.md)
 - [📑HJ33. 整数与IP地址间的转换](NowCoder/HJ/HJ33.md)
 - [📑HJ38. 求小球落地5次后所经历的路程和第5次反弹的高度](NowCoder/HJ/HJ38.md)

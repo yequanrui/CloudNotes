@@ -25,7 +25,7 @@
   - [📑HJ22. 汽水瓶](NowCoder/HJ/HJ22.md)
   - [📑HJ23. 删除字符串中出现次数最少的字符](NowCoder/HJ/HJ23.md)
   - [📑HJ24. 合唱队](NowCoder/HJ/HJ24.md)
-  - [📑HJ25.](NowCoder/HJ/HJ25.md)
+  - [📑HJ25. 数据分类处理](NowCoder/HJ/HJ25.md)
   - [📑HJ26. 字符串排序](NowCoder/HJ/HJ26.md)
   - [📑HJ27. 查找兄弟单词](NowCoder/HJ/HJ27.md)
   - [📑HJ28. 素数伴侣](NowCoder/HJ/HJ28.md)

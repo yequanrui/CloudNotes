@@ -1,4 +1,4 @@
-来源：<https://www.nowcoder.com/practice/de044e89123f4a7482bd2b214a685201>
+来源：<https://www.nowcoder.com/practice/de044e89123f4a7482bd2b214a685201?tpId=37>
 
 难度：`简单`
 
@@ -68,7 +68,7 @@ function func(line) {
     // 遍历剩余数组，如果没有就直接塞进去，如果已经存在就把值取出来相加
     for (let i = 0; i < n; i++) {
       let [k, v] = res[i].split(" ");
-        map[k] = (map[k]||0)+parseInt(v) ;
+      map[k] = (map[k] || 0) + Number(v);
     }
     for (let j in map) {
       console.log(`${j} ${map[j]}`);
