@@ -1,14 +1,8 @@
 > [牛客题库-华为机考](https://www.nowcoder.com/exam/oj/ta?tpId=37)
 >
+> 在线编程
+>
 > 题目数量：103
->
-> 考试说明：
->
-> 1. 机考总共是3道题，两个一星题和一个二星题目，100+100+200，总分400分。考100分及以上通过。
-> 2. 机考主要是围绕编程基础、数组、字符串、树、循环一类的题目，可以在牛客网、力扣上多刷题，牛客网需要手动写输入输出，考试是在牛客网上进行。
->    1. 牛客网练题链接：<https://www.nowcoder.com/ta/huawei/>
->    2. leetcode编程题全集：<https://leetcode-cn.com/problemset/all/>（需要练习中等以上难度的题目）
-> 3. 考试的时候要提前下载好最新版本的google浏览器，方便打开屏幕监控；手机提前充好电，防止考试过程中手机断电造成监控程序断开。考前在本地安装好调试环境，并提前准备好1个空白界面，方便考试的过程中切出调试代码，代码调试通过后可以直接copy到考试窗口。建议在考试窗口再进行一次调试。可以多次提交。
 
 <!-- tabs:start -->
 
@@ -95,7 +89,13 @@
 - [📑HJ18. 识别有效的IP地址和掩码并进行分类统计](NowCoder/HJ/HJ18.md)
 - [📑HJ19. 简单错误记录](NowCoder/HJ/HJ19.md)
 - [📑HJ25. 数据分类处理](NowCoder/HJ/HJ25.md)
+- [📑HJ30. 字符串合并处理](NowCoder/HJ/HJ30.md)
+- [📑HJ39. 判断两个IP是否属于同一子网](NowCoder/HJ/HJ39.md)
 - [📑HJ42. 学英语](NowCoder/HJ/HJ42.md)
+- [📑HJ68. 成绩排序](NowCoder/HJ/HJ68.md)
+- [📑HJ88. 扑克牌大小](NowCoder/HJ/HJ88.md)
+- [📑HJ89. 24点运算](NowCoder/HJ/HJ89.md)
+- [📑HJ93. 数组分组](NowCoder/HJ/HJ93.md)
 - [📑HJ95. 人民币转换](NowCoder/HJ/HJ95.md)
 
 ### **困难**
@@ -142,10 +142,12 @@
 - [📑HJ23. 删除字符串中出现次数最少的字符](NowCoder/HJ/HJ23.md)
 - [📑HJ26. 字符串排序](NowCoder/HJ/HJ26.md)
 - [📑HJ29. 字符串加解密](NowCoder/HJ/HJ29.md)
+- [📑HJ30. 字符串合并处理](NowCoder/HJ/HJ30.md)
 - [📑HJ31. 单词倒排](NowCoder/HJ/HJ31.md)
 - [📑HJ33. 整数与IP地址间的转换](NowCoder/HJ/HJ33.md)
 - [📑HJ34. 图片整理](NowCoder/HJ/HJ34.md)
 - [📑HJ36. 字符串加密](NowCoder/HJ/HJ36.md)
+- [📑HJ39. 判断两个IP是否属于同一子网](NowCoder/HJ/HJ39.md)
 - [📑HJ40. 统计字符](NowCoder/HJ/HJ40.md)
 - [📑HJ41. 称砝码](NowCoder/HJ/HJ41.md)
 - [📑HJ42. 学英语](NowCoder/HJ/HJ42.md)
@@ -158,7 +160,10 @@
 - [📑HJ84. 统计大写字母个数](NowCoder/HJ/HJ84.md)
 - [📑HJ85. 最长回文子串](NowCoder/HJ/HJ85.md)
 - [📑HJ87. 密码强度等级](NowCoder/HJ/HJ87.md)
+- [📑HJ88. 扑克牌大小](NowCoder/HJ/HJ88.md)
+- [📑HJ89. 24点运算](NowCoder/HJ/HJ89.md)
 - [📑HJ92. 在字符串中找出连续最长的数字串](NowCoder/HJ/HJ92.md)
+- [📑HJ93. 数组分组](NowCoder/HJ/HJ93.md)
 - [📑HJ95. 人民币转换](NowCoder/HJ/HJ95.md)
 - [📑HJ96. 表示数字](NowCoder/HJ/HJ96.md)
 - [📑HJ98. 自动售货系统](NowCoder/HJ/HJ98.md)
@@ -201,10 +206,12 @@
 - [📑HJ25. 数据分类处理](NowCoder/HJ/HJ25.md)
 - [📑HJ26. 字符串排序](NowCoder/HJ/HJ26.md)
 - [📑HJ28. 素数伴侣](NowCoder/HJ/HJ28.md)
+- [📑HJ30. 字符串合并处理](NowCoder/HJ/HJ30.md)
 - [📑HJ31. 单词倒排](NowCoder/HJ/HJ31.md)
 - [📑HJ34. 图片整理](NowCoder/HJ/HJ34.md)
 - [📑HJ37. 统计每个月兔子的总数](NowCoder/HJ/HJ37.md)
 - [📑HJ58. 输入n个整数，输出其中最小的k个](NowCoder/HJ/HJ58.md)
+- [📑HJ68. 成绩排序](NowCoder/HJ/HJ68.md)
 - [📑HJ80. 整型数组合并](NowCoder/HJ/HJ80.md)
 - [📑HJ101. 输入整型数组和排序标识，对其元素按照升序或降序进行排序](NowCoder/HJ/HJ101.md)
 - [📑HJ102. 字符统计](NowCoder/HJ/HJ102.md)
@@ -229,21 +236,25 @@
 ### **链表/双指针**
 
 - [📑HJ51. 输出单向链表中倒数第k个结点](NowCoder/HJ/HJ51.md)
+- [📑HJ88. 扑克牌大小](NowCoder/HJ/HJ88.md)
 
 ### **栈/队列**
 
 - [📑HJ24. 合唱队](NowCoder/HJ/HJ24.md)
 - [📑HJ54. 表达式求值](NowCoder/HJ/HJ54.md)
+- [📑HJ88. 扑克牌大小](NowCoder/HJ/HJ88.md)
 
 ### **递归**
 
 - [📑HJ61. 放苹果](NowCoder/HJ/HJ61.md)
+- [📑HJ93. 数组分组](NowCoder/HJ/HJ93.md)
 - [📑HJ108. 求最小公倍数](NowCoder/HJ/HJ108.md)
 
 ### **穷举**
 
 - [📑HJ60. 查找组成一个偶数最接近的两个素数](NowCoder/HJ/HJ60.md)
 - [📑HJ85. 最长回文子串](NowCoder/HJ/HJ85.md)
+- [📑HJ89. 24点运算](NowCoder/HJ/HJ89.md)
 
 ### **模拟**
 
@@ -254,8 +265,10 @@
 - [📑HJ29. 字符串加解密](NowCoder/HJ/HJ29.md)
 - [📑HJ33. 整数与IP地址间的转换](NowCoder/HJ/HJ33.md)
 - [📑HJ38. 求小球落地5次后所经历的路程和第5次反弹的高度](NowCoder/HJ/HJ38.md)
+- [📑HJ39. 判断两个IP是否属于同一子网](NowCoder/HJ/HJ39.md)
 - [📑HJ46. 截取字符串](NowCoder/HJ/HJ46.md)
 - [📑HJ87. 密码强度等级](NowCoder/HJ/HJ87.md)
+- [📑HJ89. 24点运算](NowCoder/HJ/HJ89.md)
 - [📑HJ92. 在字符串中找出连续最长的数字串](NowCoder/HJ/HJ92.md)
 - [📑HJ96. 表示数字](NowCoder/HJ/HJ96.md)
 - [📑HJ98. 自动售货系统](NowCoder/HJ/HJ98.md)
@@ -285,6 +298,12 @@
 <!-- tabs:end -->
 
 > 公司真题
+>
+> 考试说明：
+>
+> 1. 机考总共是3道题，两个一星题和一个二星题目，100+100+200，总分400分。考100分及以上通过。
+> 2. 机考主要是围绕编程基础、数组、字符串、树、循环一类的题目，可以在牛客网、力扣上多刷题，牛客网需要手动写输入输出，考试是在牛客网上进行。
+> 3. 考试的时候要提前下载好最新版本的google浏览器，方便打开屏幕监控；手机提前充好电，防止考试过程中手机断电造成监控程序断开。考前在本地安装好调试环境，并提前准备好1个空白界面，方便考试的过程中切出调试代码，代码调试通过后可以直接copy到考试窗口。建议在考试窗口再进行一次调试。可以多次提交。
 
 - [📑华为2016校园招聘上机笔试题](NowCoder/HJ/2016.md)
 

@@ -8,6 +8,7 @@
 | CX文件管理器                          | 1.5.2            | 管理手机本地、局域网电脑、远程服务器以及云存储网盘等 |
 | [File Commander][FileCommander]       | 8.2.43518        | 管理手机本地和远程文件，链接所有云账户等             |
 | Hi Dictionary                         | 2.2.8.7          |                                                      |
+| [Keepass2Android][Keepass2Android]    | 1.09d            | 密码管理工具                                         |
 | Material Files                        | 1.4.2            |                                                      |
 | MiXplorer                             | 6.49.5           |                                                      |
 | Office                                | 16.0.14701.20166 |                                                      |
@@ -30,7 +31,7 @@
 | 公式                                  | 8.4              | 数学必备神器，包含了数学相关的所有公式               |
 | [洛雪音乐助手][洛雪音乐助手]          | 0.14.0           | 基于`React native`开发的音乐软件                     |
 | 萌盒                                  | 4.1.0            |                                                      |
-| [魔音MORIN][魔音MORIN]                | 2.2.0            |                                                      |
+| [魔音MORIN][魔音]                     | 2.5.3            |                                                      |
 | 强力清理                              | 8.3.0            | 垃圾清理、内存加速和应用管理                         |
 | 清风工具箱                            | 3.1.0            | 集成了64个非常实用的小功能                           |
 | 全能PDF                               | 2.3              |                                                      |
@@ -60,6 +61,7 @@
 
 [BlackBox]: https://github.com/FBlackBox/BlackBox '跳转主页'
 [FileCommander]: https://www.mobisystems.com/zh-cn/file-commander-premium/ '跳转主页'
+[Keepass2Android]: https://github.com/PhilippC/keepass2android '跳转主页'
 [OPlayer]: http://www.j9p.com/down/530688.html '跳转下载页'
 [QMD]: https://github.com/OJZen/QMD_Android '跳转主页'
 [StellariumMobile]: https://www.stellarium-labs.com/stellarium-mobile-plus/ '跳转主页'
@@ -67,7 +69,7 @@
 [橙心视频]: https://vyshi.app/ '跳转下载页'
 [饭团影院]: https://fantuan.tv/ '跳转主页'
 [洛雪音乐助手]: https://www.lanzoui.com/b0bf2cfa/ '跳转下载页'
-[魔音MORIN]: http://morin.feiyu.vin/ '跳转主页'
+[魔音]: https://pan.quark.cn/s/7467f054104a '跳转下载页'
 [搜云音乐]: http://symusic.top/ '跳转下载页'
 [五音助手]: https://www.6yit.com/42.html '跳转主页'
 [一个木函]: https://www.woobx.cn/ '跳转主页'

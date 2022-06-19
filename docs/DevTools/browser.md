@@ -13,6 +13,7 @@
 | [Edge Translate][EdgeTranslate]   | 2.2.4/[2.2.4][EdgeTranslate-Edge]/2.2.4.1                      | 侧边翻译                             |
 | [Enhanced Github][EnhancedGithub] | 5.0.11                                                         | 提供GitHub附加组件的浏览器扩展       |
 | [FeHelper][FH]                    | [2020.05.2810][FH-Chrome]/[2020.05.2810][FH-Edge]/2020.03.2510 | Web开发者常用工具集                  |
+| Get Favicon                       | 1.2                                                            | 获取网页的favicon                    |
 | [GiteeTree][GT]                   | [2.4.9][GT-Chrome]/[2.4.9][GT-Edge]/[2.4.9][GT-Firefox]        | 基于Octotree的码云文件树插件         |
 | [Ghelper][GH]                     | [2.5.5][GH-Chrome]/[2.5.8][GH-Edge]/[2.3.8][GH-Firefox]        | 谷歌上网助手                         |
 | GitZip for github                 |                                                                | 高速下载GitHub项目文件夹             |
