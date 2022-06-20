@@ -78,7 +78,9 @@
 - [📑HJ41. 称砝码](NowCoder/HJ/HJ41.md)
 - [📑HJ52. 计算字符串的编辑距离](NowCoder/HJ/HJ52.md)
 - [📑HJ59. 找出字符串中第一个只出现一次的字符](NowCoder/HJ/HJ59.md)
+- [📑HJ71. 字符串通配符](NowCoder/HJ/HJ71.md)
 - [📑HJ82. 将真分数分解为埃及分数](NowCoder/HJ/HJ82.md)
+- [📑HJ90. 合法IP](NowCoder/HJ/HJ90.md)
 - [📑HJ92. 在字符串中找出连续最长的数字串](NowCoder/HJ/HJ92.md)
 - [📑HJ103. Redraiment的走法](NowCoder/HJ/HJ103.md)
 - [📑HJ107. 求解立方根](NowCoder/HJ/HJ107.md)
@@ -155,6 +157,7 @@
 - [📑HJ52. 计算字符串的编辑距离](NowCoder/HJ/HJ52.md)
 - [📑HJ54. 表达式求值](NowCoder/HJ/HJ54.md)
 - [📑HJ59. 找出字符串中第一个只出现一次的字符](NowCoder/HJ/HJ59.md)
+- [📑HJ71. 字符串通配符](NowCoder/HJ/HJ71.md)
 - [📑HJ73. 计算日期到天数转换](NowCoder/HJ/HJ73.md)
 - [📑HJ81. 字符串字符匹配](NowCoder/HJ/HJ81.md)
 - [📑HJ84. 统计大写字母个数](NowCoder/HJ/HJ84.md)
@@ -162,6 +165,7 @@
 - [📑HJ87. 密码强度等级](NowCoder/HJ/HJ87.md)
 - [📑HJ88. 扑克牌大小](NowCoder/HJ/HJ88.md)
 - [📑HJ89. 24点运算](NowCoder/HJ/HJ89.md)
+- [📑HJ90. 合法IP](NowCoder/HJ/HJ90.md)
 - [📑HJ92. 在字符串中找出连续最长的数字串](NowCoder/HJ/HJ92.md)
 - [📑HJ93. 数组分组](NowCoder/HJ/HJ93.md)
 - [📑HJ95. 人民币转换](NowCoder/HJ/HJ95.md)
@@ -237,12 +241,14 @@
 
 - [📑HJ51. 输出单向链表中倒数第k个结点](NowCoder/HJ/HJ51.md)
 - [📑HJ88. 扑克牌大小](NowCoder/HJ/HJ88.md)
+- [📑HJ90. 合法IP](NowCoder/HJ/HJ90.md)
 
 ### **栈/队列**
 
 - [📑HJ24. 合唱队](NowCoder/HJ/HJ24.md)
 - [📑HJ54. 表达式求值](NowCoder/HJ/HJ54.md)
 - [📑HJ88. 扑克牌大小](NowCoder/HJ/HJ88.md)
+- [📑HJ90. 合法IP](NowCoder/HJ/HJ90.md)
 
 ### **递归**
 
