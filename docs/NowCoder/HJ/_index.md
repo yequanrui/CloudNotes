@@ -79,6 +79,7 @@
 - [📑HJ52. 计算字符串的编辑距离](NowCoder/HJ/HJ52.md)
 - [📑HJ59. 找出字符串中第一个只出现一次的字符](NowCoder/HJ/HJ59.md)
 - [📑HJ71. 字符串通配符](NowCoder/HJ/HJ71.md)
+- [📑HJ75. 公共子串计算](NowCoder/HJ/HJ75.md)
 - [📑HJ82. 将真分数分解为埃及分数](NowCoder/HJ/HJ82.md)
 - [📑HJ90. 合法IP](NowCoder/HJ/HJ90.md)
 - [📑HJ92. 在字符串中找出连续最长的数字串](NowCoder/HJ/HJ92.md)
@@ -159,6 +160,7 @@
 - [📑HJ59. 找出字符串中第一个只出现一次的字符](NowCoder/HJ/HJ59.md)
 - [📑HJ71. 字符串通配符](NowCoder/HJ/HJ71.md)
 - [📑HJ73. 计算日期到天数转换](NowCoder/HJ/HJ73.md)
+- [📑HJ75. 公共子串计算](NowCoder/HJ/HJ75.md)
 - [📑HJ81. 字符串字符匹配](NowCoder/HJ/HJ81.md)
 - [📑HJ84. 统计大写字母个数](NowCoder/HJ/HJ84.md)
 - [📑HJ85. 最长回文子串](NowCoder/HJ/HJ85.md)
@@ -229,6 +231,7 @@
 - [📑HJ37. 统计每个月兔子的总数](NowCoder/HJ/HJ37.md)
 - [📑HJ60. 查找组成一个偶数最接近的两个素数](NowCoder/HJ/HJ60.md)
 - [📑HJ72. 百钱买百鸡问题](NowCoder/HJ/HJ72.md)
+- [📑HJ75. 公共子串计算](NowCoder/HJ/HJ75.md)
 - [📑HJ82. 将真分数分解为埃及分数](NowCoder/HJ/HJ82.md)
 - [📑HJ94. 记票统计](NowCoder/HJ/HJ94.md)
 - [📑HJ99. 自守数](NowCoder/HJ/HJ99.md)
@@ -299,6 +302,7 @@
 - [📑HJ24. 合唱队](NowCoder/HJ/HJ24.md)
 - [📑HJ52. 计算字符串的编辑距离](NowCoder/HJ/HJ52.md)
 - [📑HJ61. 放苹果](NowCoder/HJ/HJ61.md)
+- [📑HJ75. 公共子串计算](NowCoder/HJ/HJ75.md)
 - [📑HJ91. 走方格的方案数](NowCoder/HJ/HJ91.md)
 
 <!-- tabs:end -->
@@ -317,3 +321,4 @@
 
 - [📑华为机试-机试实时速递](https://www.online1987.com/)
 - [📑华为OJ目录及总览（C++）](https://zryang.github.io/2018/04/06/hwoj-000/)
+- [📑华为机试真题 Python实现](https://pycoder.blog.csdn.net/article/details/124648380)

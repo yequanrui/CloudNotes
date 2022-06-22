@@ -75,7 +75,7 @@
   - [📑HJ72. 百钱买百鸡问题](NowCoder/HJ/HJ72.md)
   - [📑HJ73. 计算日期到天数转换](NowCoder/HJ/HJ73.md)
   - [📑HJ74.](NowCoder/HJ/HJ74.md)
-  - [📑HJ75.](NowCoder/HJ/HJ75.md)
+  - [📑HJ75. 公共子串计算](NowCoder/HJ/HJ75.md)
   - [📑HJ76. 尼科彻斯定理](NowCoder/HJ/HJ76.md)
   - [📑HJ77.](NowCoder/HJ/HJ77.md)
   - [📑HJ78.](NowCoder/HJ/HJ78.md)

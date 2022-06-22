@@ -31,6 +31,7 @@
 | [Ruffle][Ruffle]                  | [0.1.0][Ruffle-Chrome]/[0.1.0.447][Ruffle-Firefox]             | Flash模拟器                          |
 | [SingleFile][SingleFile]          | [1.18.86][SingleFile-Chrome]                                   | 把网页完整保存到本地                 |
 | [Sourcegraph][SG]                 | [22.4.7.1712][SG-Chrome]/[22.4.7.1712][SG-Firefox]             | Web代码搜索浏览工具                  |
+| [Symbol Finder][SF]               | [0.1.1][SF-Chrome]/[0.1.1][SF-Edge]/[0.1.0][SF-Firefox]        | 轻松浏览和插入图标                   |
 | [ToolBox][ToolBox]                | 3.1.6                                                          | 常用工具                             |
 | [Vue.js devtools][Vue]            | [5.3.4][Vue-Chrome]                                            | Vue开发工具                          |
 | [Wappalyzer][Wappalyzer]          | -/[6.7.6][Wappalyzer-Edge]/[6.7.7][Wappalyzer-Firefox]         | 识别网站技术栈                       |
@@ -107,6 +108,10 @@
 [屏幕调整助手-Chrome]: https://chrome.google.com/webstore/detail/%E5%B1%8F%E5%B9%95%E8%B0%83%E6%95%B4%E5%8A%A9%E6%89%8B/ajgidahckhliegaonfgbialbcpcljach '跳转Google Store'
 [similar]: https://www.similarsites.com/ '跳转主页'
 [similar-Chrome]: https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn '跳转Google Store'
+[SF]: https://mybrowseraddon.com/symbol-finder.html '跳转主页'
+[SF-Chrome]: https://chrome.google.com/webstore/detail/symbol-finder/jkkcdhfbndheafipanegbnmhledmdcjj '跳转Google Store'
+[SF-Edge]: https://microsoftedge.microsoft.com/addons/detail/symbol-finder/jkgpgpgilkkfmejondehknfkobjcdbgg '跳转Microsoft Store'
+[SF-Firefox]: https://addons.mozilla.org/zh-CN/firefox/addon/symbol-finder/ '跳转Firefox Add-ons'
 [XS]: https://ex.xiaoshu.app/ '跳转主页'
 [XS-Chrome]: https://chrome.google.com/webstore/detail/lcalpcoppmdamffdmmchmadbpaoibaep '跳转Google Store'
 [XS-Edge]: https://microsoftedge.microsoft.com/addons/detail/%E6%8E%A2%E7%B4%A2%E8%80%85%E5%B0%8F%E8%88%92/coneollgjonabefaacemccaknmicmncj '跳转Microsoft Store'
