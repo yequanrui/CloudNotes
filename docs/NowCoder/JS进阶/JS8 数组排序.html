@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+    </head>
+    <body>
+        <button class="up">销量升序</button>
+        <button class="down">销量降序</button>
+        <ul></ul>
+        <script>
+            var cups = [
+                { type: 1, price: 100, color: 'black', sales: 3000, name: '牛客logo马克杯' },
+                { type: 2, price: 40, color: 'blue', sales: 1000, name: '无盖星空杯' },
+                { type: 4, price: 60, color: 'green', sales: 200, name: '老式茶杯' },
+                { type: 3, price: 50, color: 'green', sales: 600, name: '欧式印花杯' },
+            ];
+            var ul = document.querySelector('ul');
+            var upbtn = document.querySelector('.up');
+            var downbtn = document.querySelector('.down');
+
+            const arr = cups.map(obj => ({ sales: obj.sales, name: obj.name }));
+            const ups = [...arr].sort((a, b) => a.sales - b.sales);
+            const downs = [...arr].sort((a, b) => b.sales - a.sales);
+
+            const reder = arr => {
+                for (let i = 0; i < arr.length; i++) {
+                    ul.innerHTML += `<li>${arr[i].name}</li>`;
+                }
+            };
+            const clear = () => {
+                ul.innerHTML = '';
+            };
+            upbtn.onclick = () => {
+                clear();
+                reder(ups);
+            };
+            downbtn.onclick = () => {
+                clear();
+                reder(downs);
+            };
+            reder(arr);
+        </script>
+    </body>
+</html>

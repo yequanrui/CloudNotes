@@ -63,7 +63,7 @@ function func(line) {
     // 利用Set去重，从小到大排序并打印
     Array.from(new Set(res))
       .sort((a, b) => a - b)
-      .map((e) => console.log(e));
+      .map((e) => print(e));
   }
 }
 while ((line = readline())) {
@@ -84,7 +84,7 @@ function func(line) {
     // 利用Set去重，从小到大排序并打印
     Array.from(new Set(res))
       .sort((a, b) => a - b)
-      .map((e) => console.log(e));
+      .map((e) => print(e));
   }
 }
 const readline = require("readline");

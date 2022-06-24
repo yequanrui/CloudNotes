@@ -31,9 +31,9 @@
 ```javascript
 function func(line) {
   // 方法1：使用Number的parseInt函数转换
-  console.log(parseInt(line, 16));
+  print(parseInt(line, 16));
   // 方法2：使用Number构造函数转换
-  console.log(Number(line));
+  print(Number(line));
 }
 while ((line = readline())) {
   func(line);
@@ -45,9 +45,9 @@ while ((line = readline())) {
 ```javascript
 function func(line) {
   // 方法1：使用Number的parseInt函数转换
-  console.log(parseInt(line, 16));
+  print(parseInt(line, 16));
   // 方法2：使用Number构造函数转换
-  console.log(Number(line));
+  print(Number(line));
 }
 const readline = require("readline");
 const rl = readline.createInterface({

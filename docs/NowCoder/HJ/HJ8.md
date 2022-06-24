@@ -71,7 +71,7 @@ function func(line) {
       map[k] = (map[k] || 0) + Number(v);
     }
     for (let j in map) {
-      console.log(`${j} ${map[j]}`);
+      print(`${j} ${map[j]}`);
     }
   }
 }
@@ -98,7 +98,7 @@ function func(line) {
       map[k] = (map[k] || 0) + Number(v);
     }
     for (let j in map) {
-      console.log(`${j} ${map[j]}`);
+      print(`${j} ${map[j]}`);
     }
   }
 }

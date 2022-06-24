@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+    </head>
+    <body>
+        <ul></ul>
+        <script>
+            var people = [
+                { name: '牛油1号', id: 1, age: 20 },
+                { name: '牛油2号', id: 2, age: 21 },
+                { name: '牛油3号', id: 3, age: 19 },
+            ];
+            var ul = document.querySelector('ul');
+            // 创立文档碎片
+            const frg = document.createDocumentFragment();
+            // 全部子元素加到文档碎片中
+            for (let i = 0; i < people.length; i++) {
+                const li = document.createElement('li');
+                li.innerText = `${people[i].name} ${people[i].age}岁`;
+                frg.appendChild(li);
+            }
+            // 再统一更新到页面
+            ul.appendChild(frg);
+        </script>
+    </body>
+</html>
