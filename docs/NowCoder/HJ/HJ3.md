@@ -66,6 +66,7 @@ function func(line) {
       .map((e) => print(e));
   }
 }
+let line;
 while ((line = readline())) {
   func(line);
 }

@@ -32,6 +32,7 @@
 | [SingleFile][SingleFile]          | [1.18.86][SingleFile-Chrome]                                   | 把网页完整保存到本地                 |
 | [Sourcegraph][SG]                 | [22.4.7.1712][SG-Chrome]/[22.4.7.1712][SG-Firefox]             | Web代码搜索浏览工具                  |
 | [Symbol Finder][SF]               | [0.1.1][SF-Chrome]/[0.1.1][SF-Edge]/[0.1.0][SF-Firefox]        | 轻松浏览和插入图标                   |
+| [Tampermonkey][TM]                | [4.16.1][TM-Chrome]/[4.16.1][TM-Edge]/[4.17.6161][TM-Firefox]  | 用户脚本管理器                       |
 | [ToolBox][ToolBox]                | 3.1.6                                                          | 常用工具                             |
 | [Vue.js devtools][Vue]            | [5.3.4][Vue-Chrome]                                            | Vue开发工具                          |
 | [Wappalyzer][Wappalyzer]          | -/[6.7.6][Wappalyzer-Edge]/[6.7.7][Wappalyzer-Firefox]         | 识别网站技术栈                       |
@@ -95,6 +96,10 @@
 [SG]: https://sourcegraph.com/ '跳转主页'
 [SG-Chrome]: https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack '跳转Google Store'
 [SG-Firefox]: https://addons.mozilla.org/zh-CN/firefox/addon/sourcegraph-for-firefox/ '跳转Firefox Add-ons'
+[TM]: https://www.tampermonkey.net/ '跳转主页'
+[TM-Chrome]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo '跳转Google Store'
+[TM-Edge]: https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd '跳转Microsoft Store'
+[TM-Firefox]: https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/ '跳转Firefox Add-ons'
 [ToolBox]: http://chenapp.com/chrome/developtools '跳转主页'
 [Vue]: https://devtools.vuejs.org/ '跳转主页'
 [Vue-Chrome]: https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd '跳转Google Store'

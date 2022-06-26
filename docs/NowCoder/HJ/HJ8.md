@@ -75,6 +75,7 @@ function func(line) {
     }
   }
 }
+let line;
 while ((line = readline())) {
   func(line);
 }

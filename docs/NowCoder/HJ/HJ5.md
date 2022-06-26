@@ -35,6 +35,7 @@ function func(line) {
   // 方法2：使用Number构造函数转换
   print(Number(line));
 }
+let line;
 while ((line = readline())) {
   func(line);
 }

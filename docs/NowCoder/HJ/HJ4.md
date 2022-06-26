@@ -37,6 +37,7 @@ function func(line) {
     str = str.slice(gap);
   }
 }
+let line;
 while ((line = readline())) {
   func(line);
 }

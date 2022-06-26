@@ -42,6 +42,7 @@ function func(line) {
     print((res[0].match(RegExp(res[1], 'gi')) || []).length);
   }
 }
+let line;
 while ((line = readline())) {
   func(line);
 }

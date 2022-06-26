@@ -36,6 +36,7 @@ function func(line) {
   // 方法2：使用lastIndexOf，用总长度减去该序号
   print(line.length - 1 - line.lastIndexOf(" "));
 }
+let line;
 while ((line = readline())) {
   func(line);
 }

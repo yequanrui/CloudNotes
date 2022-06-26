@@ -43,6 +43,7 @@ function func(line) {
   // 使用parseFloat判断是否浮点数，再使用round取整
   !isNaN(parseFloat(line)) && print(Math.round(line));
 }
+let line;
 while ((line = readline())) {
   func(line);
 }

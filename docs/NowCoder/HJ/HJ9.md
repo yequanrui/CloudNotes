@@ -34,6 +34,7 @@ function func(line) {
   // 先用reverse逆序，再用Set去重
   print(Array.from(new Set(line.split("").reverse())).join(""));
 }
+let line;
 while ((line = readline())) {
   func(line);
 }

@@ -2,6 +2,7 @@
 
 | Name                       | Version                                    | Description                            |
 | :------------------------- | :----------------------------------------- | :------------------------------------- |
+| [eSearch][ES]              | [1.7.2][ES-Down](Win/Mac/Linux)            | 截屏OCR搜索翻译以图搜图贴图录屏        |
 | [PicPick][PP]              | [6.1.2][PP-Down](Win)                      | 全功能的屏幕截图工具，直观的图像编辑器 |
 | [ScreenToGif][STG]         | [2.37.0.0][STG-Down](Win)                  | 屏幕、摄像头和画板录像，并有内置编辑器 |
 | [Snipaste][SP]             | [2.7.3.0][SP-Down](Win/Mac)                | 简单强大的截图贴图工具                 |
@@ -9,6 +10,8 @@
 | [洋芋田图像工具箱][洋芋田] | 3.5.0([Win][洋芋田-Win]/[Mac][洋芋田-Mac]) | 创意行业从业者的图像工具箱             |
 | [图压][TY]                 | 0.4.1([[Win][TY-Win]/[Mac][TY-Mac])        | 简单易用的图片压缩软件                 |
 
+[ES]: https://esearch.vercel.app/ '跳转主页'
+[ES-Down]: https://github.com/xushengfeng/eSearch/releases '跳转下载页'
 [PP]: https://picpick.app/zh/ '跳转主页'
 [PP-Down]: https://picpick.app/zh/download '跳转下载页'
 [STG]: https://www.screentogif.com/ '跳转主页'

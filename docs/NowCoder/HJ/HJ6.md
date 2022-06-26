@@ -47,6 +47,7 @@ function func(line) {
   num !== 1 && res.push(num);
   print(res.join(" "));
 }
+let line;
 while ((line = readline())) {
   func(line);
 }
