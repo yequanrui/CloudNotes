@@ -85,7 +85,7 @@ function func(line) {
     // 利用Set去重，从小到大排序并打印
     Array.from(new Set(res))
       .sort((a, b) => a - b)
-      .map((e) => print(e));
+      .map((e) => console.log(e));
   }
 }
 const readline = require("readline");

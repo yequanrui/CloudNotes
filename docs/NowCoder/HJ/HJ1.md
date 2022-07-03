@@ -33,7 +33,7 @@ function func(line) {
   // 方法1：使用split，取最后一项的长度
   const arr = line.split(" ");
   print(arr[arr.length - 1].length);
-  // 方法2：使用lastIndexOf，用总长度减去该序号
+  // 方法2：使用lastIndexOf取最后一个空格的序号，用总长度减去该序号再减1即是最后一项的长度
   print(line.length - 1 - line.lastIndexOf(" "));
 }
 let line;
@@ -48,9 +48,9 @@ while ((line = readline())) {
 function func(line) {
   // 方法1：使用split，取最后一项的长度
   const arr = line.split(" ");
-  print(arr[arr.length - 1].length);
-  // 方法2：使用lastIndexOf，用总长度减去该序号
-  print(line.length - 1 - line.lastIndexOf(" "));
+  console.log(arr[arr.length - 1].length);
+  // 方法2：使用lastIndexOf取最后一个空格的序号，用总长度减去该序号再减1即是最后一项的长度
+  console.log(line.length - 1 - line.lastIndexOf(" "));
 }
 const readline = require("readline");
 const rl = readline.createInterface({

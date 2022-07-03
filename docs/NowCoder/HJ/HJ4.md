@@ -52,7 +52,7 @@ function func(line) {
   while (str.length) {
     // 使用slice拆分，padEnd补齐字符，打印后继续循环
     const s = str.slice(0, gap);
-    print(s.padEnd(gap, "0"));
+    console.log(s.padEnd(gap, "0"));
     str = str.slice(gap);
   }
 }

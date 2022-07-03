@@ -72,7 +72,7 @@ function func(line) {
   }
   // 有个特殊情况，就是输入的这个数，本身就是质数，但还要排除1这个数
   num !== 1 && res.push(num);
-  print(res.join(" "));
+  console.log(res.join(" "));
 }
 const readline = require("readline");
 const rl = readline.createInterface({

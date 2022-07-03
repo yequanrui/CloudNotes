@@ -99,7 +99,7 @@ function func(line) {
       map[k] = (map[k] || 0) + Number(v);
     }
     for (let j in map) {
-      print(`${j} ${map[j]}`);
+      console.log(`${j} ${map[j]}`);
     }
   }
 }

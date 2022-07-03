@@ -54,7 +54,7 @@ while ((line = readline())) {
 ```javascript
 function func(line) {
   // 使用parseFloat判断是否浮点数，再使用round取整
-  !isNaN(parseFloat(line)) && print(Math.round(line));
+  !isNaN(parseFloat(line)) && console.log(Math.round(line));
 }
 const readline = require("readline");
 const rl = readline.createInterface({

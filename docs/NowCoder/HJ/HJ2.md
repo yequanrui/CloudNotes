@@ -57,9 +57,9 @@ function func(line) {
   // 长度为2时进入计算
   if (res.length === 2) {
     // 方法1：使用该字符分割，分割后数组长度减一即是该字符个数
-    print(res[0].toLowerCase().split(res[1].toLowerCase()).length - 1);
+    console.log(res[0].toLowerCase().split(res[1].toLowerCase()).length - 1);
     // 方法2：使用该字符全局忽略大小写匹配，匹配后数组长度即是该字符个数
-    print((res[0].match(RegExp(res[1], 'gi')) || []).length);
+    console.log((res[0].match(RegExp(res[1], 'gi')) || []).length);
   }
 }
 const readline = require("readline");

@@ -45,7 +45,7 @@ while ((line = readline())) {
 ```javascript
 function func(line) {
   // 先用reverse逆序，再用Set去重
-  print(Array.from(new Set(line.split("").reverse())).join(""));
+  console.log(Array.from(new Set(line.split("").reverse())).join(""));
 }
 const readline = require("readline");
 const rl = readline.createInterface({

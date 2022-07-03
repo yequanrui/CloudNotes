@@ -46,9 +46,9 @@ while ((line = readline())) {
 ```javascript
 function func(line) {
   // 方法1：使用Number的parseInt函数转换
-  print(parseInt(line, 16));
+  console.log(parseInt(line, 16));
   // 方法2：使用Number构造函数转换
-  print(Number(line));
+  console.log(Number(line));
 }
 const readline = require("readline");
 const rl = readline.createInterface({
