@@ -178,11 +178,11 @@ http://www.weather.com.cn/data/sk/101010100.html
 
 -   请求方法：POST
 
--   请求URL：http://localhost/index.php?m=Home&c=User&a=do\_login&t=0.21942974229794432
+-   请求URL：http://localhost/index.php?m=Home&c=User&a=do_login&t=0.21942974229794432
 
 -   请求头：Content-Type：application/x-www-form-urlencode
 
--   请求体：username=13088888888&password=123456&verify\_code=8888
+-   请求体：username=13088888888&password=123456&verify_code=8888
 
 
 实现步骤：
@@ -210,7 +210,7 @@ POST http://localhost/index.php/home/Uploadify/imageUp/savepath/head_pic/pictit
 
 -   请求方法：POST
 
--   请求URL：http://localhost/index.php/home/Uploadify/imageUp/savepath/head\_pic/pictitle/banner/dir/images.html
+-   请求URL：http://localhost/index.php/home/Uploadify/imageUp/savepath/head_pic/pictitle/banner/dir/images.html
 
 -   请求类型：multipart/form-data
 
@@ -511,7 +511,7 @@ pm.test("Response time is less than 200ms", function () {      pm.
 
 -   断言city等于济南
 
--   断言update\_time包含2020-04-17
+-   断言update_time包含2020-04-17
 
 
 ![图片](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
@@ -627,7 +627,7 @@ pm.test("Response time is less than 200ms", function () {      pm.
 
 -   请求的登录接口URL，参数t的值要求的规则是每次请求都必须是一个随机数。
 
--   接口地址：http://localhost/index.php？m=Home&c=User&a=do\_login&t=0.7102045930338428
+-   接口地址：http://localhost/index.php？m=Home&c=User&a=do_login&t=0.7102045930338428
 
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/RQueXibgo0KO86E3YaibgVlWrpeia0uc8Fl90JA0Trd0rMBeq5HJcrlZBC4WfoqRIBqic1Gsib5GJLc32DUvTBTUg3Q/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
@@ -675,7 +675,7 @@ pm.test("Response time is less than 200ms", function () {      pm.
 
 而图像预览接口URL为：
 
-http://localhost/public/upload/user//head\_pic//ba51d1c2f7f7b98dfb5cad90846e2d79.jpg 。可以看出这个接口的URL后半部分其实是上一个接口返回的url的值 。那么这俩个接口就产生了关联。那么在postman 可以通过以下三步完成这俩个接口的关联实现 。
+http://localhost/public/upload/user//head_pic//ba51d1c2f7f7b98dfb5cad90846e2d79.jpg 。可以看出这个接口的URL后半部分其实是上一个接口返回的url的值 。那么这俩个接口就产生了关联。那么在postman 可以通过以下三步完成这俩个接口的关联实现 。
 
 实现步骤：
 
@@ -696,7 +696,7 @@ http://localhost/public/upload/user//head\_pic//ba51d1c2f7f7b98dfb5cad90846e2d79
 
 在做接口测试时，请求接口返回的数据都是很复杂的json数据，有着多层嵌套，这样的数据层级在postman怎么获取呢 ？
 
-案例1：多层json嵌套, 获取user\_id的值
+案例1：多层json嵌套, 获取user_id的值
 
 ```
 {      "code": 0,      "message": "请求成功！",      "data": {          "user_id": "1252163151781167104"      }  }

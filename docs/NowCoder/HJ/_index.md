@@ -361,6 +361,7 @@
 
 > 附录
 
+- [📑德科机试一星题](http://www.amoscloud.com/?cat=57)
 - [📑华为机试-机试实时速递](https://www.online1987.com/)
 - [📑华为OJ目录及总览（C++）](https://zryang.github.io/2018/04/06/hwoj-000/)
 - [📑华为机试真题 Python实现](https://pycoder.blog.csdn.net/article/details/124648380)
