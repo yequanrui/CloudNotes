@@ -11,6 +11,6 @@
 - [📑链表](DevNotes/algorithm-list.md "前端算法: 链表")
 - [📑二分查找](DevNotes/binary-search.md "前端算法: 二分查找")
 - [📑双指针](DevNotes/two-pointers.md "前端算法: 双指针")
-- [📑DFS和BFS](DevNotes/dfs-bf.md "前端算法: 深度优先遍历和广度优先遍历")
+- [📑DFS和BFS](DevNotes/dfs-bfs.md "前端算法: 深度优先遍历和广度优先遍历")
 - [📑正则表达式](DevNotes/regex.md "正则表达式")
 - [📑Vue](DevNotes/vue.md "Notes for Vue.js")
