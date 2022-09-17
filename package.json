@@ -1,6 +1,6 @@
 {
   "name": "cloud-notes",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "yequanrui",
   "description": "A markdown-based notes site using docsify",
   "keywords": [
@@ -12,10 +12,11 @@
     "doc": "docsify serve docs"
   },
   "dependencies": {
-    "docsify": "^4.12.2"
+    "docsify": "^4.12.2",
+    "docsify-darklight-theme": "^3.2.0"
   },
   "devDependencies": {
-    "docsify-cli": "^4.4.3"
+    "docsify-cli": "^4.4.4"
   },
   "license": "MIT",
   "homepage": "https://github.com/yequanrui/CloudNotes",

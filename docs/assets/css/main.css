@@ -26,7 +26,7 @@
   -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
 }
 ::-webkit-scrollbar-thumb:window-inactive {
-  background: rgba(255, 0, 0, 0.4);
+  background: var(--borderColor);
 }
 /* 页脚 */
 .footer {
@@ -37,4 +37,8 @@
 .time-updater {
   font-size: var(--subsup-font-size);
   color: var(--notice-tip-color);
+}
+/* 回到顶部 */
+.scroll-to-top {
+  line-height: 50px !important;
 }

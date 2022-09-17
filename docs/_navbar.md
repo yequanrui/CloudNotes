@@ -8,5 +8,5 @@
   - [JueJin](https://juejin.cn/user/1231919572070647)
 
 - Links
-  - [Docsify](https://docsify.js.org/#/zh-cn/)
-  - [Markdown Tutorial](https://markdown.com.cn/)
+  - [Docsify](https://docsify.js.org/#/)
+  - [Markdown Tutorial](https://daringfireball.net/projects/markdown/)

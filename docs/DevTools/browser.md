@@ -1,46 +1,46 @@
 > Browser Extension
 
-| Name                              | Version(Chrome/Edge/Firefox)                                   | Description                          |
-| :-------------------------------- | :------------------------------------------------------------- | :----------------------------------- |
-| Adblock Plus                      |                                                                | 免除广告困扰                         |
-| [AdGuard][AdGuard]                | 3.5.20                                                         | 广告拦截器                           |
-| Aerys                             | 1.7.0                                                          | 窗口标签管理器                       |
-| AIX智能下载器                     | 7.0.33                                                         | 高效实现网页内容的嗅探和下载         |
-| [Billfish][BF]                    | [3.1.8][BF-Chrome]/[3.1.8][BF-Edge]/[3.2.0][BF-Firefox]        | 免费素材管理工具                     |
-| Chrome清理大师/Edge清理大师       | [19.7.22.1059][CM-Chrome]/[20.9.8.1739][CM-Edge]               | 一键清理浏览器垃圾                   |
-| [Chrono][Chrono]                  | 0.11.1                                                         | 下载管理器                           |
-| [crxMouse][crxMouse]              | 4.4.4                                                          | 鼠标手势                             |
-| [Edge Translate][EdgeTranslate]   | 2.2.4/[2.2.4][EdgeTranslate-Edge]/2.2.4.1                      | 侧边翻译                             |
-| [Enhanced Github][EnhancedGithub] | 5.0.11                                                         | 提供GitHub附加组件的浏览器扩展       |
-| [FeHelper][FH]                    | [2020.05.2810][FH-Chrome]/[2020.05.2810][FH-Edge]/2020.03.2510 | Web开发者常用工具集                  |
-| Get Favicon                       | 1.2                                                            | 获取网页的favicon                    |
-| [GiteeTree][GT]                   | [2.4.9][GT-Chrome]/[2.4.9][GT-Edge]/[2.4.9][GT-Firefox]        | 基于Octotree的码云文件树插件         |
-| [Ghelper][GH]                     | [2.5.5][GH-Chrome]/[2.5.8][GH-Edge]/[2.3.8][GH-Firefox]        | 谷歌上网助手                         |
-| GitZip for github                 |                                                                | 高速下载GitHub项目文件夹             |
-| [GreenHub][GreenHub]              | [0.9.14][GreenHub-Chrome]/[0.9.14][GreenHub-Edge]              | 绿墙-网络出海工具                    |
-| [iGuge Helper][iGuge]             | [2.1.0][iGuge-Chrome]/[2.1.0][iGuge-Edge]/2.0.5                | 谷歌学术助手                         |
-| JSON Viewer                       |                                                                | 方便查看Json结构                     |
-| [MarkDownload][MD]                | [3.1.0][MD-Chrome]/[3.1.0][MD-Edge]/[3.1.0][MD-Firefox]        | 把HTML格式自动转换成Markdown格式     |
-| ng-inspect for Angular            | [0.4.0][ng-inspect-for-angular-Chrome]                         | 用于调试Angular(1.x/4+/lvy)应用程序  |
-| [Octotree][OT]                    | [7.4.3][OT-Chrome]/[7.4.3][OT-Edge]/[7.4.3][OT-Firefox]        | GitHub Code Tree                     |
-| [Omni][Omni]                      | [1.4.7][Omni-Chrome]/[1.4.5][Omni-Firefox]                     |                                      |
-| OneTab                            |                                                                | 一键合并Tab                          |
-| [PhotoShow][PhotoShow]            | 4.6.8.0                                                        | 悬浮快速查看网页原图                 |
-| [Postman][Postman]                | 5.5.5                                                          | 网络API测试工具                      |
-| [React Developer Tools][React]    | [4.13.5][React-Chrome]/[4.13.5][React-Edge]                    | React开发工具                        |
-| [Ruffle][Ruffle]                  | [0.1.0][Ruffle-Chrome]/[0.1.0.447][Ruffle-Firefox]             | Flash模拟器                          |
-| [SingleFile][SingleFile]          | [1.18.86][SingleFile-Chrome]                                   | 把网页完整保存到本地                 |
-| [Sourcegraph][SG]                 | [22.4.7.1712][SG-Chrome]/[22.4.7.1712][SG-Firefox]             | Web代码搜索浏览工具                  |
-| [Symbol Finder][SF]               | [0.1.1][SF-Chrome]/[0.1.1][SF-Edge]/[0.1.0][SF-Firefox]        | 轻松浏览和插入图标                   |
-| [Tampermonkey][TM]                | [4.16.1][TM-Chrome]/[4.16.1][TM-Edge]/[4.17.6161][TM-Firefox]  | 用户脚本管理器                       |
-| [ToolBox][ToolBox]                | 3.1.6                                                          | 常用工具                             |
-| [Vue.js devtools][Vue]            | [5.3.4][Vue-Chrome]                                            | Vue开发工具                          |
-| [Wappalyzer][Wappalyzer]          | -/[6.7.6][Wappalyzer-Edge]/[6.7.7][Wappalyzer-Firefox]         | 识别网站技术栈                       |
-| [掘金][juejin]                    | [0.7.4][juejin-Edge]                                           | 一站式聚合优质内容·快捷工具·常用网址 |
-| [开发工具箱][开发工具箱]          | 2.3.0.5                                                        | 软件开发小工具合集                   |
-| 屏幕调整助手                      | [4.7][屏幕调整助手-Chrome]                                     | 更改屏幕的大小                       |
-| [类似的网站][similar]             | [7.1.4.3][similar-Chrome]                                      | 发现相关网站                         |
-| [探索者小舒][XS]                  | [0.7.2][XS-Chrome]/[0.7.2][XS-Edge]/[0.7.1][XS-Firefox]        | 强大快捷的搜索切换工具               |
+| Name                              | Version(Chrome/Edge/Firefox)                                                    | Description                          |
+| :-------------------------------- | :------------------------------------------------------------------------------ | :----------------------------------- |
+| Adblock Plus                      |                                                                                 | 免除广告困扰                         |
+| [AdGuard][AdGuard]                | 3.5.20                                                                          | 广告拦截器                           |
+| Aerys                             | 1.7.0                                                                           | 窗口标签管理器                       |
+| AIX智能下载器                     | 7.0.33                                                                          | 高效实现网页内容的嗅探和下载         |
+| [Billfish][BF]                    | [3.1.8][BF-Chrome]/[3.1.8][BF-Edge]/[3.2.0][BF-Firefox]                         | 免费素材管理工具                     |
+| Chrome清理大师/Edge清理大师       | [19.7.22.1059][CM-Chrome]/[20.9.8.1739][CM-Edge]                                | 一键清理浏览器垃圾                   |
+| [Chrono][Chrono]                  | 0.11.1                                                                          | 下载管理器                           |
+| [crxMouse][crxMouse]              | 4.4.4                                                                           | 鼠标手势                             |
+| [Edge Translate][EdgeTranslate]   | 2.2.4/[2.2.4][EdgeTranslate-Edge]/2.2.4.1                                       | 侧边翻译                             |
+| [Enhanced Github][EnhancedGithub] | 5.0.11                                                                          | 提供GitHub附加组件的浏览器扩展       |
+| [FeHelper][FH]                    | [2020.05.2810][FH-Chrome]/[2020.05.2810][FH-Edge]/2020.03.2510                  | Web开发者常用工具集                  |
+| Get Favicon                       | 1.2                                                                             | 获取网页的favicon                    |
+| [GiteeTree][GT]                   | [2.4.9][GT-Chrome]/[2.4.9][GT-Edge]/[2.4.9][GT-Firefox]                         | 基于Octotree的码云文件树插件         |
+| [Ghelper][GH]                     | [2.5.5][GH-Chrome]/[2.5.8][GH-Edge]/[2.3.8][GH-Firefox]                         | 谷歌上网助手                         |
+| GitZip for github                 |                                                                                 | 高速下载GitHub项目文件夹             |
+| [GreenHub][GreenHub]              | [0.9.14][GreenHub-Chrome]/[0.9.14][GreenHub-Edge]                               | 绿墙-网络出海工具                    |
+| [iGuge Helper][iGuge]             | [2.1.0][iGuge-Chrome]/[2.1.0][iGuge-Edge]/2.0.5                                 | 谷歌学术助手                         |
+| JSON Viewer                       |                                                                                 | 方便查看Json结构                     |
+| [MarkDownload][MD]                | [3.1.0][MD-Chrome]/[3.1.0][MD-Edge]/[3.1.0][MD-Firefox]                         | 把HTML格式自动转换成Markdown格式     |
+| ng-inspect for Angular            | [0.4.0][ng-inspect-for-angular-Chrome]                                          | 用于调试Angular(1.x/4+/lvy)应用程序  |
+| [Octotree][OT]                    | [7.4.3][OT-Chrome]/[7.4.3][OT-Edge]/[7.4.3][OT-Firefox]                         | GitHub Code Tree                     |
+| [Omni][Omni]                      | [1.4.7][Omni-Chrome]/[1.4.5][Omni-Firefox]                                      |                                      |
+| OneTab                            |                                                                                 | 一键合并Tab                          |
+| [Postman][Postman]                | 5.5.5                                                                           | 网络API测试工具                      |
+| [React Developer Tools][React]    | [4.13.5][React-Chrome]/[4.13.5][React-Edge]                                     | React开发工具                        |
+| [Ruffle][Ruffle]                  | [0.1.0][Ruffle-Chrome]/[0.1.0.447][Ruffle-Firefox]                              | Flash模拟器                          |
+| [SingleFile][SingleFile]          | [1.18.86][SingleFile-Chrome]                                                    | 把网页完整保存到本地                 |
+| [Sourcegraph][SG]                 | [22.4.7.1712][SG-Chrome]/[22.4.7.1712][SG-Firefox]                              | Web代码搜索浏览工具                  |
+| [Symbol Finder][SF]               | [0.1.1][SF-Chrome]/[0.1.1][SF-Edge]/[0.1.0][SF-Firefox]                         | 轻松浏览和插入图标                   |
+| [Tampermonkey][TM]                | [4.16.1][TM-Chrome]/[4.16.1][TM-Edge]/[4.17.6161][TM-Firefox]                   | 用户脚本管理器                       |
+| [ToolBox][ToolBox]                | 3.1.6                                                                           | 常用工具                             |
+| [Vue.js devtools][Vue]            | [5.3.4][Vue-Chrome]                                                             | Vue开发工具                          |
+| [Wappalyzer][Wappalyzer]          | [6.7.6][Wappalyzer-Chrome]/[6.7.6][Wappalyzer-Edge]/[6.7.7][Wappalyzer-Firefox] | 识别网站技术栈                       |
+| [浮图秀][PhotoShow]               | 4.12.0.0                                                                        | 悬浮快速查看网页原图                 |
+| [掘金][juejin]                    | [0.7.4][juejin-Edge]                                                            | 一站式聚合优质内容·快捷工具·常用网址 |
+| [开发工具箱][开发工具箱]          | 2.3.0.5                                                                         | 软件开发小工具合集                   |
+| 屏幕调整助手                      | [4.7][屏幕调整助手-Chrome]                                                      | 更改屏幕的大小                       |
+| [类似的网站][similar]             | [7.1.4.4][similar-Chrome]                                                       | 发现相关网站                         |
+| [探索者小舒][XS]                  | [0.7.2][XS-Chrome]/[0.7.2][XS-Edge]/[0.7.1][XS-Firefox]                         | 强大快捷的搜索切换工具               |
 
 [AdGuard]: https://adguard.com/zh_cn/adguard-browser-extension/overview.html '跳转主页'
 [BF]: https://www.billfish.cn/ '跳转主页'
@@ -83,7 +83,6 @@
 [Omni]: https://github.com/alyssaxuu/omni '跳转主页'
 [Omni-Chrome]: https://chrome.google.com/webstore/detail/omni/mapjgeachilmcbbokkgcbgpbakaaeehi '跳转Google Store'
 [Omni-Firefox]: https://addons.mozilla.org/zh-CN/firefox/addon/omnisearch/ '跳转Firefox Add-ons'
-[PhotoShow]: https://github.com/Mr-VincentW/PhotoShow '跳转主页'
 [Postman]: https://www.postman.com/downloads/ '跳转主页'
 [React]: https://github.com/facebook/react '跳转主页'
 [React-Chrome]: https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi '跳转Google Store'
@@ -107,6 +106,7 @@
 [Wappalyzer-Chrome]: https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg '跳转Google Store'
 [Wappalyzer-Edge]: https://microsoftedge.microsoft.com/addons/detail/wappalyzer/mnbndgmknlpdjdnjfmfcdjoegcckoikn '跳转Microsoft Store'
 [Wappalyzer-Firefox]: https://addons.mozilla.org/zh-CN/firefox/addon/wappalyzer/ '跳转Firefox Add-ons'
+[PhotoShow]: https://github.com/Mr-VincentW/PhotoShow '跳转主页'
 [juejin]: https://juejin.cn/extension '跳转主页'
 [juejin-Edge]: https://microsoftedge.microsoft.com/addons/detail/%E7%A8%80%E5%9C%9F%E6%8E%98%E9%87%91/iblloeofmdhfkbkpjkkombjngddeocjk '跳转Microsoft Store'
 [开发工具箱]: https://www.box3.cn/ '跳转主页'
