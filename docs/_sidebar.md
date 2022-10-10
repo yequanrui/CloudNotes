@@ -33,6 +33,8 @@
 - [📱MobileTools](MobileTools/_index.md "Toolset for Mobile")
   - [🤖Android](MobileTools/android.md "Toolset for Android")
   - [🍎iOS](MobileTools/ios.md "Toolset for iOS")
+- [📷Photo](Music/_index.md "Notes for Photography")
+  - [🌃Sky](Photo/sky.md "How to shoot the starry sky at night")
 - [🎶Music](Music/_index.md "Collection of Music")
   - [🎵Chinese](Music/cm.md "Collection of Chinese Music")
   - [🎵Cantonese](Music/ym.md "Collection of Cantonese Music")
