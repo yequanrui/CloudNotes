@@ -3,6 +3,7 @@
 | Name                       | Version                                                             | Description                                     |
 | :------------------------- | :------------------------------------------------------------------ | :---------------------------------------------- |
 | [DevSidecar][DevSidecar]   | [1.7.3][DevSidecar-Down](Win/Mac/Linux)                             | 开发者边车，GitHub、Npm加速                     |
+| [Greenhub][Greenhub]       | [2.1.5][Greenhub-Down]                                              | 适合所有人的免费VPN                             |
 | [SwitchHosts][SwitchHosts] | [4.1.2][SwitchHosts-Down](Win/Mac/Linux)                            | 管理、切换多个hosts方案的工具                   |
 | [Postman][Postman]         | 9.31.0([汉化][PM-Cn]/[Win][PM-Win]/[Mac][PM-Mac]/[Linux][PM-Linux]) | API调试、Http请求的工具                         |
 | [Apifox][Apifox]           | 2.1.21([Win][AF-Win]/Mac/Linux)                                     | API文档、调试、Mock、自动化测试，一体化协作平台 |
@@ -10,6 +11,8 @@
 
 [DevSidecar]: https://github.com/docmirror/dev-sidecar '跳转主页'
 [DevSidecar-Down]: https://github.com/docmirror/dev-sidecar/releases '跳转下载页'
+[Greenhub]: https://greenhubtx.ga/ '跳转主页'
+[Greenhub-Down]: https://github.com/ghotst0xdeadbeef/Greenhub-desktop/releases/ '跳转下载页'
 [SwitchHosts]: https://swh.app/zh '跳转主页'
 [SwitchHosts-Down]: https://github.com/oldj/SwitchHosts/releases '跳转下载页'
 [Postman]: https://www.postman.com/ '跳转主页'

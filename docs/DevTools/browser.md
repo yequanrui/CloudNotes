@@ -19,6 +19,7 @@
 | GitZip for github                 |                                                                                 | 高速下载GitHub项目文件夹             |
 | [GreenHub][GreenHub]              | [0.9.14][GreenHub-Chrome]/[0.9.14][GreenHub-Edge]                               | 绿墙-网络出海工具                    |
 | [iGuge Helper][iGuge]             | [2.1.0][iGuge-Chrome]/[2.1.0][iGuge-Edge]/2.0.5                                 | 谷歌学术助手                         |
+| [Header Editor][HE]               | [4.1.1][HE-Chrome]/[4.1.1][HE-Edge]/[4.1.1][HE-Firefox]                         | 基于规则修改请求/响应头，进行重定向  |
 | JSON Viewer                       |                                                                                 | 方便查看Json结构                     |
 | [MarkDownload][MD]                | [3.1.0][MD-Chrome]/[3.1.0][MD-Edge]/[3.1.0][MD-Firefox]                         | 把HTML格式自动转换成Markdown格式     |
 | ng-inspect for Angular            | [0.4.0][ng-inspect-for-angular-Chrome]                                          | 用于调试Angular(1.x/4+/lvy)应用程序  |
@@ -72,6 +73,10 @@
 [iGuge-Chrome]: https://chrome.google.com/webstore/detail/igg%E8%B0%B7%E6%AD%8C%E5%AD%A6%E6%9C%AF%E5%8A%A9%E6%89%8B/ncldcbhpeplkfijdhnoepdgdnmjkckij '跳转Google Store'
 [iGuge-Edge]: https://microsoftedge.microsoft.com/addons/detail/igg%E8%B0%B7%E6%AD%8C%E5%AD%A6%E6%9C%AF%E5%8A%A9%E6%89%8B/mchibleoefileemjfghfejaggonplmmg '跳转Microsoft Store'
 [ng-inspect-for-angular-Chrome]: https://chrome.google.com/webstore/detail/ng-inspect-for-angular1x4/onfmmmemcmipkohkkgofiojpiahbpogh '跳转Google Store'
+[HE]: https://he.firefoxcn.net/ '跳转主页'
+[HE-Chrome]: https://chrome.google.com/webstore/detail/header-editor/eningockdidmgiojffjmkdblpjocbhgh '跳转Google Store'
+[HE-Edge]: https://microsoftedge.microsoft.com/addons/detail/header-editor/afopnekiinpekooejpchnkgfffaeceko '跳转Microsoft Store'
+[HE-Firefox]: https://addons.mozilla.org/zh-CN/firefox/addon/header-editor/ '跳转Firefox Add-ons'
 [MD]: https://github.com/deathau/markdownload '跳转主页'
 [MD-Chrome]: https://chrome.google.com/webstore/detail/markdownload-markdown-web/pcmpcfapbekmbjjkdalcgopdkipoggdi '跳转Google Store'
 [MD-Edge]: https://microsoftedge.microsoft.com/addons/detail/markdownload-markdown-w/hajanaajapkhaabfcofdjgjnlgkdkknm '跳转Microsoft Store'
