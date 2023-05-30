@@ -6,7 +6,7 @@
 | [AdGuard]                   | 3.5.20                                                                          | 广告拦截器                           |
 | Aerys                       | 1.7.0                                                                           | 窗口标签管理器                       |
 | AIX智能下载器               | 7.0.33                                                                          | 高效实现网页内容的嗅探和下载         |
-| [Billfish]                  | [3.1.8][BF-Chrome]/[3.1.8][BF-Edge]/[3.2.0][BF-Firefox]                         | 免费素材管理工具                     |
+| [Billfish]                  | [4.0.1][BF-Chrome]/[4.0.1][BF-Edge]/[3.5.0][BF-Firefox]                         | 免费素材管理工具                     |
 | Chrome清理大师/Edge清理大师 | [19.7.22.1059][CM-Chrome]/[20.9.8.1739][CM-Edge]                                | 一键清理浏览器垃圾                   |
 | [Chrono]                    | 0.11.1                                                                          | 下载管理器                           |
 | [crxMouse]                  | 4.4.4                                                                           | 鼠标手势                             |
