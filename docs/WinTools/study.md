@@ -2,6 +2,6 @@
 
 | Name         | Version | Description        |
 | :----------- | :------ | :----------------- |
-| [Stellarium] | 0.21.3  | 开源的天象模拟软件 |
+| [Stellarium] | 0.22.1  | 开源的天象模拟软件 |
 
 [Stellarium]: https://stellarium.org/zh_CN/ '跳转主页'

@@ -10,89 +10,83 @@ postman是一款支持http协议的接口调试与测试工具，其主要特点
 
 当然，以上功能也只是展示了postman的一部分功能，为了能更加全面的体现这款工具的特点，我将从以下三个维度来加以说明。它们分别是：
 
--   基础功能
+- 基础功能
 
+- 常见类型的接口请求
 
--   常见类型的接口请求
+- 接口响应数据的解析
 
--   接口响应数据的解析
+- 接口管理(Collection)
 
--   接口管理(Collection)
+- 批量执行接口请求
 
--   批量执行接口请求
+- 日志调试
 
--   日志调试
+- 断言
 
--   断言
+- 变量
 
--   变量
+- 请求前置脚本
 
--   请求前置脚本
+- 接口关联
 
--   接口关联
+- 常见的返回值获取
 
--   常见的返回值获取
+- 便捷功能快
 
+- 速填写查询参数
 
--   便捷功能快
+- 快速填写请求头信息
 
+- 快速实现添加一个请求
 
--   速填写查询参数
+- 如何继承集合认证
 
--   快速填写请求头信息
+- 批量断言
 
--   快速实现添加一个请求
+- 快速查询和替换
 
--   如何继承集合认证
+- 高级功能
 
--   批量断言
+- 读取文件进行参数化
 
--   快速查询和替换
+- 生成测试报告
 
+- 代码中发送请求
 
--   高级功能
+- 编写接口文档
 
+- mock服务
 
--   读取文件进行参数化
+- 监控
 
--   生成测试报告
+- 使用工作空间
 
--   代码中发送请求
+- 代码同步与分支管理
 
--   编写接口文档
+- 连接数据库
 
--   mock服务
-
--   监控
-
--   使用工作空间
-
--   代码同步与分支管理
-
--   连接数据库
-
--   apis
-
+- apis
 
 ## 一. postman安装说明
 
 postman 在 2018 年之后就不再支持浏览器版本，所以，想要使用它就必须先下载客户端再安装使用，下面就以 Windows 系统为例进行安装 。
 
-#### 1\. 下载与安装
+#### 1.下载与安装
 
 postman安装步骤：
 
-1\. 访问postman官方网站，下载最新版本
+1. 访问postman官方网站，下载最新版本
 
 访问地址：https://www.getpostman.com/
 
-2\. 进入到下载页面，根据自己电脑下载对应的版本
+2. 进入到下载页面，根据自己电脑下载对应的版本
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/RQueXibgo0KO86E3YaibgVlWrpeia0uc8Flo5FzPWSpwW8L1UozoTf4MJtPadpMEQtSiaqLECarT9ZeUBIGhFJiceBA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 图片
 
-3\. 双击下载的安装包，进入到安装界面，直到用户登录和注册界面。
+3. 双击下载的安装包，进入到安装界面，直到用户登录和注册界面。
 
 若个人使用，选择跳过即可，这时会进入到postman主界面，至此postman安装成功(下图)。
 
@@ -176,23 +170,21 @@ http://www.weather.com.cn/data/sk/101010100.html
 
 如果在postman请求上图的接口，我们只需要填写四个参数，分别是(可以参考上图)：
 
--   请求方法：POST
+- 请求方法：POST
 
--   请求URL：http://localhost/index.php?m=Home&c=User&a=do_login&t=0.21942974229794432
+- 请求URL：http://localhost/index.php?m=Home&c=User&a=do_login&t=0.21942974229794432
 
--   请求头：Content-Type：application/x-www-form-urlencode
+- 请求头：Content-Type：application/x-www-form-urlencode
 
--   请求体：username=13088888888&password=123456&verify_code=8888
-
+- 请求体：username=13088888888&password=123456&verify_code=8888
 
 实现步骤：
 
-1.  打开postman，新建一个请求 。
+1. 打开postman，新建一个请求 。
 
-2.  在请求中设置以上四个参数，点击Send按钮。在postman中设置请求体类型为，需要选择body-> x-www-form-urlencoded
+2. 在请求中设置以上四个参数，点击Send按钮。在postman中设置请求体类型为，需要选择body-> x-www-form-urlencoded
 
-3.  查看响应数据。
-
+3. 查看响应数据。
 
 ![图片](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
 
@@ -208,23 +200,21 @@ POST http://localhost/index.php/home/Uploadify/imageUp/savepath/head_pic/pictit
 
 这种类型的接口，在postman中该如何请求呢 ？我们先分析需要填写的参数 。
 
--   请求方法：POST
+- 请求方法：POST
 
--   请求URL：http://localhost/index.php/home/Uploadify/imageUp/savepath/head_pic/pictitle/banner/dir/images.html
+- 请求URL：http://localhost/index.php/home/Uploadify/imageUp/savepath/head_pic/pictitle/banner/dir/images.html
 
--   请求类型：multipart/form-data
+- 请求类型：multipart/form-data
 
--   请求体：file=a1.jpg
-
+- 请求体：file=a1.jpg
 
 实现步骤：
 
-1.  打开postman，新建一个请求 。
+1. 打开postman，新建一个请求 。
 
-2.  在请求中设置以上四个参数，点击Send按钮。注意：在postman中设置请求体类型，需要选择body-> form-data 。file中要选择File类型，然后上传本地的文件 。
+2. 在请求中设置以上四个参数，点击Send按钮。注意：在postman中设置请求体类型，需要选择body-> form-data 。file中要选择File类型，然后上传本地的文件 。
 
-3.  查看响应数据。
-
+3. 查看响应数据。
 
 ![图片](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
 
@@ -240,23 +230,21 @@ POST http://xxx/api/sys/login HTTP/1.1  Content-Type: application/json;char
 
 根据以上报文，我们可以分析出，我们在postman只需要填写四个参数即可，具体如下：
 
--   请求方法：POST
+- 请求方法：POST
 
--   请求地址：http://xxx/api/sys/login
+- 请求地址：http://xxx/api/sys/login
 
--   请求体类型：json
+- 请求体类型：json
 
--   请求体数据：{"account":"root","password":"123456"}
-
+- 请求体数据：{"account":"root","password":"123456"}
 
 实现步骤：
 
-1.  打开postman，新建一个请求 。
+1. 打开postman，新建一个请求 。
 
-2.  在请求中设置以上四个参数，点击Send按钮。注意：在postman中设置请求体类型，需要选择body-> raw -JSON
+2. 在请求中设置以上四个参数，点击Send按钮。注意：在postman中设置请求体类型，需要选择body-> raw -JSON
 
-3.  查看响应数据。
-
+3. 查看响应数据。
 
 ![图片](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
 
@@ -272,21 +260,19 @@ POST http://xxx/api/sys/login HTTP/1.1  Content-Type: application/json;char
 
 在postman中的响应数据展示：
 
--   状态行：Status：200 OK
+- 状态行：Status：200 OK
 
--   响应头：Headers + Cookies，需要注意的是Cookies是包含在响应头中的，但是为了明显，工具会分开显示
+- 响应头：Headers + Cookies，需要注意的是Cookies是包含在响应头中的，但是为了明显，工具会分开显示
 
--   响应体：Body
-
+- 响应体：Body
 
 那么这些数据对我们做接口测试有什么作用呢 ？
 
--   Body和Status是我们做接口测试的重点，一般来说我们都会验证响应体中的数据和响应状态码
+- Body和Status是我们做接口测试的重点，一般来说我们都会验证响应体中的数据和响应状态码
 
--   Test Results 是我们编写断言后，可以查看断言的执行结果 ，所以这个对我们也很有用 。
+- Test Results 是我们编写断言后，可以查看断言的执行结果 ，所以这个对我们也很有用 。
 
--   Time 和Size 是我们做性能测试时，可以根据这两个参数来对所测接口的性能做一个简单的判断。
-
+- Time 和Size 是我们做性能测试时，可以根据这两个参数来对所测接口的性能做一个简单的判断。
 
 接下来我们再来关注下Body中的几个显示主题，分别是：Pretty，Raw，Preview .
 
@@ -310,10 +296,9 @@ Preview：翻译成中文就是预览，这个选项一般对返回HTML的页面
 
 先对Collection功能的使用场景做个简单总结 。
 
--   用例分类管理，方便后期维护
+- 用例分类管理，方便后期维护
 
--   可以进行批量用例回归测试 。
-
+- 可以进行批量用例回归测试 。
 
 那么Collection是如何去管理用例的呢 ？先想象我们要测试一个系统，系统下有多个模块，每个模块下有很多的被测接口用例 。那么基于这个场景，我们来通过Collection来进行实现：
 
@@ -369,14 +354,13 @@ Preview：翻译成中文就是预览，这个选项一般对返回HTML的页面
 
 对上面的几个红框内的功能进行简单说明：
 
--   断言统计：左上角的两个0是统计当前Collection中断言成功的执行数和失败的执行数，如果没有编写断言默认都为0 。
+- 断言统计：左上角的两个0是统计当前Collection中断言成功的执行数和失败的执行数，如果没有编写断言默认都为0 。
 
--   Run Summary: 运行结果总览，点击它可以看到每个请求中具体的测试断言详细信息 。Export Result：导出运行结果，默认导出的结果json文件 。
+- Run Summary: 运行结果总览，点击它可以看到每个请求中具体的测试断言详细信息 。Export Result：导出运行结果，默认导出的结果json文件 。
 
--   Retry: 重新运行，点击它会把该Collection重新运行一遍
+- Retry: 重新运行，点击它会把该Collection重新运行一遍
 
--   New：返回到Runner，可以重新选择用例的组合 。
-
+- New：返回到Runner，可以重新选择用例的组合 。
 
 总体来说，这个功能主要是用于对一个Collection中的所有用例或部分用例进行批量运行，已达到手工回归测试的目的。
 
@@ -406,14 +390,13 @@ Preview：翻译成中文就是预览，这个选项一般对返回HTML的页面
 
 这里面有几个比较实用的功能：
 
--   搜索日志：输入URL或者打印的日志就能直接搜索出我们想要的请求和日志，这对我们在众多日志中查找某一条日志是非常方便的 。
+- 搜索日志：输入URL或者打印的日志就能直接搜索出我们想要的请求和日志，这对我们在众多日志中查找某一条日志是非常方便的 。
 
--   按级别搜索：可以查询log,info,warning,error级别的日志 ，有助于我们更快定位到错误 。
+- 按级别搜索：可以查询log,info,warning,error级别的日志 ，有助于我们更快定位到错误 。
 
--   查看原始报文(Show raw log)：如果习惯看原始请求报文的话，这个功能可能更方便些 。
+- 查看原始报文(Show raw log)：如果习惯看原始请求报文的话，这个功能可能更方便些 。
 
--   隐藏请求(Hide network)：把请求都隐藏掉，只查看输出日志 。
-
+- 隐藏请求(Hide network)：把请求都隐藏掉，只查看输出日志 。
 
 总之，通过这个功能，我们在请求接口报错时，通过打印响应的日志，就能很轻松的找到问题原因了 。
 
@@ -423,14 +406,13 @@ Preview：翻译成中文就是预览，这个选项一般对返回HTML的页面
 
 我们先来了解下postman断言的一些特点 ，具体如下
 
--   断言编写位置：Tests标签
+- 断言编写位置：Tests标签
 
--   断言所用语言：JavaScript
+- 断言所用语言：JavaScript
 
--   断言执行顺序：在响应体数据返回后执行 。
+- 断言执行顺序：在响应体数据返回后执行 。
 
--   断言执行结果查看：Test Results
-
+- 断言执行结果查看：Test Results
 
 在上面我们介绍到，编写的断言代码是JavaScript，那如果不会写怎么办 ？不用担心，因为postman已经给我们内置了一些常用的断言 。用的时候，只需从右侧点击其中一个断言，就会在文本框中自动生成对应断言代码块 。
 
@@ -444,15 +426,13 @@ Preview：翻译成中文就是预览，这个选项一般对返回HTML的页面
 
 状态行中的断言：
 
--   断言状态码：Status code: code is 200
-
+- 断言状态码：Status code: code is 200
 
 ```
 pm.test("Status code is 200", function () {      pm.response.to.have.status(200); //这里填写的200是预期结果，实际结果是请求返回结果  });
 ```
 
--   断言状态消息：Status code：code name has string
-
+- 断言状态消息：Status code：code name has string
 
 ```
 pm.test("Status code name has string", function () {      pm.response.to.have.status("OK"); //断言响应状态消息包含OK  });
@@ -460,8 +440,7 @@ pm.test("Status code name has string", function () {      pm.respon
 
 响应头中的断言
 
--   断言响应头中包含：Response headers:Content-Type header check
-
+- 断言响应头中包含：Response headers:Content-Type header check
 
 ```
 pm.test("Content-Type is present", function () {      pm.response.to.have.header("Content-Type"); //断言响应头存在"Content-Type"  });
@@ -469,22 +448,19 @@ pm.test("Content-Type is present", function () {      pm.response.to.
 
 断言响应体(重点)
 
--   断言响应体中包含XXX字符串：Response body:Contains string
-
+- 断言响应体中包含XXX字符串：Response body:Contains string
 
 ```
 pm.test("Body matches string", function () {      pm.expect(pm.response.text()).to.include("string_you_want_to_search");  });  //注解  pm.expect(pm.response.text()).to.include("string") 获取响应文本中包含string
 ```
 
--   断言响应体等于XXX字符串：Response body : is equal to a string
-
+- 断言响应体等于XXX字符串：Response body : is equal to a string
 
 ```
 pm.test("Body is correct", function () {      pm.response.to.have.body("response_body_string");  });  //注解  pm.response.to.have.body("response_body_string"); 获取响应体等于response_body_string
 ```
 
--   断言响应体(json)中某个键名对应的值：Response body : JSON value check
-
+- 断言响应体(json)中某个键名对应的值：Response body : JSON value check
 
 ```
 pm.test("Your test name", function () {      var jsonData = pm.response.json();      pm.expect(jsonData.value).to.eql(100);  });  //注解  var jsonData = pm.response.json() 获取响应体，以json显示，赋值给jsonData .注意：该响应体必须返会是的json，否则会报错  pm.expect(jsonData.value).to.eql(100) 获取jsonData中键名为value的值，然后和100进行比较
@@ -492,8 +468,7 @@ pm.test("Your test name", function () {      var jsonData = pm.res
 
 响应时间(一般用于性能测试)
 
--   断言响应时间：Response time is less than 200ms
-
+- 断言响应时间：Response time is less than 200ms
 
 ```
 pm.test("Response time is less than 200ms", function () {      pm.expect(pm.response.responseTime).to.be.below(200); //断言响应时间<200ms  });
@@ -507,12 +482,11 @@ pm.test("Response time is less than 200ms", function () {      pm.
 {      "cityid": "101120101",      "city": "济南",      "update_time": "2020-04-17 10:50",      "wea": "晴",      "wea_img": "qing",      "tem": "16",      "tem_day": "20",      "tem_night": "9",      "win": "东北风",      "win_speed": "3级",      "win_meter": "小于12km/h",      "air": "113"  }
 ```
 
--   断言响应状态码为200
+- 断言响应状态码为200
 
--   断言city等于济南
+- 断言city等于济南
 
--   断言update_time包含2020-04-17
-
+- 断言update_time包含2020-04-17
 
 ![图片](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
 
@@ -528,21 +502,19 @@ pm.test("Response time is less than 200ms", function () {      pm.
 
 在postman常用的三种变量分别是全局变量，环境变量，集合变量 。
 
--   全局变量：一旦申明了全局变量，全局有效，也就是说postman中的任何集合，任何请求中都可以使用这个变量。它的作用域是最大的 。
+- 全局变量：一旦申明了全局变量，全局有效，也就是说postman中的任何集合，任何请求中都可以使用这个变量。它的作用域是最大的 。
 
--   环境变量：要申明环境变量，首先的创建环境，然后在环境中才能创建变量 。如果要想使用环境变量，必须先选择(导入)这个环境，这样就可以使用这个环境下的变量了 。需要说明的是环境也可以创建多个 。每个环境下又可以有多个变量 。
+- 环境变量：要申明环境变量，首先的创建环境，然后在环境中才能创建变量 。如果要想使用环境变量，必须先选择(导入)这个环境，这样就可以使用这个环境下的变量了 。需要说明的是环境也可以创建多个 。每个环境下又可以有多个变量 。
 
--   集合变量：集合变量是针对集合的，也就是说申明的变量必须基于某个集合，它的使用范围也只是针对这个集合有效 。
-
+- 集合变量：集合变量是针对集合的，也就是说申明的变量必须基于某个集合，它的使用范围也只是针对这个集合有效 。
 
 其中，他们的作用域范围依次从大到小：全局变量>集合变量>环境变量 。当在几个不同的范围内都申明了相同的变量时，则会优先使用范围最小的变量使。
 
 想要使用变量中的值只需俩个步骤，分别是定义变量和获取变量 。
 
-1.  定义变量（设置变量）
+1. 定义变量（设置变量）
 
-2.  获取变量（访问变量）
-
+2. 获取变量（访问变量）
 
 **定义变量**
 
@@ -580,12 +552,11 @@ pm.test("Response time is less than 200ms", function () {      pm.
 
 在Tests，Pre-requests Script：
 
--   定义全局变量：pm.collectionVariables.set("变量名",变量值)
+- 定义全局变量：pm.collectionVariables.set("变量名",变量值)
 
--   定义环境变量：pm.environment.set("变量名"，变量值)
+- 定义环境变量：pm.environment.set("变量名"，变量值)
 
--   定义集合变量：pm.variables.set("变量名",变量值)
-
+- 定义集合变量：pm.variables.set("变量名",变量值)
 
 **获取变量**
 
@@ -593,17 +564,15 @@ pm.test("Response time is less than 200ms", function () {      pm.
 
 如果在请求参数中获取变量，无论是获取全局变量，还是环境变量，还是集合变量，获取的方式都是一样的编写规则：{{变量名}} 。
 
--   请求参数指的是：URL，Params , Authorization , Headers , Body
-
+- 请求参数指的是：URL，Params , Authorization , Headers , Body
 
 如果是在编写代码的位置(Tests,Pre-requests Script)获取变量，获取不同类型的变量，编写的代码都不相同，具体如下：
 
--   获取环境变量：pm.environment.get(‘变量名’)
+- 获取环境变量：pm.environment.get(‘变量名’)
 
--   获取全局变量：pm.globals.get('变量名')
+- 获取全局变量：pm.globals.get('变量名')
 
--   获取集合变量：pm.pm.collectionVariables.get.get('变量名')
-
+- 获取集合变量：pm.pm.collectionVariables.get.get('变量名')
 
 ![图片](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
 
@@ -625,10 +594,9 @@ pm.test("Response time is less than 200ms", function () {      pm.
 
 案例：
 
--   请求的登录接口URL，参数t的值要求的规则是每次请求都必须是一个随机数。
+- 请求的登录接口URL，参数t的值要求的规则是每次请求都必须是一个随机数。
 
--   接口地址：http://localhost/index.php？m=Home&c=User&a=do_login&t=0.7102045930338428
-
+- 接口地址：http://localhost/index.php？m=Home&c=User&a=do_login&t=0.7102045930338428
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/RQueXibgo0KO86E3YaibgVlWrpeia0uc8Fl90JA0Trd0rMBeq5HJcrlZBC4WfoqRIBqic1Gsib5GJLc32DUvTBTUg3Q/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -636,12 +604,11 @@ pm.test("Response time is less than 200ms", function () {      pm.
 
 实现步骤：
 
-1.  在前置脚本中编写生成随机数
+1. 在前置脚本中编写生成随机数
 
-2.  将这个值保存成环境变量
+2. 将这个值保存成环境变量
 
-3.  将参数t的值替换成环境变量的值 。
-
+3. 将参数t的值替换成环境变量的值 。
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/RQueXibgo0KO86E3YaibgVlWrpeia0uc8FliaWAtcJKFaOia5VfHSPk7ZBNhVDq1IQ7GGoR7DR43D4v77hdLlTxibp6g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -655,19 +622,17 @@ pm.test("Response time is less than 200ms", function () {      pm.
 
 实现思路：
 
-1.  提取上一个接口的返回数据值，
+1. 提取上一个接口的返回数据值，
 
-2.  将这个数据值保存到环境变量或全局变量中
+2. 将这个数据值保存到环境变量或全局变量中
 
-3.  在下一个接口获取环境变量或全局变量
-
+3. 在下一个接口获取环境变量或全局变量
 
 案例：
 
--   用户上传头像功能，需要用户先上传一张图片，然后会自动预览 。那么在这个过程中，会调用到俩个接口 ，第一个上传头像接口，第二个预览图像接口 。
+- 用户上传头像功能，需要用户先上传一张图片，然后会自动预览 。那么在这个过程中，会调用到俩个接口 ，第一个上传头像接口，第二个预览图像接口 。
 
--   其中调用上传头像接口成功后会返回如下信息：
-
+- 其中调用上传头像接口成功后会返回如下信息：
 
 ```
 {      "url": "/public/upload/user//head_pic//ba51d1c2f7f7b98dfb5cad90846e2d79.jpg",      "title": "banner",      "original": "",      "state": "SUCCESS",      "path": "images"  }
@@ -679,12 +644,11 @@ http://localhost/public/upload/user//head_pic//ba51d1c2f7f7b98dfb5cad90846e2d79.
 
 实现步骤：
 
-1.  获取上传头像接口返回url的值
+1. 获取上传头像接口返回url的值
 
-2.  将这个值保存成全局变量(环境变量也可以)
+2. 将这个值保存成全局变量(环境变量也可以)
 
-3.  在图像预览中使用全局变量
-
+3. 在图像预览中使用全局变量
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/RQueXibgo0KO86E3YaibgVlWrpeia0uc8FlehOIJJubLWOiczR2Zzib3y1iac2I1R3fxmGPU8O6orVSbjj0gdSPD1p2Q/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 

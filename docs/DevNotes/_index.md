@@ -1,5 +1,16 @@
 > Notes for Development
 
+- [📑Browser](DevNotes/browser.md "Notes for Browser")
+- [📑Chrome](DevNotes/chrome.md "Notes for Chrome")
+- [📑Edge](DevNotes/edge.md "Notes for Edge")
+- [📑Github](DevNotes/github.md "Notes for Github")
+- [📑Github README](DevNotes/github-readme.md "Notes for Github README")
+- [📑Npm](DevNotes/npm.md "Notes for Npm")
+- [📑Postman](DevNotes/postman.md "Notes for Postman")
+- [📑PyCharm](DevNotes/pycharm.md "Notes for PyCharm")
+- [📑VMware](DevNotes/vmware.md "Notes for VMware")
+- [📑Css](DevNotes/css.md "Notes for Css")
+- [📑Vue](DevNotes/vue.md "Notes for Vue.js")
 - [📑面向对象](DevNotes/object-based.md "面向对象")
 - [📑类型检测](DevNotes/type-detection.md "类型检测")
 - [📑事件委托](DevNotes/event-delegation.md "事件委托")
@@ -13,5 +24,3 @@
 - [📑双指针](DevNotes/two-pointers.md "前端算法: 双指针")
 - [📑DFS和BFS](DevNotes/dfs-bfs.md "前端算法: 深度优先遍历和广度优先遍历")
 - [📑正则表达式](DevNotes/regex.md "正则表达式")
-- [📑Css](DevNotes/css.md "Notes for Css")
-- [📑Vue](DevNotes/vue.md "Notes for Vue.js")

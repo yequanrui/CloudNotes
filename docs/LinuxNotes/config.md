@@ -18,7 +18,7 @@
 
 这两个命令执行的效果如下
 
-```
+```shell
 uusama@ubuntu:~$ exportdeclare -x HOME="/home/uusama"declare -x LANG="en_US.UTF-8"declare -x LANGUAGE="en_US:"declare -x LESSCLOSE="/usr/bin/lesspipe %s %s"declare -x LESSOPEN="| /usr/bin/lesspipe %s"declare -x LOGNAME="uusama"declare -x MAIL="/var/mail/uusama"declare -x PATH="/home/uusama/bin:/home/uusama/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"declare -x SSH_TTY="/dev/pts/0"declare -x TERM="xterm"declare -x USER="uusama"uusama@ubuntu:~$ echo $PATH/home/uusama/bin:/home/uusama/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
 ```
 
@@ -28,7 +28,7 @@ uusama@ubuntu:~$ exportdeclare -x HOME="/home/uusama"declare -x LANG="en_US.UT
 
 使用`export`命令直接修改`PATH`的值，配置MySQL进入环境变量的方法:
 
-```
+```shell
 export PATH=/home/uusama/mysql/bin:$PATH# 或者把PATH放在前面export PATH=$PATH:/home/uusama/mysql/bin
 ```
 
@@ -46,7 +46,7 @@ export PATH=/home/uusama/mysql/bin:$PATH# 或者把PATH放在前面export PATH=$
 
 通过修改用户目录下的`~/.bashrc`文件进行配置：
 
-```
+```shell
 vim ~/.bashrc# 在最后一行加上export PATH=$PATH:/home/uusama/mysql/bin
 ```
 
@@ -64,7 +64,7 @@ vim ~/.bashrc# 在最后一行加上export PATH=$PATH:/home/uusama/mysql/bin
 
 和修改`~/.bashrc`文件类似，也是要在文件最后加上新的路径即可：
 
-```
+```shell
 vim ~/.bash_profile# 在最后一行加上export PATH=$PATH:/home/uusama/mysql/bin
 ```
 
@@ -82,7 +82,7 @@ vim ~/.bash_profile# 在最后一行加上export PATH=$PATH:/home/uusama/mysql/
 
 该方法是修改系统配置，需要管理员权限（如root）或者对该文件的写入权限：
 
-```
+```shell
 # 如果/etc/bashrc文件不可编辑，需要修改为可编辑chmod -v u+w /etc/bashrcvim /etc/bashrc# 在最后一行加上export PATH=$PATH:/home/uusama/mysql/bin
 ```
 
@@ -98,7 +98,7 @@ vim ~/.bash_profile# 在最后一行加上export PATH=$PATH:/home/uusama/mysql/
 
 该方法修改系统配置，需要管理员权限或者对该文件的写入权限，和`vim /etc/bashrc`类似：
 
-```
+```shell
 # 如果/etc/profile文件不可编辑，需要修改为可编辑chmod -v u+w /etc/profilevim /etc/profile# 在最后一行加上export PATH=$PATH:/home/uusama/mysql/bin
 ```
 
@@ -114,7 +114,7 @@ vim ~/.bash_profile# 在最后一行加上export PATH=$PATH:/home/uusama/mysql/
 
 该方法是修改系统环境配置文件，需要管理员权限或者对该文件的写入权限：
 
-```
+```shell
 # 如果/etc/bashrc文件不可编辑，需要修改为可编辑chmod -v u+w /etc/environmentvim /etc/profile# 在最后一行加上export PATH=$PATH:/home/uusama/mysql/bin
 ```
 
@@ -125,7 +125,6 @@ vim ~/.bash_profile# 在最后一行加上export PATH=$PATH:/home/uusama/mysql/
 - 生效期限：永久有效
 
 - 生效范围：对所有用户有效
-
 
 ##  **Linux环境变量加载原理解析**
 
@@ -140,7 +139,6 @@ vim ~/.bash_profile# 在最后一行加上export PATH=$PATH:/home/uusama/mysql/
 - 用户级别环境变量定义文件：`~/.bashrc`、`~/.profile`（部分系统为：`~/.bash_profile`）
 
 - 系统级别环境变量定义文件：`/etc/bashrc`、`/etc/profile`(部分系统为：`/etc/bash_profile`）、`/etc/environment`
-
 
 另外在用户环境变量中，系统会首先读取`~/.bash_profile`（或者`~/.profile`）文件，如果没有该文件则读取`~/.bash_login`，根据这些文件中内容再去读取`~/.bashrc`。
 
@@ -168,7 +166,7 @@ vim ~/.bash_profile# 在最后一行加上export PATH=$PATH:/home/uusama/mysql/
 
 修改完之后保存，新开一个窗口，然后`echo $UU_ORDER`观察变量的值：
 
-```
+```shell
 uusama@ubuntu:~$ echo $UU_ORDER$UU_ORDER:/etc/environment:/etc/profile:/etc/bash.bashrc:/etc/profile.d/test.sh:~/.profile:~/.bashrc
 ```
 
@@ -195,13 +193,13 @@ uusama@ubuntu:~$ echo $UU_ORDER$UU_ORDER:/etc/environment:/etc/profile:/etc/bash
 
 打开`/etc/profile`文件你会发现，该文件的代码中会加载`/etc/bash.bashrc`文件，然后检查`/etc/profile.d/`目录下的`.sh`文件并加载。
 
-```
+```shell
 # /etc/profile: system-wide .profile file for the Bourne shell (sh(1))# and Bourne compatible shells (bash(1), ksh(1), ash(1), ...).if [ "$PS1" ]; then  if [ "$BASH" ] && [ "$BASH" != "/bin/sh" ]; then    # The file bash.bashrc already sets the default PS1.    # PS1='\h:\w\$ '    if [ -f /etc/bash.bashrc ]; then      . /etc/bash.bashrc    fi  else    if [ "`id -u`" -eq 0 ]; then      PS1='# '    else      PS1='$ '    fi  fifiif [ -d /etc/profile.d ]; then  for i in /etc/profile.d/*.sh; do    if [ -r $i ]; then      . $i    fi  done  unset ifi
 ```
 
 其次再打开`~/.profile`文件，会发现该文件中加载了`~/.bashrc`文件。
 
-```
+```shell
 # if running bashif [ -n "$BASH_VERSION" ]; then    # include .bashrc if it exists    if [ -f "$HOME/.bashrc" ]; then  . "$HOME/.bashrc"    fifi# set PATH so it includes user's private bin directoriesPATH="$HOME/bin:$HOME/.local/bin:$PATH"
 ```
 
