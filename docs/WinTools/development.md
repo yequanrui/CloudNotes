@@ -2,9 +2,9 @@
 
 | Name      | Version                               | Description                     |
 | :-------- | :------------------------------------ | :------------------------------ |
-| [DBeaver] | [22.1.0][DBeaver-Down](Win/Mac/Linux) | 免费的通用数据库工具和SQL客户端 |
-| [He3]     | [1.3.0][He3-Down](Win/Mac/Linux)      | 超级开发工具箱                  |
-| [VSCode]  | [1.80.1][VSCode-Down](Win/Mac/Linux)  | 微软的轻量级编辑器              |
+| [DBeaver] | [23.1.3][DBeaver-Down](Win/Mac/Linux) | 免费的通用数据库工具和SQL客户端 |
+| [He3]     | [1.3.23][He3-Down](Win/Mac/Linux)     | 超级开发工具箱                  |
+| [VSCode]  | [1.81.0][VSCode-Down](Win/Mac/Linux)  | 微软的轻量级编辑器              |
 
 [DBeaver]: https://dbeaver.io/ '跳转主页'
 [DBeaver-Down]: https://github.com/dbeaver/dbeaver/releases '跳转下载页'
