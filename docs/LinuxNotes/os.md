@@ -7,6 +7,7 @@
 | [Deepin]       | [20.9][Deepin-Down]        | 深度桌面操作系统   |
 | [Linux Lite]   | [6.4][Linux Lite-Down]     | 自由的开源操作系统 |
 | [Linux Mint]   | [21.2][Linux Mint-Down]    | 易用的免费操作系统 |
+| [RedHat]       | [9.2][RedHat-Down]         | 领先的企业操作系统 |
 | [Ubuntu]       | [22.04.3][Ubuntu-Down]     | 开源的桌面操作系统 |
 | [Ubuntu Kylin] | [22.04][Ubuntu Kylin-Down] | 优麒麟桌面操作系统 |
 
@@ -20,6 +21,8 @@
 [Linux Lite-Down]: https://www.linuxliteos.com/download.php '跳转下载页'
 [Linux Mint]: https://www.linuxmint.com/ '跳转主页'
 [Linux Mint-Down]: https://www.linuxmint.com/download.php '跳转下载页'
+[RedHat]: https://www.redhat.com/zh '跳转主页'
+[RedHat-Down]: https://www.redhat.com/zh/technologies/linux-platforms/enterprise-linux '跳转下载页'
 [Ubuntu]: https://cn.ubuntu.com/ '跳转主页'
 [Ubuntu-Down]: https://cn.ubuntu.com/download/desktop '跳转下载页'
 [Ubuntu Kylin]: https://www.ubuntukylin.com/ '跳转主页'

@@ -2,13 +2,13 @@
 
 | Name                           | Version                            | Description                      |
 | :----------------------------- | :--------------------------------- | :------------------------------- |
-| [Files][Files]                 | [2.4.71.0][Files-Microsoft]        | 资源管理器                       |
+| [Files][Files]                 | [2.5.21.0][Files-Microsoft]        | 资源管理器                       |
 | [Shrestha Files Pro X][SFiles] | [3.1.427.0][SFiles-Microsoft]      | 带有选项卡的彩色双窗格文件管理器 |
-| [DevToys][DevToys]             | [1.0.11.0][DevToys-Microsoft]      | 开发人员的瑞士军刀               |
-| [PowerToys][PowerToys]         | [0.67.1][PowerToys-Microsoft]      | 微软辅助工具集                   |
-| [Windows Terminal][Terminal]   | [1.16.10262.0][Terminal-Microsoft] | 微软命令行工具                   |
+| [DevToys][DevToys]             | [1.0.13.0][DevToys-Microsoft]      | 开发人员的瑞士军刀               |
+| [PowerToys][PowerToys]         | [0.73.0][PowerToys-Microsoft]      | 微软辅助工具集                   |
+| [Windows Terminal][Terminal]   | [1.17.11461.0][Terminal-Microsoft] | 微软命令行工具                   |
 | [QuickLook][QuickLook]         | [3.7.3.0][QuickLook-Microsoft]     | 快速预览工具                     |
-| [ScreenToGif][ScreenToGif]     | [2.38.0.0][ScreenToGif-Microsoft]  | 动图制作工具                     |
+| [ScreenToGif][ScreenToGif]     | [2.38.1.0][ScreenToGif-Microsoft]  | 动图制作工具                     |
 | [Snipaste][Snipaste]           | [2.8.5.0][Snipaste-Microsoft]      | 截图贴图工具                     |
 
 [Files]: https://github.com/files-community/Files '跳转主页'
