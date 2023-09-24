@@ -8,6 +8,7 @@
   - [📑Postman](DevNotes/postman.md "Notes for Postman")
   - [📑PyCharm](DevNotes/pycharm.md "Notes for PyCharm")
   - [📑VMware](DevNotes/vmware.md "Notes for VMware")
+  - [📑VSCode](DevNotes/vscode.md "Notes for VSCode")
   - [📑Css](DevNotes/css.md "Notes for Css")
   - [📑Vue](DevNotes/vue.md "Notes for Vue.js")
   - [📑面向对象](DevNotes/object-based.md "面向对象")
