@@ -5,7 +5,7 @@
 | [CentOS]       | [8.5.2111][CentOS-Down]    | 社区企业操作系统   |
 | [Debian]       | [12.1.0][Debian-Down]      | 自由的开源操作系统 |
 | [Deepin]       | [20.9][Deepin-Down]        | 深度桌面操作系统   |
-| [Linux Lite]   | [6.4][Linux Lite-Down]     | 自由的开源操作系统 |
+| [Linux Lite]   | [6.6][Linux Lite-Down]     | 自由的开源操作系统 |
 | [Linux Mint]   | [21.2][Linux Mint-Down]    | 易用的免费操作系统 |
 | [RedHat]       | [9.2][RedHat-Down]         | 领先的企业操作系统 |
 | [Ubuntu]       | [22.04.3][Ubuntu-Down]     | 开源的桌面操作系统 |

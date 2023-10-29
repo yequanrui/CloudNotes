@@ -2,23 +2,23 @@
 
 | Name                                 | Version                       | Description                                              |
 | :----------------------------------- | :---------------------------- | :------------------------------------------------------- |
-| [Angular Snippets][AC]               | [13.0.0][AC-VSCode]           | Adds snippets for Angular for TypeScript and HTML        |
+| [Angular Snippets][AC]               | [16.0.1][AC-VSCode]           | Adds snippets for Angular for TypeScript and HTML        |
 | [Auto Close Tag][ACT]                | [0.5.14][ACT-VSCode]          | 输入标签名称的时候自动生成闭合标签                       |
 | [Auto Rename Tag][ART]               | [0.1.10][ART-VSCode]          | 自动检测配对标签，同步修改                               |
 | [Better Comments][BC]                | [3.0.2][BC-VSCode]            | 根据不同种类的注释，显示不同的颜色                       |
 | [Code Runner][CR]                    | [0.12.0][CR-VSCode]           | 运行多种语言的代码片段或代码文件                         |
 | [Git Graph][GG]                      | [1.30.0][GG-VSCode]           | 查看存储库的Git图表，并从图表轻松执行Git操作             |
-| [GitLens][GL]                        | [13.2.0][GL-VSCode]           | Git源代码管理插件                                        |
+| [GitLens][GL]                        | [14.3.0][GL-VSCode]           | Git源代码管理插件                                        |
 | [Image preview][IP]                  | [0.30.0][IP-VSCode]           | 预览代码中图片的引用                                     |
 | [Import Cost][IC]                    | [3.3.0][IC-VSCode]            | 显示导入包的估计大小                                     |
 | [JavaScript (ES6) code snippets][JS] | [1.8.0][JS-VSCode]            | Code snippets for JavaScript in ES6 syntax               |
 | [JSON to TS][JTT]                    | [1.7.5][JTT-VSCode]           | 将JSON对象转换为TypeScript接口                           |
 | [Live Server][LS]                    | [5.7.9][LS-VSCode]            | 为静态和动态页面启动具有实时重新加载功能的本地开发服务器 |
-| [Markdown All in One][MAO]           | [3.5.0][MAO-VSCode]           | All you need to write Markdown                           |
+| [Markdown All in One][MAO]           | [3.5.1][MAO-VSCode]           | All you need to write Markdown                           |
 | [Postcode][Postcode]                 | [1.3.9][Postcode-VSCode]      | 创建和测试简单和复杂的`HTTP/s`请求                       |
-| [Prettier][Prettier]                 | [9.10.4][Prettier-VSCode]     | Opinionated的代码格式化工具                              |
-| [Version Lens][Version-Lens]         | [1.5.0][Version-Lens-VSCode]  | package.json中显示npm工具包的版本信息                    |
-| [vscode-icons][vscode-icons]         | [12.2.0][vscode-icons-VSCode] | Icons for Visual Studio Code                             |
+| [Prettier][Prettier]                 | [10.1.0][Prettier-VSCode]     | Opinionated的代码格式化工具                              |
+| [Version Lens][Version-Lens]         | [1.7.3][Version-Lens-VSCode]  | package.json中显示npm工具包的版本信息                    |
+| [vscode-icons][vscode-icons]         | [12.5.0][vscode-icons-VSCode] | Icons for Visual Studio Code                             |
 | [Vue 3 Snippets][V3S]                | [1.0.4][V3S-VSCode]           | A Vue.js 3 And Vue.js 2 Code Snippets Extension          |
 
 [AC]: https://github.com/johnpapa/vscode-angular-snippets '跳转主页'

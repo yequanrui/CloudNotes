@@ -6,7 +6,7 @@
 - [💻WinTools](WinTools/_index.md "Toolset for Windows")
 - [📓MobileNotes](MobileNotes/_index.md "Notes for Mobile")
 - [📱MobileTools](MobileTools/_index.md "Toolset for Mobile")
-- [📷Photo](Music/_index.md "Notes for Photography")
+- [📷Photo](Photo/_index.md "Notes for Photography")
 - [📹Video Production](Video/_index.md "Notes for Video Production")
 - [🎶Music](Music/_index.md "Collection of Music")
 - [👫🏻Life](Life/_index.md "Notes of Life")
