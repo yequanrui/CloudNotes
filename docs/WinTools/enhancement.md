@@ -3,7 +3,7 @@
 | Name                 | Version                               | Description            |
 | :------------------- | :------------------------------------ | :--------------------- |
 | [Beyond Compare][BC] | [4.4.6.27483][BC-Down](Win/Mac/Linux) | 专业的文本文件对比工具 |
-| [Q-Dir][QD]          | [11.37][QD-Down](Win)                 | 多窗口文件管理器       |
+| [Q-Dir][QD]          | [11.44][QD-Down](Win)                 | 多窗口文件管理器       |
 | [QuickLook][QL]      | [3.7.3][QL-Down](Win)                 | 桌面快速预览工具       |
 | [彩虹工具箱][RB]     | 2.0.2([Win][RB-Win]/[Mac][RB-Mac])    | 集成了大量常用的小工具 |
 
