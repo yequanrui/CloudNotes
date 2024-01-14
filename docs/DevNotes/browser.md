@@ -1,3 +1,19 @@
+### 重启
+
+- **Chrome**
+  1. 地址栏输入并回车`chrome://restart`
+
+- **Edge**
+  1. 地址栏输入并回车`edge://restart`
+
+### 退出
+
+- **Chrome**
+  1. 地址栏输入并回车`chrome://quit`
+
+- **Edge**
+  1. 地址栏输入并回车`edge://quit`
+
 ### 开启标签页预览
 
 - **Chrome**
@@ -38,3 +54,17 @@
   1. 地址栏输入并回车`edge://flags/#enable-parallel-downloading`
   2. 将默认的`Default`改成`Enabled`
   3. 点击`Relaunch`重启浏览器
+
+### 恐龙游戏
+
+- **Chrome**
+  1. 地址栏输入并回车`chrome://dino`
+  2. 按空格键即可开始游戏
+
+### 浏览器完整的URL列表
+
+- **Chrome**
+  1. 地址栏输入并回车`chrome://chrome-urls`
+
+- **Edge**
+  1. 地址栏输入并回车`edge://edge-urls`

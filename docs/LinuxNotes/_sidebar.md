@@ -5,3 +5,4 @@
   - [📑常见端口服务](LinuxNotes/port.md "常见端口服务及漏洞")
   - [📑Shell命令大全](LinuxNotes/shell.md "Shell命令大全")
   - [📑Vim命令大全](LinuxNotes/vim.md "Vim命令大全")
+  - [📑Nginx教程](LinuxNotes/nginx.md "Nginx教程")
