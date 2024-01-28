@@ -1,3 +1,5 @@
+# Editor configuration, see https://editorconfig.org
+
 ## 打开文件时，EditorConfig 插件会在打开的文件的目录和每个父目录中查找名为 .editorconfig 的文件。
 ## 如果到达根文件路径或找到具有 root=true 的 EditorConfig 文件，将停止对 .editorconfig 文件的搜索。
 ## 如果 root=true 没有配置, EditorConfig 插件将会在工程之外寻找 .editorconfig 文件
@@ -34,9 +36,6 @@ insert_final_newline = true
 
 ## 设置为true以删除换行符之前的任何空格字符，设置为false以确保不会。
 trim_trailing_whitespace = true
-
-[*.ts]
-quote_type = single
 
 [*.md]
 max_line_length = off

@@ -4,15 +4,15 @@
   "author": "yequanrui",
   "description": "A markdown-based notes site using docsify",
   "keywords": [
+    "doscify",
     "markdown",
-    "notes",
-    "doscify"
+    "notes"
   ],
   "scripts": {
     "doc": "docsify serve docs"
   },
   "dependencies": {
-    "docsify": "^4.12.2",
+    "docsify": "^4.13.1",
     "docsify-darklight-theme": "^3.2.0"
   },
   "devDependencies": {

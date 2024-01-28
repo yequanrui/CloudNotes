@@ -21,6 +21,9 @@ git add .
 # 移动或重命名文件（或文件夹）
 git mv {source_path} {target_path}
 
+# 显示当前HEAD上的最近一次的提交
+git show
+
 # 从暂存区中删除所有文件
 git reset
 # 从暂存区中删除文件
@@ -38,6 +41,10 @@ git status
 git commit -m "{commit_message}"
 # 添加对跟踪文件所做的所有更改并提交
 git commit -am "{commit_message}"
+# 修改未推送的提交信息
+git commit --amend --only -m "{commit_message}"
+# 修改单个提交里的用户名和邮箱
+git commit --amend --author "NewAuthorName <myemail@mydomain.com>"
 
 # 将所有本地分支提交上传到相应的远程分支
 git push
@@ -145,6 +152,8 @@ git log
 git log --summary
 # 查看更改（简要）
 git log --oneline
+# 当前HEAD上的最近一次的提交
+git log -n1 -p
 
 # 显示对未暂存文件的更改
 git diff
