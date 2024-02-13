@@ -19,3 +19,4 @@
 - [🖥️Monitor](WinTools/monitor.md "Toolset for Monitor")
 - [⚙️System](WinTools/system.md "Toolset for System")
 - [🧊Desktop](WinTools/desktop.md "Toolset for Desktop")
+- [👻Others](WinTools/other.md "Toolset for Others")
