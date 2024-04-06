@@ -7,6 +7,7 @@
 | [DevSidecar]  | [1.7.3][DevSidecar-Down](Win/Mac/Linux)                             | 开发者边车，GitHub、Npm加速                     |
 | [Electerm]    | [1.28.4.1][Electerm-Down](Win/Mac/Linux)                            | 跨平台的Terminal/SSH/SFTP客户端工具             |
 | FileZilla     | 3.59.0.0(Win)                                                       | 多线程FTP客户端                                 |
+| [Firefox]     | [124.0.2][FF-Down](Win/Mac/Linux)                                   | 火狐浏览器                                      |
 | FlashFXP      | 5.4.0.3970(Win)                                                     | 功能强大的FXP/FTP软件                           |
 | [Greenhub]    | [2.2.0][Greenhub-Down](Win/Mac)                                     | 适合所有人的免费VPN                             |
 | [MobaXterm]   | 23.0.0.5042([汉化][MobaXterm-Cn]/[Win][MobaXterm-Win])              | 集成了多种远程连接工具和Unix命令的Windows软件   |
@@ -25,6 +26,8 @@
 [DevSidecar-Down]: https://github.com/docmirror/dev-sidecar/releases '跳转下载页'
 [Electerm]: https://electerm.html5beta.com/index-zh_cn.html '跳转主页'
 [Electerm-Down]: https://github.com/electerm/electerm/releases '跳转下载页'
+[Firefox]: https://www.firefox.com.cn/ '跳转主页'
+[FF-Down]: https://www.mozilla.org/zh-CN/firefox/all/ '跳转下载页'
 [Greenhub]: https://greenhubtx.ga/ '跳转主页'
 [Greenhub-Down]: https://github.com/ghotst0xdeadbeef/Greenhub-desktop/releases/ '跳转下载页'
 [MobaXterm]: https://mobaxterm.mobatek.net/ '跳转主页'

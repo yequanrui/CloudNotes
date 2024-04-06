@@ -5,7 +5,7 @@
 | [Billfish]               | [3.0.30.10][Billfish-Down](Win/Mac)    | 素材管理工具         |
 | [CintaNotes]             | [3.13.0.1][CintaNotes-Down](Win)       | 个人笔记资料管理工具 |
 | [eVideo]                 | [3.2.0.13][eVideo-Down](Win)           | 影视文件管理工具     |
-| [KeePassXC]              | [2.7.6][KeePassXC-Down](Win/Mac/Linux) | 密码管理工具         |
+| [KeePassXC]              | [2.7.7][KeePassXC-Down](Win/Mac/Linux) | 密码管理工具         |
 | [LESLIE NOTE][LN]        | [5.28.0.0][LN-Down](Win)               | 本地笔记管理工具     |
 | [Money Manager Ex][MMEX] | [1.6.4][MMEX-Down](Win/Mac/Linux)      | 个人财务管理工具     |
 | [Obsidian]               | [1.3.7][Obsidian-Down](Win/Mac/Linux)  | 个人资料管理工具     |
