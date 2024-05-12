@@ -15,10 +15,6 @@
 
     通过GitHub镜像访问：
 
-    > <https://hub.fastgit.xyz/>
+    > <https://d.serctl.com/>（Github资源快速下载）
     >
-    > <https://gitclone.com/>（此镜像是直接搜索相关仓库，然后克隆）
-    >
-    > <https://ghproxy.com/>（GitHub文件、Releases、archive、gist、raw.githubusercontent.com文件代理加速下载服务）
-    >
-    > <https://toolwa.com/github/>（GitHub加速下载）
+    > <https://github.ur1.fun/>（GitHub加速下载）
