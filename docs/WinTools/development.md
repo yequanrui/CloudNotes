@@ -4,7 +4,7 @@
 | :---------- | :-------------------------------------- | :-------------------------------- |
 | [DBeaver]   | [24.0.4][DBeaver-Down](Win/Mac/Linux)   | 免费的通用数据库工具和SQL客户端   |
 | [HBuilderX] | 4.15(Win/Mac)                           | DCloud（数字天堂）的前端开发者IDE |
-| [He3]       | [2.0.0][He3-Down](Win/Mac/Linux)        | 超级开发工具箱                    |
+| [He3]       | [2.0.20.0][He3-Down](Win/Mac/Linux)     | 超级开发工具箱                    |
 | [Notepad--] | [2.15.0][Notepad---Down](Win/Mac/Linux) | 轻量级文本编辑器                  |
 | [Notepad3]  | [6.23.203.2][Notepad3-Down](Win)        | 轻量级文本编辑器                  |
 | [NxShell]   | [1.9.3][NxShell-Down](Win/Mac/Linux)    | Linux下一代远程工具免费SSH客户端  |
