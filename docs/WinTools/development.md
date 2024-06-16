@@ -6,10 +6,11 @@
 | [HBuilderX] | 4.15(Win/Mac)                           | DCloud（数字天堂）的前端开发者IDE |
 | [He3]       | [2.0.20.0][He3-Down](Win/Mac/Linux)     | 超级开发工具箱                    |
 | [Notepad--] | [2.15.0][Notepad---Down](Win/Mac/Linux) | 轻量级文本编辑器                  |
+| [Notepad2]  | [4.24.05r5242][Notepad2-Down](Win)      | 轻量级文本编辑器                  |
 | [Notepad3]  | [6.23.203.2][Notepad3-Down](Win)        | 轻量级文本编辑器                  |
 | [NxShell]   | [1.9.3][NxShell-Down](Win/Mac/Linux)    | Linux下一代远程工具免费SSH客户端  |
 | [Tabby]     | [1.0.207][Tabby-Down](Win/Mac/Linux)    | 基于TypeScript开发的终端模拟器    |
-| [VSCode]    | [1.89.1][VSCode-Down](Win/Mac/Linux)    | 微软的轻量级编辑器                |
+| [VSCode]    | [1.90.0][VSCode-Down](Win/Mac/Linux)    | 微软的轻量级编辑器                |
 
 [DBeaver]: https://dbeaver.io/ '跳转主页'
 [DBeaver-Down]: https://github.com/dbeaver/dbeaver/releases '跳转下载页'
@@ -18,6 +19,8 @@
 [He3-Down]: https://he3.app/ '跳转下载页'
 [Notepad--]: http://www.itdp.cn/notepad.html '跳转主页'
 [Notepad---Down]: https://gitee.com/cxasm/notepad--/releases '跳转下载页'
+[Notepad2]: https://github.com/zufuliu/notepad2 '跳转主页'
+[Notepad2-Down]: https://github.com/zufuliu/notepad2/releases '跳转下载页'
 [Notepad3]: https://www.rizonesoft.com/ '跳转主页'
 [Notepad3-Down]: https://www.rizonesoft.com/downloads/notepad3/ '跳转下载页'
 [NxShell]: https://nxshell.github.io/ '跳转主页'
