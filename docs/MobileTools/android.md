@@ -9,6 +9,7 @@
 | 📱[AI工具箱]              | 1.1.0            | 人工智能引擎处理图像、音频、识别、文字处理等等       |
 | 📱[AI网盘搜索]            | 1.2.3            | 通过AI对话的形式搜索资源                             |
 | 📱[AI写作鱼]              | 1.0.18           | AI创作一键生成                                       |
+| 📱AI智绘                  | 1.5.0.0          |                                                      |
 | 📱Anything                | 1.3.22           | 手机版Everything                                     |
 | 📱Authenticator           | 6.0              | 谷歌身份验证器                                       |
 | 📱[Autox.js]              | 6.6.0            | 不需要Root权限的JavaScript自动化软件                 |
@@ -25,6 +26,7 @@
 | 📱[Image Toolbox]         | 2.8.1            | 图片工具盒子                                         |
 | 📱IPTools                 | 8.68             | 实用网络工具                                         |
 | 📱[Keepass2Android]       | 1.09e-r7         | 密码管理工具                                         |
+| 📱[KHMD]                  | 2.2.01           |                                                      |
 | 📱Koloro                  | 6.2.4            | 强大而免费的修图工具                                 |
 | 📱Lit图片压缩             | 1.3.5.037        | 图片压缩软件                                         |
 | 📱Material Files          | 1.4.2            |                                                      |
@@ -52,9 +54,14 @@
 | 📱[布丁扫描]              | 3.4.2.2          | 免费专业的扫描APP                                    |
 | 📱电子电工小工具          | 1.8.3            |                                                      |
 | 📱短视频解析              | 3.2              | 聚合短视频解析去水印工具                             |
+| 📱[风云扫描王]            | 4.4.0304         |                                                      |
 | 📱福昕扫描王              | 2.6.35191        |                                                      |
+| 📱改图鸭                  | 1.1.6.0          |                                                      |
+| 📱高考真题库              | 2.0.0            |                                                      |
 | 📱工具魔盒                | 2.4.1            | 集成了图片、设备、查询、转换等100多种工具            |
 | 📱国家数字图书馆          | 6.0.5            | 检索国家图书馆纸质图书的馆藏信息                     |
+| 📱[海豚去水印]            | 1.0.0            | 短视频必备神器                                       |
+| 📱[猴哥音乐]              | 2.0.1            |                                                      |
 | 📱[极简工具箱]            | 1.2.1            | 极简主义，实用主义，简易工具箱                       |
 | 📱[集影视频工具箱]        | 4.0.7            |                                                      |
 | 📱截图帝                  | 1.7.6            | 微商制图工具                                         |
@@ -62,14 +69,17 @@
 | 📱[京墨]                  | 1.9.0            | 开源的中华传统文化的阅读APP                          |
 | 📱[剧追追]                | 1.3.7            | 原`V影视`、`橙心视频`APP                             |
 | 📱[卡的工具箱]            | 5.0              | 音乐解析音质、短视频无水印下载、100+免费在线功能     |
+| 📱[开拍]                  | 2.0.40           |                                                      |
 | 📱[可可影视]              | 3.0.2            |                                                      |
 | 📱[可乐下载器]            | 1.0.3            | 纯净简洁无广，支持多种链接和多任务下载               |
 | 📱[酷狗概念版]            | 2.5.5            | 最后一个可以领取会员的酷狗版本                       |
-| 📱[快找资源]              | 1.1.8            |                                                      |
+| 📱[快找资源]              | 1.2.1            |                                                      |
+| 📱蓝白搜索                | 1.0.6            |                                                      |
 | 📱恋爱AI大师              | 1.3.1            |                                                      |
 | 📱[炼丹家AI]              | 1.0.5            | 一站式AI生成站点                                     |
 | 📱练字大师                | 4.2.0            |                                                      |
 | 📺灵犀直播                | 1.0.129          |                                                      |
+| 📱[柠乐]                  | 1.3.7            | 主打简和全网资源歌曲播放和下载的听歌播放器           |
 | 📱流舟文件                | 1.5.7            |                                                      |
 | 📱[洛雪音乐助手]          | 1.4.2            | 基于`React native`开发的音乐软件                     |
 | 📱[美颜相机]              | 11.8.20          | 拍照神器及图片美化App                                |
@@ -96,6 +106,7 @@
 | 📱[实用工具箱]            | 11.5             | 多功能实用工具箱                                     |
 | 📱刷圈兔                  | 8.0.1            | 微商作图工具                                         |
 | 📱[水墨工具箱]            | 1.1.7            | 中国传统水墨风格工具箱                               |
+| 📱水印一键去除专家        | 2.1.3            |                                                      |
 | 📱谁喝酒                  | 1.3.0            | 聚会娱乐工具                                         |
 | 📱手机照片恢复管家        | 5.9.0            | 专业的照片恢复软件                                   |
 | 📱手机万能文案工具        | 23.01.15         |                                                      |
@@ -106,11 +117,13 @@
 | 📱听见                    | 5.4.0            | 免费听歌软件                                         |
 | 📱[听下-Plus]             | 2.0.3            | 免费听歌软件                                         |
 | 📱[图叨叨]                | 6.7.1            | 简单易用、免费且无广告的图片处理神器                 |
+| 📱图了个图                | 1.0.0            | 10项Ai图像处理功能                                   |
 | 📱图形计算器 Mathlab      | 2022.11.162      | 强大的科学计算器软件                                 |
 | 📱万能下载Pro             | 1.0.0            |                                                      |
-| 📱[万象聚搜]              | 1.0.0            | 专注资源搜索的安卓应用                               |
+| 📱[万象聚搜]              | 1.5.0            | 专注资源搜索的安卓应用                               |
 | 📱[网飞猫]                | 3.1.0            |                                                      |
 | 📱[网络百宝箱]            | 2.1.1            | 包括整个网络环境的检测工具                           |
+| 📱网盘搜索                | 1.0.3            |                                                      |
 | 📱文字扫描器              | 9.3.0            |                                                      |
 | 📱[下载工具箱]            | 3.4              | 聚合了46个下载工具                                   |
 | 📱[小萌GIF]               | 2024.3           | 视频转Gif工具                                        |
@@ -125,7 +138,7 @@
 | 📱[一起看]                | 1.2.6            | 实用的追剧神器                                       |
 | 📱移动工具箱              | 1.0.11           |                                                      |
 | 📱[异次元]                | 2.4.2            | 自定义图源的漫画神器                                 |
-| 📱[易云搜]                | 0.0.4            | 搜索引擎APP                                          |
+| 📱[易云搜]                | 0.0.4            | 功能强大的资源搜索工具                               |
 | 📱[音悦]                  | 1.2.0            | `听见`APP更新                                        |
 | 📱[音乐时刻]              | 1.1.6            | 音乐搜索播放下载工具                                 |
 | 📱隐秘参数                | 2.7.1            | 查询手机参数、功能检测和性能跑分                     |
@@ -157,6 +170,7 @@
 [File Commander]: https://www.ghxi.com/filecommander.html '跳转主页'
 [Image Toolbox]: https://github.com/T8RIN/ImageToolbox '跳转主页'
 [Keepass2Android]: https://github.com/PhilippC/keepass2android '跳转主页'
+[KHMD]: https://du.khkj.xyz/aUsnHuEsD '跳转下载页'
 [MusicFree]: http://musicfree.upup.fun/ '跳转主页'
 [OPlayer]: https://www.yxssp.com/download.php?author=pojie&btitle=%E5%BC%82%E6%98%9F%E8%BD%AF%E4%BB%B6%E7%A9%BA%E9%97%B4&id=24413 '跳转下载页'
 [Question.AI]: https://liangziliu.lanzoux.com/i4YPU21705hi '跳转下载页'
@@ -166,17 +180,22 @@
 [岸听音乐]: https://www.123pan.com/s/t3AzVv-J7z3d.html '跳转下载页'
 [傲软抠图]: https://liangziliu.lanzoux.com/iFM0C1zush2j '跳转下载页'
 [布丁扫描]: https://www.budingscan.com/ '跳转主页'
+[风云扫描王]: https://liangziliu.lanzoux.com/iVrUT20r6bob '跳转下载页'
+[海豚去水印]: https://www.lanzouq.com/idORE21yx9ch '跳转下载页'
+[猴哥音乐]: https://www.lanzov.com/b004hhs3bc '跳转下载页'
 [极简工具箱]: https://www.pgyer.com/assistantbox '跳转下载页'
 [集影视频工具箱]: https://www.coolapk.com/apk/com.mycp.videocompress '跳转下载页'
 [解析机器人]: https://www.lanzoup.com/b02dpt5oj '跳转下载页'
 [京墨]: https://github.com/hefengbao/jingmo '跳转主页'
 [剧追追]: https://juzz.top/ '跳转下载页'
 [卡的工具箱]: http://music.ijanz.cn/ '跳转主页'
+[开拍]: https://drive.uc.cn/s/1e1adadcd1b34 '跳转下载页'
 [可可影视]: https://wwp.lanzoup.com/iIFXT1nlj2ob '跳转下载页'
 [可乐下载器]: https://xingxingbt.lanzoum.com/s/btkele '跳转下载页'
 [酷狗概念版]: https://wwl.lanzouj.com/iE40R1zjilej '跳转下载页'
 [快找资源]: https://www.lanzouo.com/b05pa9a2h '跳转下载页'
 [炼丹家AI]: https://www.liandanjia.com/app/home '跳转主页'
+[柠乐]: https://dmla.lanzouo.com/b05ph7noh '跳转下载页'
 [洛雪音乐助手]: https://lxmusic.toside.cn/ '跳转主页'
 [美颜相机]: https://www.123pan.com/s/aLiA-DWlgH.html '跳转下载页'
 [萌盒]: https://m.cloudcpte.com/ '跳转主页'
