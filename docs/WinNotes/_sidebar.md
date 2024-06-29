@@ -1,6 +1,7 @@
 - [🔙返回](/_index)
 - [📇目录](WinNotes/_index)
   - [📑Bat](WinNotes/bat.md "Window命令行常量")
+  - [📑Cmd](WinNotes/cmd.md "Window常用Cmd命令")
   - [📑Constant](WinNotes/constant.md "Windows常量参数")
   - [📑System](WinNotes/laptop.md "更改系统用户文件夹名")
   - [📑Laptop](WinNotes/laptop.md "Notes for Laptop")

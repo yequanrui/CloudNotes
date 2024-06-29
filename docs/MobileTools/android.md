@@ -67,10 +67,10 @@
 | 📱截图帝                  | 1.7.6            | 微商制图工具                                         |
 | 📱[解析机器人]            | 1.0.6            | 支持P2P下载、磁力下载、资源嗅探和50多种平台去水印    |
 | 📱[京墨]                  | 1.9.0            | 开源的中华传统文化的阅读APP                          |
-| 📱[剧追追]                | 1.3.7            | 原`V影视`、`橙心视频`APP                             |
+| 📱[剧追追]                | 1.3.8            | 原`V影视`、`橙心视频`APP                             |
 | 📱[卡的工具箱]            | 5.0              | 音乐解析音质、短视频无水印下载、100+免费在线功能     |
 | 📱[开拍]                  | 2.0.40           |                                                      |
-| 📱[可可影视]              | 3.0.2            |                                                      |
+| 📱📺[可可影视]             | 3.1.6            |                                                      |
 | 📱[可乐下载器]            | 1.0.3            | 纯净简洁无广，支持多种链接和多任务下载               |
 | 📱[酷狗概念版]            | 2.5.5            | 最后一个可以领取会员的酷狗版本                       |
 | 📱[快找资源]              | 1.2.1            |                                                      |
@@ -112,6 +112,7 @@
 | 📱手机万能文案工具        | 23.01.15         |                                                      |
 | 📱司命宝宝取名起名        | 1.1              |                                                      |
 | 📱[搜图大师]              | 1.0.0            |                                                      |
+| 📱[速悦音乐]              | 3.0.6            |                                                      |
 | 📱[太极工具箱]            | 1.3.8            | 太极生两仪，两仪生四象，四象生八卦                   |
 | 📱[天文通]                | 1.0.22           | 观星指数预报、摄影、天象查询必备App                  |
 | 📱听见                    | 5.4.0            | 免费听歌软件                                         |
@@ -121,7 +122,7 @@
 | 📱图形计算器 Mathlab      | 2022.11.162      | 强大的科学计算器软件                                 |
 | 📱万能下载Pro             | 1.0.0            |                                                      |
 | 📱[万象聚搜]              | 1.5.0            | 专注资源搜索的安卓应用                               |
-| 📱[网飞猫]                | 3.1.0            |                                                      |
+| 📱📺[网飞猫]               | 3.1.6            |                                                      |
 | 📱[网络百宝箱]            | 2.1.1            | 包括整个网络环境的检测工具                           |
 | 📱网盘搜索                | 1.0.3            |                                                      |
 | 📱文字扫描器              | 9.3.0            |                                                      |
@@ -147,10 +148,11 @@
 | 📱[宇宙工具箱]            | 2.6.8            | 迄今为止最强的安卓工具箱软件                         |
 | 📱[远航工具箱]            | 7.1.3            |                                                      |
 | 📱[阅读]                  | 3.23.110211      | 自定义来源阅读网络内容工具                           |
-| 📱[乐影漫]                | 1.2.3            | 集合音乐、影视和漫画的APP                            |
+| 📱[乐影漫]                | 1.4              | 集合音乐、影视和漫画的APP                            |
 | 📱📺[月光宝盒BOX]          | 2024.3.9         |                                                      |
 | 📱照片时光机              | 2.0.0            | 一键修复高清照片，模糊补帧，照片特效                 |
 | 📱证件照极拍              | 1.0.0            |                                                      |
+| 📱[智慧岛]                | 0.0.6            |                                                      |
 | 📱[智能工具]              | 20.8             |                                                      |
 | 📱中国法律法规            | 9.6.0            |                                                      |
 | 📱周公解梦                | 9.3.2            | 梦境意向解析工具                                     |
@@ -190,7 +192,7 @@
 [剧追追]: https://juzz.top/ '跳转下载页'
 [卡的工具箱]: http://music.ijanz.cn/ '跳转主页'
 [开拍]: https://drive.uc.cn/s/1e1adadcd1b34 '跳转下载页'
-[可可影视]: https://wwp.lanzoup.com/iIFXT1nlj2ob '跳转下载页'
+[可可影视]: https://dl.kkys3.com:51111/ '跳转下载页'
 [可乐下载器]: https://xingxingbt.lanzoum.com/s/btkele '跳转下载页'
 [酷狗概念版]: https://wwl.lanzouj.com/iE40R1zjilej '跳转下载页'
 [快找资源]: https://www.lanzouo.com/b05pa9a2h '跳转下载页'
@@ -208,13 +210,14 @@
 [生活助手]: https://www.lanzoue.com/iGROO0ywgw1g '跳转下载页'
 [实用工具箱]: https://www.sygjx.com/ '跳转主页'
 [水墨工具箱]: https://www.pgyer.com/inkbox '跳转下载页'
+[速悦音乐]: https://magicalstory.lanzout.com/i3S5A22vwb3c '跳转下载页'
 [太极工具箱]: https://www.pgyer.com/sensors '跳转下载页'
 [搜图大师]: https://healer.lanzv.com/ixhtW1ohspxe '跳转下载页'
 [天文通]: https://laysky.com/ '跳转主页'
 [听下-Plus]: https://liangziliu.lanzoux.com/i2g9A1zjer3a '跳转下载页'
 [图叨叨]: https://www.lanzoui.com/s/daodaopic '跳转下载页'
 [万象聚搜]: https://fy6b.lanzouq.com/iZmZP1syk5ji '跳转下载页'
-[网飞猫]: https://www.123pan.com/s/izDSVv-u9mWA.html '跳转下载页'
+[网飞猫]: https://dl.ncat1.app/ '跳转下载页'
 [网络百宝箱]: https://www.123pan.com/s/c8zA-CO6N3.html '跳转下载页'
 [下载工具箱]: https://www.lanzout.com/b05ocg2te '跳转下载页'
 [小萌GIF]: https://github.com/tasy5kg/CuteGIF '跳转主页'
@@ -230,6 +233,7 @@
 [宇宙工具箱]: https://www.lanzoui.com/b02cnadsj '跳转下载页'
 [远航工具箱]: https://wwl.lanzouj.com/iN27A1wzspbi '跳转下载页'
 [阅读]: https://yd.mgz6.cc/ '跳转主页'
-[乐影漫]: https://www.lanzoub.com/i8tr4204hqhc '跳转下载页'
+[乐影漫]: https://www.lanzoub.com/imwp121w60eb '跳转下载页'
 [月光宝盒BOX]: https://liangziliu.lanzoux.com/iQdrn1rfmbah '跳转下载页'
+[智慧岛]: https://zenhelp.microfield.cn/ '跳转主页'
 [智能工具]: https://healer.lanzoub.com/iqGJG1pb7r2j '跳转下载页'
