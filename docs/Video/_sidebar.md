@@ -1,3 +1,0 @@
-- [🔙返回](/_index)
-- [📇目录](Video/_index)
-  - [📑Video Production](Video/video.md "Notes for Video Production")

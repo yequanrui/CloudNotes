@@ -9,6 +9,7 @@
 - [📑Npm](DevNotes/npm.md "Notes for Npm")
 - [📑Postman](DevNotes/postman.md "Notes for Postman")
 - [📑PyCharm](DevNotes/pycharm.md "Notes for PyCharm")
+- [📑Python](DevNotes/python.md "Notes for Python")
 - [📑VMware](DevNotes/vmware.md "Notes for VMware")
 - [📑VSCode](DevNotes/vscode.md "Notes for VSCode")
 - [📑Vue](DevNotes/vue.md "Notes for Vue.js")

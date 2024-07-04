@@ -6,13 +6,14 @@
 | 📱[AccuBattery]           | 2.1.4            | 电池检测                                             |
 | 📱[ADM]                   | 14.0.33          | 多线程下载加速工具                                   |
 | 📱Adobe Photoshop Express | 13.5.407         | 移动设备上的图片处理软件                             |
+| 📱AI PPT                  | 1.0.3            | AI一键生成PPT                                        |
 | 📱[AI工具箱]              | 1.1.0            | 人工智能引擎处理图像、音频、识别、文字处理等等       |
 | 📱[AI网盘搜索]            | 1.2.3            | 通过AI对话的形式搜索资源                             |
 | 📱[AI写作鱼]              | 1.0.18           | AI创作一键生成                                       |
 | 📱AI智绘                  | 1.5.0.0          |                                                      |
 | 📱Anything                | 1.3.22           | 手机版Everything                                     |
 | 📱Authenticator           | 6.0              | 谷歌身份验证器                                       |
-| 📱[Autox.js]              | 6.6.0            | 不需要Root权限的JavaScript自动化软件                 |
+| 📱[Autox.js]              | 6.6.3            | 不需要Root权限的JavaScript自动化软件                 |
 | 📱AVG Cleaner             | 6.5.0            | AVG清理大师                                          |
 | 📱CAD迷你看图             | 8.2.1            |                                                      |
 | 📱CX文件管理器            | 1.5.2            | 管理手机本地、局域网电脑、远程服务器以及云存储网盘等 |
@@ -20,6 +21,7 @@
 | 📱[ESuper文件]            | 1.4.5            | 一体化文件浏览器和管理器                             |
 | 📱ES文件浏览器            | 4.4.1.1          | 安卓第一文件管理器                                   |
 | 📱[File Commander]        | 9.3.50083        | 管理手机本地和远程文件，链接所有云账户等             |
+| 📱[Flix]                  | 0.5.3            | 免费、简洁、无广告的跨平台局域网文件传输工具         |
 | 📱Fly音乐-Plus            | 1.2.1            |                                                      |
 | 📱Hi Dictionary           | 2.2.8.7          |                                                      |
 | 📱Hi Translate            | 3.0.3.0          |                                                      |
@@ -29,6 +31,7 @@
 | 📱[KHMD]                  | 2.2.01           |                                                      |
 | 📱Koloro                  | 6.2.4            | 强大而免费的修图工具                                 |
 | 📱Lit图片压缩             | 1.3.5.037        | 图片压缩软件                                         |
+| 📱[Logo设计专家]          | 1.1.4            | 专门为创意人士和广大用户打造的设计软件               |
 | 📱Material Files          | 1.4.2            |                                                      |
 | 📱MiXplorer               | 6.49.5           |                                                      |
 | 📱MOVIES                  | 1.1.5            |                                                      |
@@ -45,6 +48,7 @@
 | 📱SD Maid                 | 5.5.4            | 垃圾扫描清理软件                                     |
 | 📱[SKIP]                  | 2.1.1            | 自动跳过APP开屏广告                                  |
 | 📱[Stellarium Mobile]     | 1.29             | 夜空天文学模拟系统工具                               |
+| 📱Vmake                   | 1.1.630          |                                                      |
 | 📱WPS Office              | 17.3.2           |                                                      |
 | 📱[爱其意]                | 1.1.5            | 初闻不识剧中意，再赏已是剧中人                       |
 | 📱艾跳跳                  | 1.0.0            | 证件照制作软件                                       |
@@ -74,6 +78,7 @@
 | 📱[可乐下载器]            | 1.0.3            | 纯净简洁无广，支持多种链接和多任务下载               |
 | 📱[酷狗概念版]            | 2.5.5            | 最后一个可以领取会员的酷狗版本                       |
 | 📱[快找资源]              | 1.2.1            |                                                      |
+| 📱快影                    | 6.48.0.648003    | 一键剪辑，快速制作精美视频图片                       |
 | 📱蓝白搜索                | 1.0.6            |                                                      |
 | 📱恋爱AI大师              | 1.3.1            |                                                      |
 | 📱[炼丹家AI]              | 1.0.5            | 一站式AI生成站点                                     |
@@ -123,7 +128,7 @@
 | 📱万能下载Pro             | 1.0.0            |                                                      |
 | 📱[万象聚搜]              | 1.5.0            | 专注资源搜索的安卓应用                               |
 | 📱📺[网飞猫]               | 3.1.6            |                                                      |
-| 📱[网络百宝箱]            | 2.1.1            | 包括整个网络环境的检测工具                           |
+| 📱[网络百宝箱]            | 2.1.1            | 网络测试常用工具                                     |
 | 📱网盘搜索                | 1.0.3            |                                                      |
 | 📱文字扫描器              | 9.3.0            |                                                      |
 | 📱[下载工具箱]            | 3.4              | 聚合了46个下载工具                                   |
@@ -170,9 +175,11 @@
 [Autox.js]: http://doc.autoxjs.com/ '跳转主页'
 [ESuper文件]: https://www.yxssp.com/download.php?author=%E4%B8%9C%E4%B8%9C&btitle=%E5%BC%82%E6%98%9F%E8%BD%AF%E4%BB%B6%E7%A9%BA%E9%97%B4&id=47407 '跳转下载页'
 [File Commander]: https://www.ghxi.com/filecommander.html '跳转主页'
+[Flix]: https://flix.center/ '跳转主页'
 [Image Toolbox]: https://github.com/T8RIN/ImageToolbox '跳转主页'
 [Keepass2Android]: https://github.com/PhilippC/keepass2android '跳转主页'
 [KHMD]: https://du.khkj.xyz/aUsnHuEsD '跳转下载页'
+[Logo设计专家]: https://liangziliu.lanzoux.com/ip5kd231m9mf '跳转下载页'
 [MusicFree]: http://musicfree.upup.fun/ '跳转主页'
 [OPlayer]: https://www.yxssp.com/download.php?author=pojie&btitle=%E5%BC%82%E6%98%9F%E8%BD%AF%E4%BB%B6%E7%A9%BA%E9%97%B4&id=24413 '跳转下载页'
 [Question.AI]: https://liangziliu.lanzoux.com/i4YPU21705hi '跳转下载页'

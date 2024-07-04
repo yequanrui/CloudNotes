@@ -8,6 +8,4 @@
 - [📱MobileTools](MobileTools/_index.md "Toolset for Mobile")
 - [🔭Astronomy](Astronomy/_index.md "Notes for Astronomy")
 - [📷Photo](Photo/_index.md "Notes for Photography")
-- [📹Video Production](Video/_index.md "Notes for Video Production")
-- [🎶Music](Music/_index.md "Collection of Music")
 - [👫🏻Life](Life/_index.md "Notes of Life")
