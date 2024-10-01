@@ -5,9 +5,9 @@
 | [eSearch]               | [1.7.2][ES-Down](Win/Mac/Linux)      | 截屏OCR搜索翻译以图搜图贴图录屏        |
 | [ImageGlass]            | [9.0.11.502][IG-Down]                | 免费轻量级开源图像浏览器               |
 | [PicPick]               | [7.2.8][PP1-Down](Win)               | 全功能的屏幕截图工具，直观的图像编辑器 |
-| [PixPin]                | [1.8.24.0][PP2-Down](Win)            | 功能强大使用简单的截图/贴图工具        |
-| [ScreenToGif]           | [2.41.0][STG-Down](Win)              | 屏幕、摄像头和画板录像，并有内置编辑器 |
-| [Snipaste]              | [2.9.2][SP-Down](Win/Mac)            | 简单强大的截图贴图工具                 |
+| [PixPin]                | [1.8.27.0][PP2-Down](Win)            | 功能强大使用简单的截图/贴图工具        |
+| [ScreenToGif]           | [2.41.1][STG-Down](Win)              | 屏幕、摄像头和画板录像，并有内置编辑器 |
+| [Snipaste]              | [2.10.2][SP-Down](Win/Mac)           | 简单强大的截图贴图工具                 |
 | [Umi-OCR][UO]           | [1.2.4][UO-Down](Win)                | OCR离线批量图片文字识别工具            |
 | [洋芋田图像工具箱][YYT] | 3.5.0([Win][YYT-Win]/[Mac][YYT-Mac]) | 创意行业从业者的图像工具箱             |
 | [图压][TY]              | 0.4.1([Win][TY-Win]/[Mac][TY-Mac])   | 简单易用的图片压缩软件                 |

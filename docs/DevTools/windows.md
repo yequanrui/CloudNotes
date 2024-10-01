@@ -2,15 +2,15 @@
 
 | Name                           | Version                            | Description                      |
 | :----------------------------- | :--------------------------------- | :------------------------------- |
-| [Files][Files]                 | [3.4.1.0][Files-Microsoft]         | 资源管理器                       |
-| [Shrestha Files Pro X][SFiles] | [3.14.516.0][SFiles-Microsoft]     | 带有选项卡的彩色双窗格文件管理器 |
-| [DevToys][DevToys]             | [1.0.13.0][DevToys-Microsoft]      | 开发人员的瑞士军刀               |
-| [PowerToys][PowerToys]         | [0.81.0][PowerToys-Microsoft]      | 微软辅助工具集                   |
-| [Windows Terminal][Terminal]   | [1.20.11381.0][Terminal-Microsoft] | 微软命令行工具                   |
+| [Files][Files]                 | [3.7.7.0][Files-Microsoft]         | 资源管理器                       |
+| [Shrestha Files Pro X][SFiles] | [3.23.553.0][SFiles-Microsoft]     | 带有选项卡的彩色双窗格文件管理器 |
+| [DevToys][DevToys]             | [1.0.14.0][DevToys-Microsoft]      | 开发人员的瑞士军刀               |
+| [PowerToys][PowerToys]         | [0.84.1][PowerToys-Microsoft]      | 微软辅助工具集                   |
+| [Windows Terminal][Terminal]   | [1.20.11781.0][Terminal-Microsoft] | 微软命令行工具                   |
 | [Notepads]                     | [1.5.5.0][Notepads-Microsoft]      | 极具现代感，轻便简洁的文本编辑器 |
 | [QuickLook][QuickLook]         | [3.7.3.0][QuickLook-Microsoft]     | 快速预览工具                     |
-| [ScreenToGif][ScreenToGif]     | [2.40.1.0][ScreenToGif-Microsoft]  | 动图制作工具                     |
-| [Snipaste][Snipaste]           | [2.8.801.0][Snipaste-Microsoft]    | 截图贴图工具                     |
+| [ScreenToGif][ScreenToGif]     | [2.41.1.0][ScreenToGif-Microsoft]  | 动图制作工具                     |
+| [Snipaste][Snipaste]           | [2.10.200.0][Snipaste-Microsoft]   | 截图贴图工具                     |
 
 [Files]: https://github.com/files-community/Files '跳转主页'
 [Files-Microsoft]: https://www.microsoft.com/store/productId/9NGHP3DX8HDX '跳转Microsoft Store'

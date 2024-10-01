@@ -22,6 +22,7 @@
 | 📱📺Earth元地球              | 3.9.7/2.0.5      |                                                                |
 | 📱[ESuper文件]              | 1.4.7.2          | 一体化文件浏览器和管理器                                       |
 | 📱ES文件浏览器              | 4.4.1.1          | 安卓第一文件管理器                                             |
+| 📱[Fake Location]           | 1.3.1.9          | 最强的虚拟定位软件                                             |
 | 📱[File Commander]          | 9.6.50960        | 管理手机本地和远程文件，链接所有云账户等                       |
 | 📱[Flix]                    | 0.6.5            | 免费、简洁、无广告的跨平台局域网文件传输工具                   |
 | 📱Fly音乐-Plus              | 1.2.1            |                                                                |
@@ -39,7 +40,7 @@
 | 📱MotionNinja视频AE特效制作 | 5.3.7            | 制作专业的视频特效                                             |
 | 📱MOVIES                    | 1.1.5            |                                                                |
 | 📱[MT管理器]                | 2.16.5           |                                                                |
-| 📱[MusicFree]               | 0.3.0            | 一个插件化、定制化、无广告的开源音乐播放器                     |
+| 📱[MusicFree]               | 0.4.1            | 插件化、定制化、无广告的免费音乐播放器                         |
 | 📱My PDF                    | 1.2.0            | PDF处理工具                                                    |
 | 📱NeonArt                   | 6.5.2.3          | 照片编辑软件                                                   |
 | 📱Office                    | 16.0.14701.20166 |                                                                |
@@ -54,16 +55,19 @@
 | 📱[Stellarium Mobile]       | 1.29             | 夜空天文学模拟系统工具                                         |
 | 📱Vmake                     | 1.1.630          |                                                                |
 | 📱WPS Office                | 17.3.2           |                                                                |
-| 📱[爱其意]                  | 1.1.5            | 初闻不识剧中意，再赏已是剧中人                                 |
+| 📱[爱其意]                  | 1.2.0            | 初闻不识剧中意，再赏已是剧中人                                 |
 | 📱艾跳跳                    | 2.0.1            | 证件照制作软件                                                 |
 | 📱[岸听音乐]                | 2.2-beta         | 原`卡的工具箱`APP                                              |
 | 📱[傲软抠图]                | 1.8.1            |                                                                |
 | 📱表情包生成器              | 1.8.6            |                                                                |
 | 📱[布丁扫描]                | 3.4.2.2          | 免费专业的扫描APP                                              |
-| 📱[布蕾4K]                  | 2.0.1            | 无广告，无需登录免费使用，影视资源丰富                         |
+| 📱[布蕾4K]                  | 3.0.1            | 无广告，无需登录免费使用，影视资源丰富                         |
 | 📱畅片                      | 4.91.0           | 大疆专为无人机摄影和短视频创作者量身打造的视频剪辑工具         |
+| 📱📺[大海TV]                 | 8.5              |                                                                |
 | 📱电子电工小工具            | 1.8.3            |                                                                |
 | 📱短视频解析                | 3.2              | 聚合短视频解析去水印工具                                       |
+| 📱二维码制作生成            | 1.2              | 小巧且功能强大的二维码制作软件                                 |
+| 📱[飞语影视]                | 3.2.5            |                                                                |
 | 📱[风云扫描王]              | 4.4.0304         |                                                                |
 | 📱福昕扫描王                | 2.6.35191        |                                                                |
 | 📱改图鸭                    | 1.1.6.0          |                                                                |
@@ -75,13 +79,15 @@
 | 📱[极简工具箱]              | 1.2.2            | 极简主义，实用主义，简易工具箱                                 |
 | 📱[集影视频工具箱]          | 4.3.2            |                                                                |
 | 📱简历生成器                | 1.01.46.0710     | 专业的简历制作工具                                             |
+| 📱[简助手]                  | 2.6.0            | 多功能工具箱                                                   |
+| 📱📺[江湖TV]                 | 6.8              |                                                                |
 | 📱截图帝                    | 1.7.6            | 微商制图工具                                                   |
 | 📱[解析机器人]              | 1.1.0            | 支持P2P下载、磁力下载、资源嗅探和50多种平台去水印              |
 | 📱[京墨]                    | 1.13.0           | 开源的中华传统文化的阅读APP                                    |
-| 📱[囧次元]                  | 1.5.7.1          | 看动漫必备神器                                                 |
 | 📱[剧追追]                  | 1.3.8            | 原`V影视`、`橙心视频`APP                                       |
 | 📱[开拍]                    | 2.0.40           |                                                                |
-| 📱📺[可可影视]               | 3.1.8            |                                                                |
+| 📱📺[开心TV]                 | 2.4              |                                                                |
+| 📱📺[可可影视]               | 3.2.0            |                                                                |
 | 📱[可乐下载器]              | 2.0.2            | 纯净简洁无广，支持多种链接和多任务下载                         |
 | 📱[酷狗概念版]              | 2.5.5            | 最后一个可以领取会员的酷狗版本                                 |
 | 📱[快找资源]                | 1.2.5            | 资源搜索神器                                                   |
@@ -92,8 +98,9 @@
 | 📱[炼丹家AI]                | 1.0.5            | 一站式AI生成站点                                               |
 | 📱练字大师                  | 4.2.0            |                                                                |
 | 📺灵犀直播                  | 1.0.129          |                                                                |
-| 📱[柠乐]                    | 1.3.8            | 主打简和全网资源歌曲播放和下载的听歌播放器                     |
+| 📱[灵越]                    | 1.0              | 原`乐影漫`APP，集合音乐、影视和漫画                            |
 | 📱流舟文件                  | 1.5.7            |                                                                |
+| 📱录音转文字神器            | 1.1.0            |                                                                |
 | 📱[乱七八糟]                | 1.0.5            | 手机工具箱                                                     |
 | 📱[洛雪音乐助手]            | 1.4.2            | 基于`React native`开发的音乐软件                               |
 | 📱[媒工坊]                  | 1.5.0            | 自媒体达人的AI工具集                                           |
@@ -104,7 +111,10 @@
 | 📺明日影视                  | 2.0.9            | 智能搜索全网影视资源                                           |
 | 📱模拟定位神器              | 3.0.27           | 随心所欲的改变手机地理位置                                     |
 | 📱[魔音MORIN]               | 3.6.7            | 免费简洁的音乐播放器                                           |
+| 📱拿捏驾考                  | 1.1.6            | 驾照考试学习软件                                               |
 | 📱[拟声]                    | 0.14.0           | 多功能音乐播放器                                               |
+| 📱[柠乐]                    | 1.3.8            | 主打简和全网资源歌曲播放和下载的听歌播放器                     |
+| 📱皮皮短剧                  | 4.3.6            |                                                                |
 | 📱屏幕翻译                  | 1.4.4            | 屏幕翻译软件                                                   |
 | 📱屏幕工具箱                | 1.9.7            |                                                                |
 | 📱强力清理                  | 8.3.0            | 垃圾清理、内存加速和应用管理                                   |
@@ -114,6 +124,7 @@
 | 📱全能下载                  | 1.2              | 文件下载                                                       |
 | 📱全是漫画                  | 1.2.0            | 多合一阅读工具，自带图源                                       |
 | 📱[人体穴位图解]            | 3.1.3            |                                                                |
+| 📱任意修改水印相机          | 1.24.0826        |                                                                |
 | 📱扫描全能王                | 6.62.1           | 多功能智能扫描仪软件                                           |
 | 📱设备信息                  | 2.8.6.4          | 查看手机设备信息                                               |
 | 📱[深度搜索]                | 5.6              |                                                                |
@@ -137,7 +148,7 @@
 | 📱听见                      | 5.4.0            | 免费听歌软件                                                   |
 | 📱[听下-Plus]               | 2.0.3            | 免费听歌软件                                                   |
 | 📱[听心]                    | 1.1.7            | 免费听歌软件                                                   |
-| 📱[图叨叨]                  | 6.8.1            | 简单易用、免费且无广告的图片处理神器                           |
+| 📱[图叨叨]                  | 6.9.1            | 简单易用、免费且无广告的图片处理神器                           |
 | 📱图了个图                  | 1.0.0            | 10项Ai图像处理功能                                             |
 | 📱图形计算器 Mathlab        | 2022.11.162      | 强大的科学计算器软件                                           |
 | 📱玩唱                      | 1.0.28.13        |                                                                |
@@ -161,20 +172,20 @@
 | 📱[一个工坊]                | 2024.04.12       | 实用而又有趣的手机工具箱                                       |
 | 📱[一个工具箱]              | 1.0.5            | 小清新工具箱                                                   |
 | 📱[一个木函]                | 7.17.8           | 极致专业效率集成工具                                           |
-| 📱[一起看]                  | 1.2.6            | 实用的追剧神器                                                 |
+| 📱[一起看]                  | 1.3.4            | 实用的追剧神器                                                 |
 | 📱移动工具箱                | 1.0.11           |                                                                |
 | 📱[异次元]                  | 2.4.2            | 自定义图源的漫画神器                                           |
 | 📱[易云搜]                  | 0.0.4            | 功能强大的资源搜索工具                                         |
 | 📱[音悦]                    | 1.5.0            | `听见`APP更新                                                  |
 | 📱[音乐时刻]                | 1.1.6            | 音乐搜索播放下载工具                                           |
 | 📱隐秘参数                  | 2.7.1            | 查询手机参数、功能检测和性能跑分                               |
-| 📱📺[影视工场]               | 3.1.6/3.0.8      | 免费在线观看高清影视资源                                       |
+| 📱📺[影视工场]               | 3.1.7/3.0.8      | 免费在线观看高清影视资源                                       |
+| 📱📺[云海影视]               | 4.5              |                                                                |
 | 📱有来急救百科              | 1.0.3            |                                                                |
 | 📱[宇宙工具箱]              | 2.7.0            | 迄今为止最强的安卓工具箱软件                                   |
 | 📱[元力音乐]                | 1.0.1            | 音乐听歌下载的工具（[音源][元力音乐-YY]）                      |
 | 📱[远航工具箱]              | 7.1.3            |                                                                |
 | 📱[阅读]                    | 3.24.080918      | 自定义来源阅读网络内容工具（[书源][阅读-SY]）                  |
-| 📱[乐影漫]                  | 1.6              | 集合音乐、影视和漫画的APP                                      |
 | 📱📺[月光宝盒BOX]            | 2024.3.9         |                                                                |
 | 📱照片时光机                | 2.0.0            | 一键修复高清照片，模糊补帧，照片特效                           |
 | 📱证件照极拍                | 1.0.0            |                                                                |
@@ -198,6 +209,7 @@
 [AppRhyme-YY]: https://cdn.jsdelivr.net/gh/hhhackor/AppRhymeApi@main/custom_api.evc
 [Autox.js]: http://doc.autoxjs.com/ '跳转主页'
 [ESuper文件]: https://www.yxssp.com/download.php?author=%E4%B8%9C%E4%B8%9C&btitle=%E5%BC%82%E6%98%9F%E8%BD%AF%E4%BB%B6%E7%A9%BA%E9%97%B4&id=47407 '跳转下载页'
+[Fake Location]: https://magicalstory.lanzout.com/iWCI30szy9xa '跳转下载页'
 [File Commander]: https://www.ghxi.com/filecommander.html '跳转主页'
 [Flix]: https://flix.center/ '跳转主页'
 [Image Toolbox]: https://github.com/T8RIN/ImageToolbox '跳转主页'
@@ -205,32 +217,36 @@
 [KHMD]: https://du.khkj.xyz/aUsnHuEsD '跳转下载页'
 [Logo设计专家]: https://liangziliu.lanzoux.com/ip5kd231m9mf '跳转下载页'
 [MT管理器]: https://wwpu.lanzouo.com/i9V9b2877ing '跳转下载页'
-[MusicFree]: http://musicfree.upup.fun/ '跳转主页'
+[MusicFree]: https://musicfree.catcat.work/ '跳转主页'
 [OPlayer]: https://www.yxssp.com/download.php?author=pojie&btitle=%E5%BC%82%E6%98%9F%E8%BD%AF%E4%BB%B6%E7%A9%BA%E9%97%B4&id=24413 '跳转下载页'
 [Question.AI]: https://liangziliu.lanzoux.com/i4YPU21705hi '跳转下载页'
 [SKIP]: https://github.com/GuoXiCheng/SKIP '跳转主页'
 [Stellarium Mobile]: https://www.stellarium-labs.com/stellarium-mobile-plus/ '跳转主页'
-[爱其意]: http://aiqiyi.pro/ '跳转主页'
+[爱其意]: https://aiqiyi.app/ '跳转主页'
 [岸听音乐]: http://music.ijanz.cn/ '跳转主页'
 [傲软抠图]: https://liangziliu.lanzoux.com/iFM0C1zush2j '跳转下载页'
 [布丁扫描]: https://www.budingscan.com/ '跳转主页'
-[布蕾4K]: https://magicalstory.lanzout.com/iZLBT272q6ih '跳转下载页'
+[布蕾4K]: https://xiafanapp.lanzn.com/b00g2g8pdc '跳转下载页'
+[大海TV]: https://magicalstory.lanzout.com/i1FZ4295s1hi '跳转下载页'
+[飞语影视]: https://pic0hzht2qp.feishu.cn/docx/Ejg8dX3M6ozMlxxPA4XcEjIcnPh '跳转下载页'
 [风云扫描王]: https://liangziliu.lanzoux.com/iVrUT20r6bob '跳转下载页'
 [海豚去水印]: https://www.lanzouq.com/idORE21yx9ch '跳转下载页'
 [猴哥音乐]: https://www.lanzov.com/b004hhs3bc '跳转下载页'
 [极简工具箱]: https://www.pgyer.com/assistantbox '跳转下载页'
 [集影视频工具箱]: https://www.coolapk.com/apk/com.mycp.videocompress '跳转下载页'
+[简助手]: https://wwqp.lanzouw.com/b0825sh3e '跳转下载页'
+[江湖TV]: https://magicalstory.lanzout.com/iW5T0295rydg '跳转下载页'
 [解析机器人]: https://www.lanzoup.com/b02dpt5oj '跳转下载页'
 [京墨]: https://github.com/hefengbao/jingmo '跳转主页'
-[囧次元]: https://magicalstory.lanzout.com/iBH3J24c45ib '跳转下载页'
 [剧追追]: https://juzz.top/ '跳转下载页'
 [开拍]: https://drive.uc.cn/s/1e1adadcd1b34 '跳转下载页'
+[开心TV]: https://magicalstory.lanzout.com/iGRZY295s0xi '跳转下载页'
 [可可影视]: https://dl.kkys3.com:51111/ '跳转下载页'
 [可乐下载器]: https://xingxingbt.lanzoum.com/s/btkele '跳转下载页'
 [酷狗概念版]: https://wwl.lanzouj.com/iE40R1zjilej '跳转下载页'
 [快找资源]: https://www.lanzouo.com/b05pa9a2h '跳转下载页'
 [炼丹家AI]: https://www.liandanjia.com/app/home '跳转主页'
-[柠乐]: https://dmla.lanzouo.com/b05ph7noh '跳转下载页'
+[灵越]: https://wwvg.lanzoub.com/iU38F27qws1c '跳转下载页'
 [乱七八糟]: https://bgg.lanzout.com/b0w8121af '跳转下载页'
 [洛雪音乐助手]: https://lxmusic.toside.cn/ '跳转主页'
 [媒工坊]: https://fy6b.lanzouq.com/iMT6l27j244j '跳转下载页'
@@ -239,6 +255,7 @@
 [萌新工具箱]: https://www.pgyer.com/mengxin '跳转下载页'
 [魔音MORIN]: http://morin.vin/ '跳转主页'
 [拟声]: https://share.feijipan.com/s/fWAuKVFP '跳转下载页'
+[柠乐]: https://dmla.lanzouo.com/b05ph7noh '跳转下载页'
 [人体穴位图解]: https://wwd.lanzouo.com/iHio91uxzmmj '跳转下载页'
 [深度搜索]: http://deepsearch.me/ '跳转主页'
 [神笔马良]: https://bgg.lanzouy.com/b02erm05g '跳转下载页'
@@ -267,12 +284,12 @@
 [音悦]: https://www.123pan.com/s/cvqiVv-SBpk.html '跳转下载页'
 [音乐时刻]: https://pan.lanzoum.com/ipjz21qm8txa '跳转下载页'
 [影视工场]: https://www.ysgcapp.vip/ '跳转主页'
+[云海影视]: https://magicalstory.lanzout.com/iGRZY295s0xi '跳转下载页'
 [宇宙工具箱]: https://www.lanzoui.com/b02cnadsj '跳转下载页'
 [元力音乐]: https://www.123pan.cn/s/aIKHjv-s0JH.html '跳转下载页'
 [元力音乐-YY]: https://img.xx8g.com/野草音源.js
 [远航工具箱]: https://wwl.lanzouj.com/iN27A1wzspbi '跳转下载页'
 [阅读]: https://gedoor.github.io/ '跳转主页'
 [阅读-SY]: https://shuyuan.yiove.com/complex
-[乐影漫]: https://wwz.lanzoub.com/ix0DB240siib '跳转下载页'
 [月光宝盒BOX]: https://liangziliu.lanzoux.com/iQdrn1rfmbah '跳转下载页'
 [智能工具]: https://healer.lanzoub.com/iqGJG1pb7r2j '跳转下载页'
