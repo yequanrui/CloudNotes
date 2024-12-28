@@ -9,11 +9,12 @@
 | FM              |                          | 酷我收音机                       |
 | [FongerMusic]   | [1.6.1.0][FG-Down]       | 付费歌曲无损音乐下载软件         |
 | [Foobar2000]    | [1.6.7.0][FB-Down]       | 多功能的音频播放器               |
+| [Freepiano]     | [2.2.2.1][FP-Down]       | 用电脑键盘演奏音乐               |
 | [GOMPlayerPlus] | 2.3.90.5360              | 强大美观的视频播放器             |
 | [GridPlayer]    | [0.5.3.0][GP-Down]       | 多视频同时播放工具               |
 | [IQIYI]         | [2.0.0.0][IQY-Down]      | 爱奇艺视频                       |
 | [jianpian]      | 4.2.3.50                 | 看片神器                         |
-| [Kazumi]        | [1.2.6][K-Down]          | 基于自定义规则的番剧采集APP      |
+| [Kazumi]        | [1.4.1.1][K-Down]        | 基于自定义规则的番剧采集APP      |
 | [KGMusic]       | [10.0.53.24820][KG-Down] | 酷狗音乐                         |
 | [KwMusic]       | [5.0.0.0][KW-Down]       | 酷我音乐                         |
 | [PotPlayer]     | [1.7.22224][PP-Down]     | 免费影音全能格式播放器           |
@@ -37,6 +38,8 @@
 [FG-Down]: https://wwo.lanzoue.com/b0fog928f '跳转下载页，密码：ha19'
 [Foobar2000]: https://www.foobar2000.org/ '跳转主页'
 [FB-Down]: https://www.foobar2000.org/download '跳转下载页'
+[Freepiano]: https://freepiano.tiwb.com/ '跳转主页'
+[FP-Down]: https://sourceforge.net/projects/freepiano/files/ '跳转下载页'
 [GOMPlayerPlus]: https://www.gomlab.com/gomplayerplus-media-player/ '跳转主页'
 [GridPlayer]: https://github.com/vzhd1701/gridplayer '跳转主页'
 [GP-Down]: https://github.com/vzhd1701/gridplayer/releases '跳转下载页'
