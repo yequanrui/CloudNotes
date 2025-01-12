@@ -17,9 +17,8 @@
 | 📱[AI写作鱼]                | 1.0.18             | AI创作一键生成                                             |
 | 📱[AI智绘]                  | 1.5.0.0            | 功能强大的AI绘画工具                                       |
 | 📱Anything                  | 1.3.22             | 手机版Everything                                           |
-| 📱[AppRhyme]                | 1.0.9              | 使用Flutter和Rust构建的开源免费音乐软件 (音源: [1][AR1])   |
+| 📱[AppRhyme]                | 2.0.1              | 使用Flutter和Rust构建的开源免费音乐软件 (音源: [1][AR1])   |
 | 📱Authenticator             | 6.0                | 谷歌身份验证器                                             |
-| 📱[Autox.js]                | 6.6.7              | 不需要Root权限的JavaScript自动化软件                       |
 | 📱AVG Cleaner               | 6.5.0              | AVG清理大师                                                |
 | 📱CAD迷你看图               | 8.2.1              |                                                            |
 | 📱Call                      | 1.0                | 用来伪装系统电话通讯数据                                   |
@@ -27,6 +26,7 @@
 | 📱DreamFace                 | 4.9.0              | 有趣的照片动画应用程序                                     |
 | 📱📺Earth元地球              | 3.9.7/2.0.5        |                                                            |
 | 📱ES文件浏览器              | 4.4.1.1            | 安卓第一文件管理器                                         |
+| 📱Face Me                   | 1.9.5              | 功能强大的AI艺术照片编辑器                                 |
 | 📱[Fake Location]           | 1.3.5.1597         | 最强的虚拟定位软件                                         |
 | 📱[File Commander]          | 9.6.50965          | 管理手机本地和远程文件，链接所有云账户等                   |
 | 📱Hi Dictionary             | 2.2.8.7            |                                                            |
@@ -46,6 +46,7 @@
 | 📱MOVIES                    | 1.1.5              |                                                            |
 | 📱[MT管理器]                | 2.16.5             |                                                            |
 | 📱[MusicFree]               | 0.4.4              | 插件化的音乐播放器 (插件: [1][MF1]/[2][MF2])               |
+| 📱[MJ PDF]                  | 2.1.2              | 功能强大的手机PDF阅读工具                                  |
 | 📱My PDF                    | 1.2.0              | PDF处理工具                                                |
 | 📱NeonArt                   | 6.5.2.3            | 照片编辑软件                                               |
 | 📱Office                    | 16.0.14701.20166   |                                                            |
@@ -71,7 +72,7 @@
 | 📱[布丁扫描]                | 3.4.2.2            | 免费专业的扫描APP                                          |
 | 📱布谷鸟配音                | 1.10.10.0          | 智能拟人配音工具                                           |
 | 📱车学堂                    | 5.8.4              | 提供科目一和科目四的专项练习                               |
-| 📱辞职信生成器              | 1.0.0              | 满足不同用户的需求，可以快速生成和使用                     |
+| 📱辞职信生成器              | 1.0.0              | 快速写出符合规范的辞职信                                   |
 | 📱📺[大海TV]                 | 8.5                |                                                            |
 | 📱电子电工小工具            | 1.8.3              |                                                            |
 | 📱抖映                      | 1.0.33             | AI对口型生成视频                                           |
@@ -109,6 +110,7 @@
 | 📱[酷狗概念版]              | 2.5.5              | 最后一个可以领取会员的酷狗版本                             |
 | 📱[酷控智能遥控]            | 2.5.2              | 功能强大的智能遥控手机软件                                 |
 | 📱快捷去水印                | 1.0.1              | 快速去除图片、视频水印                                     |
+| 📱快乐下载                  | 1.390              | 帮助用户从多种渠道进行文件下载                             |
 | 📱[快找资源-Plus]           | 1.3.3              | 资源搜索神器                                               |
 | 📱蓝白搜索                  | 1.0.6              |                                                            |
 | 📱📺懒人影院TV               | 3.4.8              |                                                            |
@@ -142,7 +144,7 @@
 | 📱全能下载                  | 1.2                | 文件下载                                                   |
 | 📱全是漫画                  | 1.2.0              | 多合一阅读工具, 自带图源                                   |
 | 📱[人体穴位图解]            | 3.1.3              |                                                            |
-| 📱任意修改水印相机          | 1.24.0826          |                                                            |
+| 📱任意修改水印相机          | 1.24.1111          | 照片和视频一键添加水印                                     |
 | 📱扫描全能王                | 6.62.1             | 多功能智能扫描仪软件                                       |
 | 📱设备信息                  | 2.8.6.4            | 查看手机设备信息                                           |
 | 📱[深度搜索]                | 5.6                |                                                            |
@@ -154,8 +156,11 @@
 | 📱[实用工具箱]              | 11.6               | 多功能实用工具箱                                           |
 | 📱刷圈兔                    | 8.0.1              | 微商作图工具                                               |
 | 📱[水墨工具箱]              | 1.1.8              | 中国传统水墨风格工具箱                                     |
+| 📱水印狗                    | 1.3.0              | 抖音、微视、小红书、秒拍等短视频平台无水印解析下载视频     |
 | 📱水印一键去除专家          | 2.1.3              |                                                            |
 | 📱谁喝酒                    | 1.3.0              | 聚会娱乐工具                                               |
+| 📱手机PDF转换器             | 2.1.4              | 高效的pdf转换编辑工具                                      |
+| 📱手机编程                  | 4.6.1              | 随时随地写代码，随时随地咨询学习                           |
 | 📱手机照片恢复管家          | 5.9.0              | 专业的照片恢复软件                                         |
 | 📱手机万能文案工具          | 23.01.15           |                                                            |
 | 📱手写生成器                | 1.1.0              |                                                            |
@@ -175,6 +180,7 @@
 | 📱📺[网飞猫]                 | 3.2.2              |                                                            |
 | 📱[网络百宝箱]              | 2.1.1              | 网络测试常用工具                                           |
 | 📱网盘搜索                  | 1.0.3              |                                                            |
+| 📱微分身宝                  | 1.1.1              | 实用的手机分身多开软件                                     |
 | 📱伪造短信消息              | 5.3                | 伪造你手机上的短信消息                                     |
 | 📱文案够                    | 1.0.0              | 收集了数千个优质漂亮的文案素材                             |
 | 📱文字扫描器                | 9.3.0              |                                                            |
@@ -210,6 +216,7 @@
 | 📱[阅读]                    | 3.25               | 自定义来源阅读网络内容工具 (书源: [1][YD1])                |
 | 📱照片时光机                | 2.0.0              | 一键修复高清照片，模糊补帧，照片特效                       |
 | 📱证件照极拍                | 1.0.0              |                                                            |
+| 📱[只音]                    | 1.1.0              | 简洁清爽的在线听歌软件                                     |
 | 📱📺智能K歌                  | 4.16.70.2303211104 | 非常好用的电视K歌软件                                      |
 | 📱[智能工具]                | 20.8               |                                                            |
 | 📱中草药宝典                | 2.5                |                                                            |
@@ -231,8 +238,7 @@
 [AI写作鱼]: https://drive.uc.cn/s/8e7bc78c26a64 '跳转下载页'
 [AI智绘]: https://www.123pan.com/s/izDSVv-LW1WA.html '跳转下载页'
 [AppRhyme]: https://github.com/canxin121/app_rhyme '跳转主页'
-[AR1]: https://cdn.jsdelivr.net/gh/hhhackor/AppRhymeApi@main/custom_api.evc
-[Autox.js]: http://doc.autoxjs.com/ '跳转主页'
+[AR1]: https://cdn.jsdelivr.net/gh/hhhackor/AppRhymeApi@main/custom_api_2.0.evc
 [Fake Location]: http://fakeloc.cc/app '跳转主页'
 [File Commander]: https://www.ghxi.com/filecommander.html '跳转主页'
 [Image Toolbox]: https://github.com/T8RIN/ImageToolbox '跳转主页'
@@ -244,6 +250,7 @@
 [MusicFree]: https://musicfree.catcat.work/ '跳转主页'
 [MF1]: https://musicfreepluginshub.2020818.xyz/plugins.json
 [MF2]: https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/ghyinyue.json
+[MJ PDF]: https://fy6b.lanzouq.com/iaRd42ill00d '跳转下载页'
 [OPlayer]: https://www.yxssp.com/download.php?author=pojie&btitle=%E5%BC%82%E6%98%9F%E8%BD%AF%E4%BB%B6%E7%A9%BA%E9%97%B4&id=24413 '跳转下载页'
 [Question.AI]: https://liangziliu.lanzoux.com/i4YPU21705hi '跳转下载页'
 [SKIP]: https://github.com/GuoXiCheng/SKIP '跳转主页'
@@ -321,4 +328,5 @@
 [远航工具箱]: https://wwl.lanzouj.com/iN27A1wzspbi '跳转下载页'
 [阅读]: https://gedoor.github.io/ '跳转主页'
 [YD1]: https://shuyuan.yiove.com/complex
+[只音]: https://fy6b.lanzouq.com/iQWHH2k4f2la '跳转下载页'
 [智能工具]: https://healer.lanzoub.com/iqGJG1pb7r2j '跳转下载页'
