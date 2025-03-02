@@ -10,7 +10,7 @@
 | [PeaZip]            | [9.9.1][PZ-Down]      | 免费的开源文件管理器和文件归档工具 |
 | [UltraISO]          | [9.7.6.3829][UI-Down] | 光盘映像文件制作/编辑/转换工具     |
 | [UniExtract]        | [2.0.0-rc.3][UE-Down] | 万能解包器                         |
-| [WinRAR]            | [7.1.1.0][WR-Down]    | 功能强大的存档管理器               |
+| [WinRAR]            | [7.10.3.0][WR-Down]   | 功能强大的存档管理器               |
 
 [7-Zip]: https://www.7-zip.org/ '跳转主页'
 [7Z-Down]: https://www.7-zip.org/download.html '跳转下载页'
