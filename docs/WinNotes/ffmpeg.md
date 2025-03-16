@@ -1,32 +1,5 @@
 # Windows 软件之 FFmpeg
 
-> ## Excerpt
-> 前言
-
----
-
-- 前言
-
-- 1 FFmpeg 视频处理
-
-- 1.1 编解码
-
-- 1.2 其它视频编辑命令
-
-- 1.3 视频抽帧
-
-- 2 FFmpeg 音频处理
-
-- 3 FFmpeg 图片处理
-
-- 3.1 编解码
-
-- 3.2 拼接图片
-
-- 3.3 图片合成视频
-
-- 附录1：mediainfo.ps1
-
 ## 前言
 
 > FFmpeg 是一套可以用来记录、转换数字音频、视频，并能将其转化为流的开源计算机程序。
@@ -34,8 +7,8 @@
 ## 1 FFmpeg 视频处理
 
 > 为方便测试，我们首先使用 **winget install MediaArea.MediaInfo** 命令安装一下 mediainfo 命令（可以方便地查看视频信息），然后创建 mediainfo.ps1 文件，并输入附录1中的内容。
-
-> 这里我以周董**稻香** mv 视频为例。视频信息如下：![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/D6ibuQlPKYQPFgCdMDoL9aJA2cApI5aHXEfKnCYrPTW4JLm0Ew0NpgLTpaZHfqGdTGmf3hPibQeJmcJUibDRH8wVA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+>
+> 这里我以周董**稻香** mv 视频为例。视频信息如下：![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/D6ibuQlPKYQPFgCdMDoL9aJA2cApI5aHXEfKnCYrPTW4JLm0Ew0NpgLTpaZHfqGdTGmf3hPibQeJmcJUibDRH8wVA/640)
 
 ### 1.1 编解码
 
