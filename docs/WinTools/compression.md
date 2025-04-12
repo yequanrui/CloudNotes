@@ -2,10 +2,11 @@
 
 | Name                | Version               | Description                        |
 | :------------------ | :-------------------- | :--------------------------------- |
-| [7-Zip]             | [24.08][7Z-Down]      | 免费开源文件归档应用程序           |
+| [7-Zip]             | [24.09][7Z-Down]      | 免费开源文件归档应用程序           |
 | [Bandizip]          | 7.32.0.1              | 面向专业人士的压缩软件             |
 | [BurnAware Pro]     | [18.0.0.0][BA-Down]   | 全功能、易于使用的刻录软件         |
 | [DAEMON Tools Lite] | 10.6.0.283            | 最个人化的光盘映像处理应用程序     |
+| [lessmsi]           | [2.7.0][LM-Down]      | 查看和提取msi文件内容的工具        |
 | ONES                | 2.1.0.358             | 多功能实用、简单快速的光盘刻录软件 |
 | [PeaZip]            | [9.9.1][PZ-Down]      | 免费的开源文件管理器和文件归档工具 |
 | [UltraISO]          | [9.7.6.3829][UI-Down] | 光盘映像文件制作/编辑/转换工具     |
@@ -18,6 +19,8 @@
 [BurnAware Pro]: https://www.burnaware.com/ '跳转主页'
 [BA-Down]: https://www.burnaware.com/download.html '跳转下载页'
 [DAEMON Tools Lite]: https://www.daemon-tools.cc/chn/products/dtLite '跳转主页'
+[lessmsi]: https://lessmsi.activescott.com/ '跳转主页'
+[LM-Down]: https://github.com/activescott/lessmsi/releases '跳转下载页'
 [PeaZip]: https://peazip.github.io/ '跳转主页'
 [PZ-Down]: https://peazip.github.io/peazip-portable.html '跳转下载页'
 [UltraISO]: https://ultraiso.net/ '跳转主页'
