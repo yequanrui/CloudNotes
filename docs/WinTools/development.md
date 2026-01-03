@@ -2,8 +2,9 @@
 
 | Name             | Version                               | Description                       |
 | :--------------- | :------------------------------------ | :-------------------------------- |
+| [aardio]         | 39.3.1                                | 桌面软件快速开发工具              |
 | [DBeaver]        | [24.0.4][DBeaver-Down](Win/Mac/Linux) | 免费的通用数据库工具和SQL客户端   |
-| [HBuilderX]      | 4.57(Win/Mac)                         | DCloud（数字天堂）的前端开发者IDE |
+| [HBuilderX]      | 4.64(Win/Mac)                         | DCloud（数字天堂）的前端开发者IDE |
 | [He3]            | [2.0.20.0][He3-Down](Win/Mac/Linux)   | 超级开发工具箱                    |
 | [Inno Setup]     | [6.3.1][IS-Down]                      | 免费的安装包制作软件              |
 | [Notepad--]      | [2.20.0.0][N--Down](Win/Mac/Linux)    | 轻量级文本编辑器                  |
@@ -12,9 +13,10 @@
 | [NxShell]        | [1.9.3][NxShell-Down](Win/Mac/Linux)  | Linux下一代远程工具免费SSH客户端  |
 | [Rust]           | [1.85.0][Rust-Down]                   | 构建可靠且高效软件能力的语言      |
 | [Tabby]          | [1.0.207][Tabby-Down](Win/Mac/Linux)  | 基于TypeScript开发的终端模拟器    |
-| [VSCode]         | [1.99.2][VSCode-Down](Win/Mac/Linux)  | 微软的轻量级编辑器                |
+| [VSCode]         | [1.105.0][VSCode-Down](Win/Mac/Linux) | 微软的轻量级编辑器                |
 | [微信开发者工具] | [1.06.2412050][WXD-Down]              | 简单高效地开发和调试微信小程序    |
 
+[aardio]: https://www.aardio.com/ '跳转主页'
 [DBeaver]: https://dbeaver.io/ '跳转主页'
 [DBeaver-Down]: https://github.com/dbeaver/dbeaver/releases '跳转下载页'
 [HBuilderX]: https://dcloud.io/hbuilderx.html '跳转主页'

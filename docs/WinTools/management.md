@@ -1,16 +1,16 @@
 > 记录管理
 
-| Name                     | Version                                | Description          |
-| :----------------------- | :------------------------------------- | :------------------- |
-| [Billfish]               | [3.0.30.10][Billfish-Down](Win/Mac)    | 素材管理工具         |
-| [CintaNotes]             | [3.13.0.1][CintaNotes-Down](Win)       | 个人笔记资料管理工具 |
-| [eVideo]                 | [3.2.0.13][eVideo-Down](Win)           | 影视文件管理工具     |
-| [KeePassXC]              | [2.7.7][KeePassXC-Down](Win/Mac/Linux) | 密码管理工具         |
-| [LESLIE NOTE][LN]        | [5.28.0.0][LN-Down](Win)               | 本地笔记管理工具     |
-| [Money Manager Ex][MMEX] | [1.6.4][MMEX-Down](Win/Mac/Linux)      | 个人财务管理工具     |
-| [Obsidian]               | [1.6.7][Obsidian-Down](Win/Mac/Linux)  | 个人资料管理工具     |
-| [ToDoList]               | [8.2.997.3][ToDoList-Down](Win)        | 工作任务管理工具     |
-| [Zotero]                 | [7.0.0][Zotero-Down](Win/Mac/Linux)    | 开源文献管理工具     |
+| Name                     | Version                                 | Description          |
+| :----------------------- | :-------------------------------------- | :------------------- |
+| [Billfish]               | [3.0.30.10][Billfish-Down](Win/Mac)     | 素材管理工具         |
+| [CintaNotes]             | [3.13.0.1][CintaNotes-Down](Win)        | 个人笔记资料管理工具 |
+| [eVideo]                 | [3.2.0.13][eVideo-Down](Win)            | 影视文件管理工具     |
+| [KeePassXC]              | [2.7.10][KeePassXC-Down](Win/Mac/Linux) | 密码管理工具         |
+| [LESLIE NOTE][LN]        | [5.28.0.0][LN-Down](Win)                | 本地笔记管理工具     |
+| [Money Manager Ex][MMEX] | [1.6.4][MMEX-Down](Win/Mac/Linux)       | 个人财务管理工具     |
+| [Obsidian]               | [1.6.7][Obsidian-Down](Win/Mac/Linux)   | 个人资料管理工具     |
+| [ToDoList]               | [8.2.997.3][ToDoList-Down](Win)         | 工作任务管理工具     |
+| [Zotero]                 | [7.0.0][Zotero-Down](Win/Mac/Linux)     | 开源文献管理工具     |
 
 [Billfish]: https://www.billfish.cn/ '跳转主页'
 [Billfish-Down]: https://www.billfish.cn/product '跳转下载页'

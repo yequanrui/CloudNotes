@@ -5,7 +5,7 @@
 | [Files]                | [3.7.7.0][Files-Microsoft]         | 资源管理器                       |
 | [Shrestha Files Pro X] | [3.23.553.0][SFiles-Microsoft]     | 带有选项卡的彩色双窗格文件管理器 |
 | [DevToys]              | [1.0.14.0][DevToys-Microsoft]      | 开发人员的瑞士军刀               |
-| [PowerToys]            | [0.84.1][PowerToys-Microsoft]      | 微软辅助工具集                   |
+| [PowerToys]            | [0.90.0][PowerToys-Microsoft]      | 微软辅助工具集                   |
 | [RyTuneX]              | [0.9.1][RyTuneX-Down]              | Win10/11性能优化工具             |
 | [Windows Terminal]     | [1.20.11781.0][Terminal-Microsoft] | 微软命令行工具                   |
 | [Notepads]             | [1.5.5.0][Notepads-Microsoft]      | 极具现代感，轻便简洁的文本编辑器 |
