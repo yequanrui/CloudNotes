@@ -2,7 +2,7 @@
   - [English](/)
   - [中文](/zh-cn/)
 
-- About me
+- About
   - [Github](https://github.com/yequanrui)
   - [Gitee](https://gitee.com/yequanrui)
   - [GitCode](https://gitcode.com/yequanrui)
@@ -10,4 +10,5 @@
 
 - Links
   - [Docsify](https://docsify.js.org/#/)
+  - [Docsify Darklight Theme](https://docsify-darklight-theme.boopathikumar.me/#/)
   - [Markdown Tutorial](https://daringfireball.net/projects/markdown/)

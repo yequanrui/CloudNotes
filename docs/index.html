@@ -1,289 +1,285 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <title>CloudNotes</title>
-  <meta name="description" content="CloudNotes">
-  <meta name="keywords" content="yequanrui,pages">
-  <meta name="author" content="yequanrui">
-  <meta name="google-site-verification" content="pLPl8oqL0Adf4p5s9zT-pXnpfF-2TMlOTEjoDl7DpSY" />
-  <meta name="baidu-site-verification" content="code-gZR6EVVpaO" />
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" type="image/x-icon" href="favicon.ico">
-  <!-- 主题 -->
-  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"> -->
-  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/buble.css"> -->
-  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css"> -->
-  <!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/pure.css">-->
-  <!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/dolphin.css">-->
-  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-defaults.css"> -->
-  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"> -->
-  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"> -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/style.min.css">
-  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prism-themes@1/themes/prism-ghcolors.min.css"> -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prism-themes@1/themes/prism-vsc-dark-plus.min.css">
-  <link rel="stylesheet" href="assets/css/main.css">
-  <script>
-    function loadStyle(url, callback) {
-      const head = document.getElementsByTagName('head')[0];
-      const script = document.createElement('link');
-      script.rel = 'stylesheet';
-      script.href = url;
-      if (typeof (callback) === 'function') {
-        script.onload = script.onreadystatechange = function () {
-          if (!this.readyState || ['loaded', 'complete'].includes(this.readyState)) {
-            callback();
-            script.onload = script.onreadystatechange = null;
-          }
-        };
-      }
-      head.appendChild(script);
-    }
-    function loadScript(url, callback) {
-      const head = document.getElementsByTagName('head')[0];
-      const script = document.createElement('script');
-      script.type = 'text/javascript';
-      script.src = url;
-      if (typeof (callback) === 'function') {
-        script.onload = script.onreadystatechange = function () {
-          if (!this.readyState || ['loaded', 'complete'].includes(this.readyState)) {
-            callback();
-            script.onload = script.onreadystatechange = null;
-          }
-        };
-      }
-      head.appendChild(script);
-    }
-  </script>
-</head>
-
-<body>
-  <div id="app">🏃🏃‍♂️🏃‍♀️加载中...</div>
-  <!-- Edit on GitHub -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
-  <script>
-    const repoUrl = 'https://github.com/yequanrui/CloudNotes';
-    const editPath = repoUrl + '/blob/main/docs/';
-    const isZh = location.hash.includes('zh-cn');
-    window.$docsify = {
-      el: '#app', // 初始化的挂载元素，默认为#app，如果不存在就直接绑定在body上
-      basePath: '', // 文档加载的根路径
-      relativePath: false, // 是否使用相对路径
-      // routerMode: 'history', // 设置路由模式，设置为 history 之后，浏览器链接里不会出现#
-      coverpage: ['/', '/zh-cn/'], // 自定义封面
-      onlyCover: true, // 设置了封面后，开启网站只进入封面（默认封面和首页是一页，可以向下滑动）
-      homepage: '_index.md', // 主页
-      notFoundPage: '_errorpage.md', // 404页面
-      // logo和name和图标二选一
-      name: '📑CloudNotes',
-      // logo: '/img/logo.svg',
-      nameLink: {
-        '/zh-cn/': '#/zh-cn/',
-        '/': '#/',
-      }, // 侧边栏顶部标题或logo链接
-      alias: {
-        '/.*/_navbar.md': '/_navbar.md',
-        // '/.*/_sidebar.md': '/_sidebar.md',
-      },
-      loadNavbar: '_navbar.md', // 导航栏
-      hideSidebar: false, // 是否隐藏侧边栏
-      loadSidebar: '_sidebar.md', // 自定义侧边栏
-      autoHeader: true, // 侧边栏目录作为内容标题
-      loadFooter: '_footer.md', // 自定义页脚
-      maxLevel: 6, // 最大支持渲染的标题层级
-      subMaxLevel: 4, // 自定义侧边栏最大层级
-      mergeNavbar: true, // 小屏自动合并导航栏和侧边栏
-      // 路由映射，固定根目录的文件
-      auto2top: true, // url变化自动滚动到顶部
-      topMargin: 10, // 内容距离顶部的高度
-      // themeColor: '#3F51B5', // 样式主颜色
-      repo: repoUrl, // 右上角github小部件链接
-      externalLinkTarget: '_blank', // 外链打开方式
-      markdown: {
-        smartypants: true,
-      }, // 内置的Markdown解析器是marked，可以修改它的配置
-      noEmoji: false, // 是否禁用emoji解析
-      // 字数统计
-      count: {
-        countable: true, // 设置字符统计展示与否
-        margin: '10px', // 设置与邻近DOM的距离
-        position: 'top', // 设置展示位置('top' | 'bottom')
-        float: 'right', // 设置元素对齐('right | 'top')
-        fontsize: '0.9em', // 设置字体大小
-        color: 'rgb(90,90,90)', // 设置颜色
-        language: isZh ? 'chinese' : 'english', // 设置语言
-        localization: {
-          words: "",
-          minute: ""
-        }, // 支持本土化
-        isExpected: true, // 是否显示预计阅读时长
-      },
-      // 代码复制
-      copyCode: {
-        buttonText: {
-          '/zh-cn/': '点击复制',
-          '/': 'Copy to clipboard'
-        },
-        errorText: {
-          '/zh-cn/': '❌错误',
-          '/': '❌Error'
-        },
-        successText: {
-          '/zh-cn/': '✅复制',
-          '/': '✅Copied'
+  <head>
+    <meta charset="utf-8" />
+    <title>CloudNotes</title>
+    <meta name="description" content="CloudNotes" />
+    <meta name="keywords" content="yequanrui,pages" />
+    <meta name="author" content="yequanrui" />
+    <meta name="google-site-verification" content="pLPl8oqL0Adf4p5s9zT-pXnpfF-2TMlOTEjoDl7DpSY" />
+    <meta name="baidu-site-verification" content="code-gZR6EVVpaO" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    <!-- 主题样式 -->
+    <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.min.css"> -->
+    <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/buble.min.css"> -->
+    <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/dark.min.css"> -->
+    <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/pure.min.css"> -->
+    <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/dolphin.min.css"> -->
+    <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-themeable/dist/css/theme-defaults.min.css"> -->
+    <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-themeable/dist/css/theme-simple.min.css"> -->
+    <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-themeable/dist/css/theme-simple-dark.min.css"> -->
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme/dist/style.min.css" />
+    <!-- 代码语法高亮样式 -->
+    <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/prism-themes/themes/prism-ghcolors.min.css"> -->
+    <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/prism-themes/themes/prism-vsc-dark-plus.min.css" /> -->
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/prism-themes/themes/prism-dracula.min.css" />
+    <!-- 分页插件样式 -->
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-pagination/src/stylesheet.min.css" />
+    <!-- 自定义样式 -->
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <script>
+      function loadStyle(url, callback) {
+        const head = document.getElementsByTagName('head')[0];
+        const script = document.createElement('link');
+        script.rel = 'stylesheet';
+        script.href = url;
+        if (typeof callback === 'function') {
+          script.onload = script.onreadystatechange = function () {
+            if (!this.readyState || ['loaded', 'complete'].includes(this.readyState)) {
+              callback();
+              script.onload = script.onreadystatechange = null;
+            }
+          };
         }
-      },
-      // 全文搜索
-      search: {
-        maxAge: 86400000, // （毫秒）过期时间一天
-        paths: 'auto',
-        depth: 6, // 允许创建的搜索索引块，定位到 6 级标题
-        placeholder: {
-          '/zh-cn/': '🔎搜索',
-          '/': '🔎Type to search',
-        },
-        noData: {
-          '/zh-cn/': '😞找不到结果',
-          '/': '😞No Results',
-        },
-        hideOtherSidebarContent: false, // 是否隐藏其他侧边栏内容
-        namespace: 'CloudNotes', // 同一域下的多个网站之间避免搜索索引冲突
-      },
-      // 更新时间配置
-      timeUpdater: {
-        text: `<div class="time-updater">${isZh ? '最后更新时间：' : 'Last update time: '}{docsify-updated}</div>`,
-        formatUpdated: isZh ? '{YYYY}年{MM}月{DD}日' : '{YYYY}-{MM}-{DD}',
-        whereToPlace: 'bottom',
-      },
-      // 分页配置
-      pagination: {
-        // previousText: '上一章节',
-        // nextText: '下一章节',
-        crossChapter: true,
-        crossChapterText: true,
-      },
-      // 滚动回顶部配置
-      scrollToTop: {
-        auto: true, // 是否自动隐藏按钮
-        text: 'TOP', // 按钮文字
-        right: 15, // 按钮距离窗口右侧距离
-        bottom: 15, // 按钮距离窗口底部距离
-        offset: 500, // 页面滚动多少距离后显示按钮，当auto配置为true时才有效果
-      },
-      // 选项卡配置
-      tabs: {
-        persist: true, // 确定页面刷新/重新访问后是否将恢复选项卡选择
-        sync: true, // 确定是否将在具有匹配标签的选项卡之间同步选项卡选择
-        theme: 'classic', // 设置选项卡主题
-        tabComments: true, // 确定是否可以使用选项卡注释定义选项卡集中的选项卡
-        tabHeadings: true, // 确定是否可以使用标题 + 粗体标记来定义选项卡集中的选项卡
-      },
-      // Docsify Darklight Theme配置
-      darklightTheme: {
-        defaultTheme: 'dark',
-        siteFont: 'Cascadia Code',
-        codeFontFamily: 'Cascadia Code',
-        bodyFontSize: '16px',
-        dark: {
-          background: '#1a1a1c',
-          coverBackground: '#292a2e',
-          textColor: '#ced1db',
-          codeTextColor: '#dfe1e6',
-          codeTypeColor: '#dfe1e6',
-          codeBackgroundColor: '#464d6e',
-          borderColor: '#526ecc',
-          blockQuoteColor: '#a0a0a0',
-          highlightColor: '#ffffff',
-          accent: '#526ecc',
-          sidebarSublink: '#a0a0a0',
-          toogleBackground: '#ffffff',
-          toogleImage: 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/sun.svg)'
-        },
-        light: {
-          background: '#f7f7f9',
-          coverBackground: '#ffffff',
-          textColor: '#252b3a',
-          codeTextColor: '#dfe1e6',
-          codeTypeColor: '#dfe1e6',
-          codeBackgroundColor: '#464d6e',
-          borderColor: '#526ecc',
-          blockQuoteColor: '#575d6c',
-          highlightColor: '#ffffff',
-          accent: '#526ecc',
-          sidebarSublink: '#575d6c',
-          toogleBackground: '#091a28',
-          toogleImage: 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/moon.svg)'
-        },
-      },
-      // Docsify Themeable配置
-      themeable: {
-        readyTransition: true, // 确定在等待站点初始化时是否将显示加载指示器，然后在初始化完成后显示淡入淡出转换
-        responsiveTables: true,  // 确定元素是否将在较小的屏幕上显示为响应式表
-      },
-      // 插件配置
-      plugins: [
-        EditOnGithubPlugin.create(editPath, null, isZh ? '📝编辑' : '📝Edit on GitHub'),
-      ],
-      ga: 'pLPl8oqL0Adf4p5s9zT-pXnpfF-2TMlOTEjoDl7DpSY', // 谷歌分析
-    }
-  </script>
-  <!-- Vue 3.x -->
-  <!-- <script src="https://cdn.jsdelivr.net/npm/vue@3/dist/vue.global.prod.js"></script> -->
-  <!-- Docsify v4 -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
-  <!-- Docsify Themeable -->
-  <!-- <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script> -->
-  <!-- Docsify Darklight Theme -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/index.min.js"></script>
-  <!-- Docsify Tabs -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
-  <!-- 字数统计 -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify-count/dist/countable.min.js"></script>
-  <!-- 代码复制 -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
-  <!-- 分页导航 -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
-  <!-- 滚动回顶部 -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script>
-  <!-- 更新时间 -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
-  <!-- 添加页脚 -->
-  <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
-  <!-- 代码格式化 -->
-  <script src="https://cdn.jsdelivr.net/npm/prismjs/prism.min.js"></script>
-  <!-- 外链脚本 -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
-  <!-- 全文搜索 -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-  <!-- 表情插件 -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
-  <!-- 图片缩放查看 -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
-  <!-- 站点访问统计 -->
-  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-  <meta name="referrer" content="no-referrer-when-downgrade">
-  <!-- 谷歌分析 -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
-  <!-- Gitalk评论 -->
-  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
-  <script src="https://cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
-  <script>
-    const gitalk = new Gitalk({
-      clientID: '85511d2f778de8f13ace', // GitHub Application Client ID
-      clientSecret: '393663f0365d8edfdd9fa07a4cd1eecc6bd924ef',
-      repo: 'CloudNotes', // 存放评论的仓库
-      owner: 'yequanrui', // 仓库的创建者
-      admin: ['yequanrui'], // 如果仓库有多个人可以操作，那么在这里以数组形式写出
-      id: location.pathname, // 用于标记评论是哪个页面的
-      distractionFreeMode: true,
-    });
-  </script> -->
-  <!-- 注册离线模式 -->
-  <script>
-    typeof navigator.serviceWorker !== 'undefined' && navigator.serviceWorker.register('sw.js');
-  </script>
-</body>
+        head.appendChild(script);
+      }
+      function loadScript(url, callback) {
+        const head = document.getElementsByTagName('head')[0];
+        const script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = url;
+        if (typeof callback === 'function') {
+          script.onload = script.onreadystatechange = function () {
+            if (!this.readyState || ['loaded', 'complete'].includes(this.readyState)) {
+              callback();
+              script.onload = script.onreadystatechange = null;
+            }
+          };
+        }
+        head.appendChild(script);
+      }
+    </script>
+  </head>
 
+  <body>
+    <div id="app">🏃🏃‍♂️🏃‍♀️加载中...</div>
+    <!-- Edit on GitHub -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
+    <script>
+      const repoUrl = 'https://github.com/yequanrui/CloudNotes';
+      const editPath = repoUrl + '/blob/main/docs/';
+      const i18n = (cn, en, url = location.hash) => (url.includes('zh-cn') ? cn : en);
+      window.$docsify = {
+        el: '#app', // 初始化的挂载元素，默认为#app，如果不存在就直接绑定在body上
+        basePath: '', // 文档加载的根路径
+        relativePath: false, // 是否使用相对路径
+        // routerMode: 'history', // 设置路由模式，设置为 history 之后，浏览器链接里不会出现#
+        coverpage: ['/', '/zh-cn/'], // 自定义封面
+        onlyCover: true, // 设置了封面后，开启网站只进入封面（默认封面和首页是一页，可以向下滑动）
+        homepage: '_index.md', // 主页
+        notFoundPage: '_errorpage.md', // 404页面
+        // logo和name和图标二选一
+        name: '📑CloudNotes',
+        // logo: '/img/logo.svg',
+        nameLink: { '/zh-cn/': '#/zh-cn/', '/': '#/' }, // 侧边栏顶部标题或logo链接
+        alias: {
+          '/.*/_navbar.md': '/_navbar.md',
+          // '/.*/_sidebar.md': '/_sidebar.md',
+        },
+        loadNavbar: '_navbar.md', // 导航栏
+        hideSidebar: false, // 是否隐藏侧边栏
+        loadSidebar: '_sidebar.md', // 自定义侧边栏
+        autoHeader: true, // 侧边栏目录作为内容标题
+        loadFooter: '_footer.md', // 自定义页脚
+        maxLevel: 6, // 最大支持渲染的标题层级
+        subMaxLevel: 4, // 自定义侧边栏最大层级
+        mergeNavbar: true, // 小屏自动合并导航栏和侧边栏
+        // 路由映射，固定根目录的文件
+        auto2top: true, // url变化自动滚动到顶部
+        topMargin: 10, // 内容距离顶部的高度
+        // themeColor: '#3F51B5', // 样式主颜色
+        repo: repoUrl, // 右上角github小部件链接
+        externalLinkTarget: '_blank', // 外链打开方式
+        markdown: {
+          smartypants: true,
+        }, // 内置的Markdown解析器是marked，可以修改它的配置
+        noEmoji: false, // 是否禁用emoji解析
+        // 代码复制配置
+        copyCode: {
+          buttonText: { '/zh-cn/': '点击复制', '/': 'Copy to clipboard' },
+          errorText: { '/zh-cn/': '❌错误', '/': '❌Error' },
+          successText: { '/zh-cn/': '✅复制', '/': '✅Copied' },
+        },
+        // 字数统计配置
+        count: {
+          countable: true, // 设置字符统计展示与否
+          position: 'top', // 设置展示位置('top' | 'bottom')
+          float: 'right', // 设置元素对齐('right | 'top')
+          margin: '10px', // 设置与邻近DOM的距离
+          fontsize: '0.9em', // 设置字体大小
+          color: 'rgb(90,90,90)', // 设置颜色
+          language: i18n('chinese', 'english'), // 设置语言
+          localization: { words: '', minute: '' }, // 支持本土化
+          isExpected: true, // 是否显示预计阅读时长
+        },
+        // 分页导航配置
+        pagination: {
+          previousText: { '/zh-cn/': '上一章节', '/': 'PREVIOUS' }, // 上一个标签的文字
+          nextText: { '/zh-cn/': '下一章节', '/': 'NEXT' }, // 下一个标签的文字
+          crossChapter: true, // 是否允许导航至上一章/下一章
+          crossChapterText: true, // 显示章节名称
+        },
+        // 滚动回顶部配置
+        scrollToTop: {
+          auto: true, // 是否自动隐藏按钮
+          text: 'TOP', // 按钮文字
+          right: 20, // 按钮距离窗口右侧距离
+          bottom: 75, // 按钮距离窗口底部距离
+          offset: 500, // 页面滚动多少距离后显示按钮，当auto配置为true时才有效果
+        },
+        // 全文搜索配置
+        search: {
+          maxAge: 86400000, // （毫秒）过期时间一天
+          paths: 'auto',
+          depth: 6, // 允许创建的搜索索引块，定位到 6 级标题
+          placeholder: { '/zh-cn/': '🔎搜索', '/': '🔎Type to search' },
+          noData: { '/zh-cn/': '😞找不到结果', '/': '😞No Results' },
+          hideOtherSidebarContent: false, // 是否隐藏其他侧边栏内容
+          namespace: 'CloudNotes', // 同一域下的多个网站之间避免搜索索引冲突
+        },
+        // 分享按钮配置
+        share: {
+          reddit: true, // 是否显示Reddit分享按钮
+          linkedin: true, // 是否显示LinkedIn分享按钮
+          facebook: true, // 是否显示Facebook分享按钮
+          twitter: true, // 是否显示Twitter分享按钮
+          whatsapp: true, // 是否显示WhatsApp分享按钮
+          telegram: true, // 是否显示Telegram分享按钮
+          options: {
+            theme: 'open-window', // 分享按钮的主题：'default' | 'open-window' | 'slide-bar'
+            color: '#3ac295', // 分享按钮的颜色
+          },
+        },
+        // 选项卡配置
+        tabs: {
+          persist: true, // 确定页面刷新/重新访问后是否将恢复选项卡选择
+          sync: true, // 确定是否将在具有匹配标签的选项卡之间同步选项卡选择
+          theme: 'classic', // 设置选项卡主题
+          tabComments: true, // 确定是否可以使用选项卡注释定义选项卡集中的选项卡
+          tabHeadings: true, // 确定是否可以使用标题 + 粗体标记来定义选项卡集中的选项卡
+        },
+        // 更新时间配置
+        timeUpdater: {
+          text: `<div class="time-updater">${i18n('最后更新时间：', 'Last update time: ')}{docsify-updated}</div>`,
+          formatUpdated: i18n('{YYYY}年{MM}月{DD}日', '{YYYY}-{MM}-{DD}'),
+          whereToPlace: 'bottom',
+        },
+        // Docsify Darklight Theme配置
+        darklightTheme: {
+          defaultTheme: 'dark',
+          siteFont: 'PT Sans, Source Sans Pro',
+          codeFontFamily: 'Roboto Mono, Monaco, courier, monospace',
+          bodyFontSize: '16px',
+          dark: {
+            background: '#1a1a1c',
+            coverBackground: '#292a2e',
+            textColor: '#ced1db',
+            codeTextColor: '#dfe1e6',
+            codeTypeColor: '#dfe1e6',
+            codeBackgroundColor: '#464d6e',
+            borderColor: '#526ecc',
+            blockQuoteColor: '#a0a0a0',
+            highlightColor: '#ffffff',
+            accent: '#526ecc',
+            sidebarSublink: '#a0a0a0',
+            toogleBackground: '#ffffff',
+            toogleImage: 'url(//cdn.jsdelivr.net/npm/docsify-darklight-theme/icons/sun.svg)',
+          },
+          light: {
+            background: '#f7f7f9',
+            coverBackground: '#ffffff',
+            textColor: '#252b3a',
+            codeTextColor: '#dfe1e6',
+            codeTypeColor: '#dfe1e6',
+            codeBackgroundColor: '#464d6e',
+            borderColor: '#526ecc',
+            blockQuoteColor: '#575d6c',
+            highlightColor: '#ffffff',
+            accent: '#526ecc',
+            sidebarSublink: '#575d6c',
+            toogleBackground: '#091a28',
+            toogleImage: 'url(//cdn.jsdelivr.net/npm/docsify-darklight-theme/icons/moon.svg)',
+          },
+        },
+        // Docsify Themeable配置
+        themeable: {
+          readyTransition: true, // 确定在等待站点初始化时是否将显示加载指示器，然后在初始化完成后显示淡入淡出转换
+          responsiveTables: true, // 确定元素是否将在较小的屏幕上显示为响应式表
+        },
+        // 插件配置
+        plugins: [EditOnGithubPlugin.create(editPath, null, (file) => i18n('📝编辑', '📝Edit on GitHub', file))],
+        ga: 'pLPl8oqL0Adf4p5s9zT-pXnpfF-2TMlOTEjoDl7DpSY', // 谷歌分析
+      };
+    </script>
+    <!-- Vue 3.x -->
+    <!-- <script src="//cdn.jsdelivr.net/npm/vue@3/dist/vue.global.min.js"></script> -->
+    <!-- Docsify v4 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify"></script>
+    <!-- Docsify Themeable -->
+    <!-- <script src="//cdn.jsdelivr.net/npm/docsify-themeable/dist/js/docsify-themeable.min.js"></script> -->
+    <!-- Docsify Darklight Theme -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme/dist/index.min.js"></script>
+    <!-- 代码复制 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+    <!-- 字数统计 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-count/dist/countable.min.js"></script>
+    <!-- 添加页脚 -->
+    <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
+    <!-- 分页导航 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+    <!-- 代码格式化 -->
+    <script src="//cdn.jsdelivr.net/npm/prismjs/prism.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prism-themes/index.min.js"></script>
+    <!-- 滚动回顶部 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script>
+    <!-- 分享按钮 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-share/build/index.min.js"></script>
+    <!-- 标签页 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-tabs/dist/docsify-tabs.min.js"></script>
+    <!-- 更新时间 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
+    <!-- 表情插件 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+    <!-- 外链脚本 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
+    <!-- 全文搜索 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+    <!-- 图片缩放查看 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+    <!-- 站点访问统计 -->
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+    <!-- 谷歌分析 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
+    <!-- Gitalk评论 -->
+    <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+    <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+    <script>
+      const gitalk = new Gitalk({
+        clientID: '85511d2f778de8f13ace', // GitHub Application Client ID
+        clientSecret: '393663f0365d8edfdd9fa07a4cd1eecc6bd924ef',
+        repo: 'CloudNotes', // 存放评论的仓库
+        owner: 'yequanrui', // 仓库的创建者
+        admin: ['yequanrui'], // 如果仓库有多个人可以操作，那么在这里以数组形式写出
+        id: location.pathname, // 用于标记评论是哪个页面的
+        distractionFreeMode: true,
+      });
+    </script> -->
+    <!-- 注册离线模式 -->
+    <script>
+      typeof navigator.serviceWorker !== 'undefined' && navigator.serviceWorker.register('sw.js');
+    </script>
+  </body>
 </html>

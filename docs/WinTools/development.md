@@ -11,10 +11,11 @@
 | [Notepad3]       | [6.23.203.2][N3-Down](Win)            | 轻量级文本编辑器                  |
 | [Notepad4]       | [24.9.0.5472][N4-Down](Win)           | 基于Scintilla的轻量级文本编辑器   |
 | [NxShell]        | [1.9.3][NxShell-Down](Win/Mac/Linux)  | Linux下一代远程工具免费SSH客户端  |
-| [Rust]           | [1.85.0][Rust-Down]                   | 构建可靠且高效软件能力的语言      |
+| [NVM]            | [1.2.2][NVM-Down](Win)                | Node.js版本管理工具               |
+| [Rust]           | [1.88.0][Rust-Down]                   | 构建可靠且高效软件能力的语言      |
 | [Tabby]          | [1.0.207][Tabby-Down](Win/Mac/Linux)  | 基于TypeScript开发的终端模拟器    |
-| [VSCode]         | [1.105.0][VSCode-Down](Win/Mac/Linux) | 微软的轻量级编辑器                |
-| [微信开发者工具] | [1.06.2412050][WXD-Down]              | 简单高效地开发和调试微信小程序    |
+| [VSCode]         | [1.109.5][VSCode-Down](Win/Mac/Linux) | 微软的轻量级编辑器                |
+| [微信开发者工具] | [2.01.2510280][WXD-Down]              | 简单高效地开发和调试微信小程序    |
 
 [aardio]: https://www.aardio.com/ '跳转主页'
 [DBeaver]: https://dbeaver.io/ '跳转主页'
@@ -30,6 +31,8 @@
 [N3-Down]: https://www.rizonesoft.com/downloads/notepad3/ '跳转下载页'
 [Notepad4]: https://github.com/zufuliu/notepad4 '跳转主页'
 [N4-Down]: https://github.com/zufuliu/notepad4/releases '跳转下载页'
+[NVM]: https://www.nvmnode.com/ '跳转主页'
+[NVM-Down]: https://github.com/coreybutler/nvm-windows/releases '跳转下载页'
 [NxShell]: https://nxshell.github.io/ '跳转主页'
 [NxShell-Down]: https://github.com/nxshell/nxshell '跳转下载页'
 [Rust]: https://www.rust-lang.org/ '跳转主页'
