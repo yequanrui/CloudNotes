@@ -21,7 +21,9 @@
 [![docsify-share](https://img.shields.io/npm/v/docsify-share?label=docsify-share)](https://github.com/coroo/docsify-share '跳转主页')
 [![docsify-tabs](https://img.shields.io/npm/v/docsify-tabs?label=docsify-tabs)](https://github.com/jhildenbiddle/docsify-tabs '跳转主页')
 [![docsify-updated](https://img.shields.io/npm/v/docsify-updated?label=docsify-updated)](https://github.com/pfeak/docsify-updated '跳转主页')
+[![prismjs](https://img.shields.io/npm/v/prismjs?label=prismjs)](https://prismjs.com/ '跳转主页')
 
 ## 主题
 
 [![docsify-darklight-theme](https://img.shields.io/npm/v/docsify-darklight-theme?label=docsify-darklight-theme)](https://github.com/boopathikumar018/docsify-darklight-theme '跳转主页')
+[![prism-themes](https://img.shields.io/npm/v/prism-themes?label=prism-themes)](https://github.com/PrismJS/prism-themes '跳转主页')

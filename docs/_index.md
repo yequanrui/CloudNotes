@@ -21,7 +21,9 @@
 [![docsify-share](https://img.shields.io/npm/v/docsify-share?label=docsify-share)](https://github.com/coroo/docsify-share 'Go to homepage')
 [![docsify-tabs](https://img.shields.io/npm/v/docsify-tabs?label=docsify-tabs)](https://github.com/jhildenbiddle/docsify-tabs 'Go to homepage')
 [![docsify-updated](https://img.shields.io/npm/v/docsify-updated?label=docsify-updated)](https://github.com/pfeak/docsify-updated 'Go to homepage')
+[![prismjs](https://img.shields.io/npm/v/prismjs?label=prismjs)](https://prismjs.com/ 'Go to homepage')
 
 ## Themes
 
 [![docsify-darklight-theme](https://img.shields.io/npm/v/docsify-darklight-theme?label=docsify-darklight-theme)](https://github.com/boopathikumar018/docsify-darklight-theme 'Go to homepage')
+[![prism-themes](https://img.shields.io/npm/v/prism-themes?label=prism-themes)](https://github.com/PrismJS/prism-themes 'Go to homepage')
