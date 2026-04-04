@@ -44,8 +44,8 @@
 | 📱MiXplorer                 | 6.49.5             |                                                                    |
 | 📱MotionNinja视频AE特效制作 | 5.3.7              | 制作专业的视频特效                                                 |
 | 📱MOVIES                    | 1.1.5              |                                                                    |
-| 📱[MT管理器]                | 2.16.5             |                                                                    |
-| 📱[MusicFree]               | 0.6.2              | 插件化的音乐播放器(插件: [1][MF1]/[2][MF2]/[3][MF3])               |
+| 📱MT管理器                  | 2.18.0             |                                                                    |
+| 📱[MusicFree]               | 0.6.2              | 插件化的音乐播放器(插件: [1][MF1]/[2][MF2]/[3][MF3]/[4][MF4])      |
 | 📱[MJ PDF]                  | 2.1.2              | 功能强大的手机PDF阅读工具                                          |
 | 📱omofun                    | 1.1.4              | 可以持续更新可以看动漫的App                                        |
 | 📱My PDF                    | 1.2.0              | PDF处理工具                                                        |
@@ -65,7 +65,6 @@
 | 📱[SKIP]                    | 3.0.0              | 自动跳过APP开屏广告                                                |
 | 📱[Stellarium Mobile]       | 1.29               | 夜空天文学模拟系统工具                                             |
 | 📱[Super文件]               | 1.4.8.1            | 原`Esuper文件`，功能齐全且使用轻松的文件资源管理器                 |
-| 📱📺TG音乐台                | 5.2.1              | 10万+音乐TV盒子                                                    |
 | 📱📺TV                      | 3.0.2.24906        |                                                                    |
 | 📱[uz影视]                  | 1.6.56             | 聚合型的影视APP(视频源: [1][UZ1])                                  |
 | 📱Viddo                     | 3.1.0.2            | 内置超多AI数字人模板，自定义图片生成数字人视频                     |
@@ -73,12 +72,12 @@
 | 📱Vmake                     | 1.1.630            |                                                                    |
 | 📱📺WebView电视             | 1.10.3             |                                                                    |
 | 📱WPS Office                | 17.3.2             |                                                                    |
-| 📱[爱其意]                  | 1.2.1              | 初闻不识剧中意，再赏已是剧中人                                     |
+| 📱[爱其意]                  | 1.3.2              | 初闻不识剧中意，再赏已是剧中人                                     |
 | 📱艾跳跳                    | 2.0.1              | 证件照制作软件                                                     |
 | 📱[岸听音乐]                | 2.7-beta           | 原`卡的工具箱`APP                                                  |
 | 📱[傲软抠图]                | 1.8.1              |                                                                    |
 | 📱表情包生成器              | 1.8.6              |                                                                    |
-| 📱[布丁扫描]                | 3.4.2.2            | 免费专业的扫描APP                                                  |
+| 📱[布丁扫描]                | 3.6.2.1            | 免费专业的扫描APP                                                  |
 | 📱布谷鸟配音                | 1.10.10.0          | 智能拟人配音工具                                                   |
 | 📱仓鼠4K                    | 4.1.2              | 专为影视爱好者打造的高清观影平台                                   |
 | 📱车学堂                    | 5.8.4              | 提供科目一和科目四的专项练习                                       |
@@ -119,7 +118,7 @@
 | 📱[京墨]                    | 1.13.0             | 开源的中华传统文化的阅读APP                                        |
 | 📱[剧追追]                  | 1.3.9              | 原`V影视`、`橙心视频`APP                                           |
 | 📱[开拍]                    | 2.0.40             |                                                                    |
-| 📱📺[可可影视]              | 3.2.2              |                                                                    |
+| 📱📺[可可影视]              | 3.4.0              |                                                                    |
 | 📱[可乐下载器]              | 2.0.5              | 纯净简洁无广，支持多种链接和多任务下载                             |
 | 📱[酷控智能遥控]            | 2.5.2              | 功能强大的智能遥控手机软件                                         |
 | 📱夸父工具箱                | 1.0.6              | 手机工具箱                                                         |
@@ -236,15 +235,15 @@
 | 📱📺[悠兔电视]              | 2.3.4              | 聚合电视台直播APP                                                  |
 | 📱[有来急救百科]            | 1.0.72             | 专业急救科普软件                                                   |
 | 📱[宇宙工具箱]              | 2.7.1              | 迄今为止最强的安卓工具箱软件                                       |
+| 📱[元力音乐]                | 1.3.3              | 免费无损听歌下载软件(音源: [1][YL1]/[2][LX2]/[3][LX3])             |
 | 📱[远航工具箱]              | 7.1.3              |                                                                    |
 | 📱[阅读]                    | 3.25               | 自定义来源阅读网络内容工具(书源: [1][YD1]/[2][YD2])                |
 | 📱📺[云海影视]              | 4.5                |                                                                    |
 | 📱照片时光机                | 2.0.0              | 一键修复高清照片，模糊补帧，照片特效                               |
 | 📱证件照极拍                | 1.0.0              |                                                                    |
 | 📱📺直播电视                | VIP20241010        |                                                                    |
-| 📱[只音]                    | 3.1.0              | 简洁清爽的在线听歌软件                                             |
 | 📱📺智能K歌                 | 4.16.70.2303211104 | 非常好用的电视K歌软件                                              |
-| 📱[智能工具]                | 20.8               |                                                                    |
+| 📱智能工具                  | 20.8               |                                                                    |
 | 📱中草药宝典                | 2.5                |                                                                    |
 | 📱中国法律法规              | 9.6.0              |                                                                    |
 | 📱中醫生活                  | 1.0.2              |                                                                    |
@@ -273,11 +272,11 @@
 [Logo设计专家]: https://liangziliu.lanzoux.com/ip5kd231m9mf '跳转下载页'
 [Material Files]: https://github.com/zhanghai/MaterialFiles '跳转主页'
 [MixFile]: https://fy6b.lanzouq.com/b0xvojj7e '跳转下载页'
-[MT管理器]: https://wwpu.lanzouo.com/i9V9b2877ing '跳转下载页'
 [MusicFree]: https://musicfree.catcat.work/ '跳转主页'
-[MF1]: https://file.ddot.top/files/67949ad4eed3d/musicfree.json
-[MF2]: https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/ghyinyue.js
-[MF3]: https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json
+[MF1]: https://gitlab.com/acoolbook/musicfree/-/raw/main/music.json
+[MF2]: https://gitlab.com/acoolbook/musicfree/-/raw/main/music.json
+[MF3]: https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins.json
+[MF4]: https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json
 [MJ PDF]: https://fy6b.lanzouq.com/iaRd42ill00d '跳转下载页'
 [OPlayer]: https://www.yxssp.com/download.php?author=pojie&btitle=%E5%BC%82%E6%98%9F%E8%BD%AF%E4%BB%B6%E7%A9%BA%E9%97%B4&id=24413 '跳转下载页'
 [Phonograph Plus]: https://github.com/chr56/Phonograph_Plus '跳转主页'
@@ -306,7 +305,7 @@
 [京墨]: https://github.com/hefengbao/jingmo '跳转主页'
 [剧追追]: https://juzz.top/ '跳转下载页'
 [开拍]: https://drive.uc.cn/s/1e1adadcd1b34 '跳转下载页'
-[可可影视]: https://dl.kkys3.com:51111/ '跳转下载页'
+[可可影视]: https://dl.kkys03.com/ '跳转下载页'
 [可乐下载器]: https://xingxingbt.lanzoum.com/s/btkele '跳转下载页'
 [酷控智能遥控]: https://wwpu.lanzouo.com/iHkLM2858ahg '跳转下载页'
 [快找资源-Plus]: https://www.lanzouo.com/b05pa9a2h '跳转下载页'
@@ -356,10 +355,10 @@
 [悠兔电视]: http://kgq.youtu8.cn/ '跳转主页'
 [有来急救百科]: https://fy6b.lanzouq.com/ilO4o2fvojah '跳转下载页'
 [宇宙工具箱]: https://www.lanzoui.com/b02cnadsj '跳转下载页'
+[元力音乐]: https://yuanlimusic.github.io/ '跳转主页'
+[YL1]: http://music.haitangw.net/元力音乐.json
 [远航工具箱]: https://wwl.lanzouj.com/iN27A1wzspbi '跳转下载页'
 [阅读]: https://gedoor.github.io/ '跳转主页'
 [云海影视]: https://magicalstory.lanzout.com/iGRZY295s0xi '跳转下载页'
 [YD1]: https://shuyuan.yiove.com/complex
 [YD2]: https://yckceo.vip/
-[只音]: https://wwbop.lanzouw.com/i7HwS3h39wyj '跳转下载页'
-[智能工具]: https://healer.lanzoub.com/iqGJG1pb7r2j '跳转下载页'

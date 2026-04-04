@@ -3,17 +3,17 @@
 | Name            | Version                    | Description            |
 | :-------------- | :------------------------- | :--------------------- |
 | [CentOS]        | [8.5.2111][CentOS-Down]    | 社区企业操作系统       |
-| [Debian]        | [12.7.0][Debian-Down]      | 自由的开源操作系统     |
-| [Deepin]        | [23][Deepin-Down]          | 深度桌面操作系统       |
+| [Debian]        | [13.3.0][Debian-Down]      | 自由的开源操作系统     |
+| [Deepin]        | [25.0.10][Deepin-Down]     | 深度桌面操作系统       |
 | [Elementary OS] | 7.1                        | 简约优雅的操作系统     |
 | [Fedora]        | [40][Fedora-Down]          | 创新安全的操作系统     |
-| [Linux Lite]    | [7.0][Linux Lite-Down]     | 自由的开源操作系统     |
-| [Linux Mint]    | [22][Linux Mint-Down]      | 易用的免费操作系统     |
+| [Linux Lite]    | [7.8][Linux Lite-Down]     | 自由的开源操作系统     |
+| [Linux Mint]    | [22.3][Linux Mint-Down]    | 易用的免费操作系统     |
 | [Manjaro]       | [24.0.7][Manjaro-Down]     | 隐私至上的自由操作系统 |
 | [OpenSUSE Leap] | [15.6][OpenSUSE Leap-Down] | 高效的企业操作系统     |
 | [RedHat]        | [9.4][RedHat-Down]         | 领先的企业操作系统     |
-| [Ubuntu]        | [24.04.1][Ubuntu-Down]     | 开源的桌面操作系统     |
-| [Ubuntu Kylin]  | [24.04][Ubuntu Kylin-Down] | 优麒麟桌面操作系统     |
+| [Ubuntu]        | [25.10][Ubuntu-Down]       | 开源的桌面操作系统     |
+| [Ubuntu Kylin]  | [25.10][Ubuntu Kylin-Down] | 优麒麟桌面操作系统     |
 | [Zorin OS]      | [17.1][Zorin OS-Down]      | 高效兼容的操作系统     |
 
 [CentOS]: https://www.centos.org/ '跳转主页'

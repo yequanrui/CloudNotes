@@ -1,13 +1,13 @@
 > 桌面美化
 
-| Name                  | Version                       | Description              |
-| :-------------------- | :---------------------------- | :----------------------- |
-| [Dawn Launcher]       | [1.4.8][DL-Down](Win)         | Windows快捷启动工具      |
-| [DesktopClock3D]      | [2.44][DC-Down](Win)          | 桌面3D时钟               |
-| [DesktopDigitalClock] | [6.19][DDC-Down](Win)         | 桌面数字时钟             |
-| [DesktopOK]           | [12.31][DO-Down](Win)         | 桌面图标布局保存工具     |
-| [DesktopSnowOK]       | [6.77][DSO-Down](Win)         | 桌面下雪工具             |
-| [MayeLite]            | [12.8.0.250416][ML-Down](Win) | 更轻更简洁的快速启动工具 |
+| Name                  | Version                      | Description              |
+| :-------------------- | :--------------------------- | :----------------------- |
+| [Dawn Launcher]       | [1.5.2][DL-Down](Win)        | Windows快捷启动工具      |
+| [DesktopClock3D]      | [2.44][DC-Down](Win)         | 桌面3D时钟               |
+| [DesktopDigitalClock] | [6.19][DDC-Down](Win)        | 桌面数字时钟             |
+| [DesktopOK]           | [12.44][DO-Down](Win)        | 桌面图标布局保存工具     |
+| [DesktopSnowOK]       | [6.91][DSO-Down](Win)        | 桌面下雪工具             |
+| [MayeNano]            | [5.0.0.260404][MN-Down](Win) | 专注于快速启动的纯粹工具 |
 
 [Dawn Launcher]: https://dawnlauncher.com/ '跳转主页'
 [DL-Down]: https://github.com/fanchenio/DawnLauncher/releases '跳转下载页'
@@ -19,5 +19,5 @@
 [DO-Down]: https://www.softwareok.com/?Download=DesktopOK '跳转下载页'
 [DesktopSnowOK]: https://www.softwareok.com/?seite=Freeware/DesktopSnowOK '跳转主页'
 [DSO-Down]: https://www.softwareok.com/?Download=DesktopSnowOK '跳转下载页'
-[MayeLite]: https://t.arae.cc/p-25804/ '跳转主页'
-[ML-Down]: https://github.com/25H/MayeLite/releases '跳转下载页'
+[MayeNano]: https://t.arae.cc/p-25933/ '跳转主页'
+[MN-Down]: https://github.com/25H/MayeNano/releases/ '跳转下载页'
