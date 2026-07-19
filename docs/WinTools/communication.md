@@ -2,11 +2,11 @@
 
 | Name               | Version                 | Description                            |
 | :----------------- | :---------------------- | :------------------------------------- |
-| [BetterWX-UI]      | [3.2.2][BW-Down]        | 微信多开、防撤回提示、多账号免扫码登录 |
+| [BetterWX-UI]      | [3.3.3][BW-Down]        | 微信多开、防撤回提示、多账号免扫码登录 |
 | CallRecording      | 1.0.0.0                 | 微信通话录音                           |
-| [Cherry Studio]    | [1.5.1.0][CS-Down]      | 全能AI助手平台                         |
-| [QQ]               | [9.7.23.29392][QQ-Down] | 即时通讯软件                           |
-| [RevokeMsgPatcher] | [2.0][RMP-Down]         | 微信/QQ/TIM防撤回补丁                  |
+| [Cherry Studio]    | [1.9.11][CS-Down]       | 全能AI助手平台                         |
+| [QQ]               | [9.7.23.29406][QQ-Down] | 即时通讯软件                           |
+| [RevokeMsgPatcher] | [2.1][RMP-Down]         | 微信/QQ/TIM防撤回补丁                  |
 | [Telegram]         | 2.3.1                   | 消息传递程序                           |
 | [WeChat]           | [3.9.12.15][WC-Down]    | 微信，一款跨平台的通讯工具             |
 | [wechatDataBackup] | [1.2.3][WDB-Down]       | PC微信聊天记录数据导出工具             |
@@ -18,7 +18,7 @@
 | 飞秋               | 3.0.0.2                 | 局域网即时聊天                         |
 
 [BetterWX-UI]: https://github.com/afaa1991/BetterWx-UI '跳转主页'
-[BW-Down]: https://www.123865.com/s/734rVv-nvh4H '跳转下载页'
+[BW-Down]: https://wwtt.lanzn.com/b0pmh8e1i '跳转下载页，密码：52pj'
 [Cherry Studio]: https://github.com/CherryHQ/cherry-studio '跳转主页'
 [CS-Down]: https://www.cherry-ai.com/download '跳转下载页'
 [QQ]: https://im.qq.com/index/ '跳转主页'

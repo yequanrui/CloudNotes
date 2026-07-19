@@ -13,10 +13,10 @@
 | [IQIYI]         | [2.0.0.0][IQY-Down]      | 爱奇艺视频                       |
 | [Iris]          | [1.5.2][I-Down]          | 轻量级视频播放器                 |
 | [jianpian]      | 4.2.3.53                 | 看片神器                         |
-| [Kazumi]        | [1.9.3.0][K-Down]        | 基于自定义规则的番剧采集 APP     |
+| [Kazumi]        | [2.1.8][K-Down]          | 基于自定义规则的番剧采集 APP     |
 | [KGMusic]       | [10.0.53.24820][KG-Down] | 酷狗音乐                         |
 | [KwMusic]       | [5.0.0.0][KW-Down]       | 酷我音乐                         |
-| [MoeKoe Music]  | [1.5.4][MK-Down]         | 简洁高颜值的酷狗第三方客户端     |
+| [MoeKoe Music]  | [1.6.7][MK-Down]         | 简洁高颜值的酷狗第三方客户端     |
 | [MusicFree]     | [0.0.8.0][MF-Down]       | 插件化的音乐播放器               |
 | [Opal]          | [1.5.0][O-Down]          | 环境音播放工具                   |
 | [PotPlayer]     | [1.7.22224][PP-Down]     | 免费影音全能格式播放器           |
@@ -27,7 +27,7 @@
 | [SPlayer]       | [3.0.0-beta.8][SP-Down]  | 简约的第三方网易云音乐播放器     |
 | TTPlayer        | [5.7.9.0][TP-Down]       | 千千静听                         |
 | [Youku]         | [8.1.0.1280][YK-Down]    | 优酷视频                         |
-| [洛雪音乐助手]  | [2.12.0.0][LX-Down]      | 基于`Electron+Vue`开发的音乐软件 |
+| [洛雪音乐助手]  | [2.12.2.0][LX-Down]      | 基于`Electron+Vue`开发的音乐软件 |
 
 [AIMP]: https://www.aimp.ru/ '跳转主页'
 [A-Down]: https://pan.quark.cn/s/c9eb4877052a '跳转下载页'
